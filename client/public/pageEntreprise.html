@@ -6,9 +6,9 @@
   <title>Document</title>
 </head>
 <body>
-
     <nav>
-        <a href="#Accueil">Accueil</a>
+         <img src="assets/image/Image1.png" alt="formation" width="300">
+        <a href="Accueil.html">Accueil</a>
         <a href="#A propos">A propos</a>
         <a href="#Nos Formations">Nos Formations</a>
         <a href="#Nos Références">Nos Références</a>
@@ -16,14 +16,11 @@
         <a href="#Contact">Contact</a>
         <a href="#info">Demande d'information</a>
     </nav>
-
-    <h2 id="Accueil">Accueil</h2>
-        <p><a href="Accueil.html">Page d'accueil</a></p>
-
+    <h2>Informica Entreprise</h2>
     <h2 id="A propos">A propos</h2>
         <p>EFP INFORMICA est une école de formation professionnelle agréée par l'État, située à
         Boumerdès et proche de toutes commodités.
-        Notre équipe, composée d’environ une centaine de collaborateurs, comprend des experts,
+        Notre équipe, composée d'environ une centaine de collaborateurs, comprend des experts,
         consultants formateurs hautement qualifiés, anciens cadres du milieu professionnel,
         enseignants universitaires et autres professionnels aguerris.
         Renforcés par un personnel dynamique et compétent, nous sommes entièrement dévoués à
@@ -31,19 +28,10 @@
         Notre principale mission est de vous fournir les formations nécessaires à vos besoins de
         développement professionnel : formations qualifiantes, continues, de recyclage et de
         sensibilisation, en présentiel ou à distance.</p>
-
-    <h2 id="nos-formations">Nos Formations</h2>
-        
-        <ul>
-            <li><a href="#domain1">MANAGEMENT / DÉVELOPPEMENT PERSONNEL</a></li>
-            <li><a href="#domain2">GRH : GESTION DES RESSOURCES HUMAINES</a></li>
-            <li><a href="#domain3">COMPTABILITÉ / FINANCE / JURIDIQUE</a></li>
-            <li><a href="#domain4">Commercial / Marketing</a></li>
-            <li><a href="#domain5">INFORMATIQUE / TÉLÉCOMMUNICATION</a></li>
-            <li><a href="#domain6">QHSE : QUALITÉ, HYGIÈNE, SÉCURITÉ ET ENVIRONNEMENT</a></li>
-            <li><a href="#domain7">LES LANGUES À DES FINS SPÉCIFIQUES</a></li>
-
-        </ul>
+    <section class="category"
+    <a href="formationsEntreprise.html" class="btn btn-primary mt-4">
+  Voir toutes les formations
+    </a>
 
     <h2 id="nos-references">Nos Références</h2>
        <p></p>
@@ -64,7 +52,7 @@
     <h2 id="info">Demande d'information</h2>
         <form>
 
-    <label for="entreprise">Nom de l'entreprise </label><br>
+    <label for="entreprise">Nom de l'entreprise (obligatoire) </label><br>
     <input type="text" id="entreprise" name="entreprise"><br><br>
 
     <label for="responsable">Nom du responsable </label><br>
@@ -73,15 +61,18 @@
     <label for="fonction">Fonction </label><br>
     <input type="text" id="fonction" name="fonction"><br><br>
 
-    <label for="email">Email </label><br>
+    <label for="email">Email (obligatoire) </label><br>
     <input type="email" id="email" name="email"><br><br>
 
-    <label for="message">Message / Demande </label><br>
+    <label for="message">Message / Demande (obligatoire) </label><br>
     <textarea id="message" name="message" rows="4" cols="30"></textarea><br><br>
 
     <input type="submit" value="Envoyer">
 
   </form>
+<footer class="bg-gray-200 text-center text-sm py-4">
+    © 2025 INFORMICA - Tous droits réservés
+  </footer>
 
 </body>
 </html>
