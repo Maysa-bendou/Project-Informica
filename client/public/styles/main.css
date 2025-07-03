@@ -1,18 +1,36 @@
-/* Reset some defaults */
-body {
+/* Reset and base */
+html, body {
   margin: 0;
+  padding: 0;
+  height: 100%;
   font-family: Arial, sans-serif;
-  background: #f9f9f9;
-  color: #333;
 }
 
-/* Header styling */
+/* Wrapper for page content */
+.page-wrapper {
+  padding-top: 80px;  /* for fixed header */
+  padding-bottom: 60px; /* for fixed footer */
+  min-height: 100vh;
+  background-image: url('../assets/image/formation1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Header fixed at top */
 header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  background-color: #fff;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 20px 40px;
-  background-color: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
 }
 
 header img {
@@ -25,16 +43,9 @@ header h2 {
 }
 
 header p {
-  margin: 5px 0 0 0;
+  margin: 5px 0 0;
   font-size: 14px;
   color: #333;
-}
-
-header a {
-  text-decoration: none;
-  margin-right: 20px;
-  color: #1a1a5e;
-  font-weight: bold;
 }
 
 header span {
@@ -43,35 +54,57 @@ header span {
   margin-left: 20px;
 }
 
-/* Navigation links (Accueil only for now) */
-header a:hover {
-  text-decoration: underline;
+/* Title */
+.title-center {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
 }
 
-/* Main section styling */
+.title-center h1 {
+  font-size: 28px;
+  color: #1a1a5e;
+}
+
+.title-center p {
+  font-size: 14px;
+  color: #444;
+}
+
+/* Main section */
 main {
-  padding: 40px;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
 }
 
+/* Cards section */
 section {
   display: flex;
-  gap: 40px;
-  background: #fff;
-  padding: 40px;
+  gap: 30px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 30px;
   border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
+/* Card styling */
 section div {
-  background: #f5f5f5;
-  padding: 20px;
+  background: #e0e0e0;
+  padding: 16px;
   border-radius: 8px;
-  width: 250px;
+  width: 220px;
   text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+section div:hover {
+  transform: translateY(10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Button style */
 section div button {
   background-color: #007bff;
   color: white;
@@ -80,6 +113,13 @@ section div button {
   border-radius: 20px;
   cursor: pointer;
   margin-bottom: 10px;
+  font-size: 16px;
+  transition: 0.3s ease;
+}
+
+section div button:hover {
+  background-color: #0056b3;
+  transform: scale(1.1);
 }
 
 section div button a {
@@ -87,16 +127,43 @@ section div button a {
   text-decoration: none;
 }
 
+/* Paragraph hidden until hover */
 section div p {
-  font-size: 14px;
+  font-size: 13px;
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: 0.3s ease;
 }
 
-/* Footer styling */
+section div:hover p {
+  opacity: 1;
+  max-height: 100px;
+}
+
+/* ✅ Footer fixed at bottom */
 footer {
-  margin-top: 40px;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%; /* 👈 You can adjust this */
+  height: auto;
   background: #e5e5e5;
   text-align: center;
-  padding: 20px;
-  font-size: 12px;
+  padding: 12px 20px;
+  font-size: 13px;
   color: #555;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
 }
+
+
+
+
+
+
+
+
+
