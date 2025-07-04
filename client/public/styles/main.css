@@ -1,169 +1,229 @@
-/* Reset and base */
-html, body {
+/* General Reset */
+* {
   margin: 0;
   padding: 0;
-  height: 100%;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
   font-family: Arial, sans-serif;
-}
-
-/* Wrapper for page content */
-.page-wrapper {
-  padding-top: 80px;  /* for fixed header */
-  padding-bottom: 60px; /* for fixed footer */
-  min-height: 100vh;
-  background-image: url('../assets/image/formation1.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-/* Header fixed at top */
-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 80px;
-  background-color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px 40px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
-}
-
-header img {
-  width: 170px;
-}
-
-header h2 {
-  margin: 0;
-  color: #1a1a5e;
-}
-
-header p {
-  margin: 5px 0 0;
-  font-size: 14px;
+  background-color: #f9f9f9;
+  line-height: 1.6;
   color: #333;
 }
 
-header span {
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
+/* Header with Logo */
+header {
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Title */
+header img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Page Wrapper */
+.page-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Title Section */
 .title-center {
   text-align: center;
-  margin-top: 40px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .title-center h1 {
-  font-size: 28px;
-  color: #1a1a5e;
+  font-size: 32px;
+  color: #1e3a8a;
 }
 
 .title-center p {
-  font-size: 14px;
-  color: #444;
+  font-size: 18px;
+  color: #555;
 }
 
-/* Main section */
-main {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 30px;
-}
-
-/* Cards section */
+/* Section Buttons */
 section {
   display: flex;
-  gap: 30px;
-  background: rgba(255, 255, 255, 0.9);
-  padding: 30px;
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-/* Card styling */
 section div {
-  background: #e0e0e0;
-  padding: 16px;
-  border-radius: 8px;
-  width: 220px;
+  flex: 1 1 300px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
   text-align: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-section div:hover {
-  transform: translateY(10px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-}
-
-/* Button style */
-section div button {
-  background-color: #007bff;
-  color: white;
-  border: none;
+section button {
   padding: 10px 20px;
-  border-radius: 20px;
-  cursor: pointer;
+  background-color: #1e3a8a;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
   margin-bottom: 10px;
+  cursor: pointer;
   font-size: 16px;
-  transition: 0.3s ease;
 }
 
-section div button:hover {
-  background-color: #0056b3;
-  transform: scale(1.1);
+section button:hover {
+  background-color: #2c5282;
 }
 
-section div button a {
+section button a {
   color: white;
   text-decoration: none;
 }
 
-/* Paragraph hidden until hover */
-section div p {
-  font-size: 13px;
-  opacity: 0;
-  max-height: 0;
-  overflow: hidden;
-  transition: 0.3s ease;
-}
-
-section div:hover p {
-  opacity: 1;
-  max-height: 100px;
-}
-
-/* ✅ Footer fixed at bottom */
+/* Footer */
 footer {
-  position: fixed;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 100%; /* 👈 You can adjust this */
-  height: auto;
-  background: #e5e5e5;
-  text-align: center;
-  padding: 12px 20px;
-  font-size: 13px;
-  color: #555;
-  border-radius: 10px 10px 0 0;
-  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
+  background-color: #1e3a8a;
+  color: white;
+  margin-top: 60px;
 }
 
+.footer-columns {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  font-size: 14px;
+}
 
+.footer-columns > div {
+  flex: 1 1 250px;
+}
 
+.footer-columns h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
 
+.footer-columns ul {
+  list-style: none;
+  padding: 0;
+}
 
+.footer-columns li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
 
+.footer-columns a {
+  color: white;
+  text-decoration: none;
+}
 
+.footer-columns a:hover {
+  text-decoration: underline;
+}
 
+.footer-icon {
+  width: 20px;
+  height: 20px;
+}
 
+/* Footer Bottom */
+footer .text-center {
+  text-align: center;
+  color: #cbd5e0;
+  font-size: 12px;
+  padding: 20px;
+  border-top: 1px solid #334155;
+}
+
+/* Footer Social Links */
+.social-links {
+  list-style: none;
+  padding: 0;
+}
+
+.social-links li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.social-link {
+  color: white;
+  text-decoration: none;
+}
+
+.social-link:hover {
+  text-decoration: underline;
+}
+
+/* ✅ ✅ ✅ Footer columns layout & indent fix */
+@media (min-width: 768px) {
+  footer .max-w-6xl {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  footer .max-w-6xl > div {
+    flex: 1 1 250px;
+  }
+
+  footer .max-w-6xl > div h3 {
+    text-align: center;
+  }
+
+  footer .max-w-6xl > div:nth-child(1) {
+    text-align: left;
+  }
+
+  footer .max-w-6xl > div:nth-child(2) {
+    text-align: center;
+  }
+
+  footer .max-w-6xl > div:nth-child(3) {
+    text-align: left;
+  }
+
+  footer .max-w-6xl > div:nth-child(1) ul,
+  footer .max-w-6xl > div:nth-child(1) p {
+    padding-left: 2cm;
+  }
+
+  footer .max-w-6xl > div:nth-child(3) ul,
+  footer .max-w-6xl > div:nth-child(3) p {
+    padding-left: 2cm;
+  }
+
+  footer .max-w-6xl > div:nth-child(3) li {
+    justify-content: flex-start;
+  }
+
+  footer .max-w-6xl > div:nth-child(1) ul li a,
+  footer .max-w-6xl > div:nth-child(1) ul li,
+  footer .max-w-6xl > div:nth-child(1) p {
+    color: white;
+  }
+
+  /* ✅ Make second column link a custom color */
+  footer .max-w-6xl > div:nth-child(2) a {
+    color: #FFD700; /* change to any color you want */
+  }
+
+  footer .max-w-6xl > div:nth-child(2) a:hover {
+    text-decoration: underline;
+  }
+}
