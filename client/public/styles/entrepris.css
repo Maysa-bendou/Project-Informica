@@ -1,0 +1,141 @@
+/* Base Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Make body and html take full height */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main content should grow to push footer down */
+main {
+  flex: 1;
+  padding-bottom: 100px;
+}
+
+/* Fixed Header */
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #f5f5f5;
+
+  padding: 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.6cm; /* creates 3cm space between h2 and nav */
+}
+
+/* Image to the left */
+header img {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 200px;
+}
+
+/* Title centered on top */
+header h2 {
+  font-size: 30px;
+  color: #004080;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+}
+
+/* Nav positioned 5cm to the right of logo using margin-left */
+header nav {
+  margin-left: calc(200px + 4cm); /* 200px image + 5cm space */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 5px 10px;
+  border-radius: 8px;
+  width: fit-content;
+}
+
+/* Links */
+header nav a {
+  color: #004080;
+  text-decoration: none;
+  padding: 5px 15px;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+header nav a:hover {
+  background-color: #dde0e3;
+}
+
+/* Section Styling */
+section {
+  height: 100vh;
+  scroll-snap-align: start;
+  padding: 120px 30px 30px; /* top padding to avoid overlap with nav */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+h2 {
+  font-size: 32px;
+  color: #004080;
+  margin-bottom: 20px;
+}
+
+p {
+  max-width: 800px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+/* Form Styling */
+form {
+  max-width: 800px;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+form input[type="submit"] {
+  background-color: #004080;
+  color: white;
+  cursor: pointer;
+  border: none;
+}
+
+form input[type="submit"]:hover {
+  background-color: #0066cc;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #f2f2f2;
+  bottom:0;
+}
+
+
+
+

@@ -1,24 +1,32 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Informica Entreprise</title>
+  <link rel="stylesheet" href="styles/entrepris.css" />
 </head>
 <body>
-    <nav>
-         <img src="assets/image/Image1.png" alt="formation" width="300">
-        <a href="Accueil.html">Accueil</a>
-        <a href="#A propos">A propos</a>
-        <a href="#Nos Formations">Nos Formations</a>
-        <a href="#Nos Références">Nos Références</a>
-        <a href="#Actualités">Actualités</a>
-        <a href="#Contact">Contact</a>
-        <a href="#info">Demande d'information</a>
+  <header>
+    <h2>Formations Entreprise</h2>
+    <img src="assets/image/Image1.png" alt="formation" width="250" />
+    <nav>  
+      <a href="Accueil.html">Accuiel</a>
+      <a href="#A_propos">A propos</a>
+      <a href="formationsEntreprise.html">Nos Formations</a>
+      <a href="#Nos_Références">Nos Références</a>
+      <a href="#Actualités">Actualités</a>
+      <a href="#Contact">Contact</a>
+      <a href="#info">Demande d'information</a>
     </nav>
-    <h2>Informica Entreprise</h2>
-    <h2 id="A propos">A propos</h2>
-        <p>EFP INFORMICA est une école de formation professionnelle agréée par l'État, située à
+  </header>
+
+  <main>
+
+    <section id="A_propos">
+      <h2>A propos</h2>
+      <p>EFP INFORMICA est une école de formation professionnelle agréée par l'État, située à
         Boumerdès et proche de toutes commodités.
         Notre équipe, composée d'environ une centaine de collaborateurs, comprend des experts,
         consultants formateurs hautement qualifiés, anciens cadres du milieu professionnel,
@@ -27,53 +35,61 @@
         vous offrir un service de qualité.
         Notre principale mission est de vous fournir les formations nécessaires à vos besoins de
         développement professionnel : formations qualifiantes, continues, de recyclage et de
-        sensibilisation, en présentiel ou à distance.</p>
-    <section class="category"
-    <a href="formationsEntreprise.html" class="btn btn-primary mt-4">
-  Voir toutes les formations
-    </a>
+        sensibilisation, en présentiel ou à distance.
+      </p>
+    </section>
 
-    <h2 id="nos-references">Nos Références</h2>
-       <p></p>
+    <section id="Nos_Références">
+      <h2>Nos Références</h2>
+      <p>...............</p>
+    </section>
 
-    <h2 id="Actualités">Actualités</h2>
-       <p></p>
+    <section id="Actualités">
+      <h2>Actualités</h2>
+      <p>................</p>
+    </section>
 
-    <h2 id="Contact">Contact</h2>
-        <p>📞 Téléphones : 0661 83 23 78 / 0661 57 93 35 / 0774 37 32 71</p>
-        <p>✉️ Email : efp.informica@gmail.com</p>
-        <p>📍 Location:
-            Dvision 4, Gr Pr no 1224, lot no 1, 2ieme étage, Boumerdes 35000 Boumerdas, Algeria
-        </p>
-        <p>🗺️ View on map :</p>
-        <p>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3196.850038517255!2d3.4738196745132837!3d36.75017047052039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128e6894f50955a3%3A0xd2fb5879965cb157!2sINFORMICA%2C%20Ecole%20de%20langues%20et%20informatique!5e0!3m2!1sfr!2sdz!4v1751401194667!5m2!1sfr!2sdz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </p>
-    <h2 id="info">Demande d'information</h2>
-        <form>
+    <section id="Contact">
+      <h2>Contact</h2>
+      <p>📞 Téléphones : 0661 83 23 78 / 0661 57 93 35 / 0774 37 32 71</p><br>
+      <p>✉️ Email : efp.informica@gmail.com</p><br>
+      <p>📍 Location: Dvision 4, Gr Pr no 1224, lot no 1, 2ieme étage, Boumerdes 35000 Boumerdas, Algeria</p><br>
+      <p>🗺️ View on map:</p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3196.850038517255!2d3.4738196745132837!3d36.75017047052039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128e6894f50955a3%3A0xd2fb5879965cb157!2sINFORMICA%2C%20Ecole%20de%20langues%20et%20informatique!5e0!3m2!1sfr!2sdz!4v1751401194667!5m2!1sfr!2sdz" 
+        width="600" 
+        height="450" 
+        style="border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+    </section>
 
-    <label for="entreprise">Nom de l'entreprise (obligatoire) </label><br>
-    <input type="text" id="entreprise" name="entreprise"><br><br>
+    <section id="info">
+      <h2>Demande d'information</h2>
+      <form>
+        <label for="entreprise">Nom de l'entreprise <span style="color: red">*</span></label>
+        <input type="text" id="entreprise" name="entreprise" required/>
 
-    <label for="responsable">Nom du responsable </label><br>
-    <input type="text" id="responsable" name="responsable"><br><br>
+        <label for="responsable">Nom du responsable</label>
+        <input type="text" id="responsable" name="responsable" />
 
-    <label for="fonction">Fonction </label><br>
-    <input type="text" id="fonction" name="fonction"><br><br>
+        <label for="fonction">Fonction</label>
+        <input type="text" id="fonction" name="fonction" />
 
-    <label for="email">Email (obligatoire) </label><br>
-    <input type="email" id="email" name="email"><br><br>
+        <label for="email" >Email <span style="color: red">*</span></label>
+        <input type="email" id="email" name="email" required/>
 
-    <label for="message">Message / Demande (obligatoire) </label><br>
-    <textarea id="message" name="message" rows="4" cols="30"></textarea><br><br>
+        <label for="message"  >Message / Demande <span style="color: red">*</span></label>
+        <textarea id="message" name="message" rows="4" cols="30" required></textarea>
 
-    <input type="submit" value="Envoyer">
+        <input type="submit" value="Envoyer" />
+      </form>
+    </section>
+  </main>
 
-  </form>
-<footer class="bg-gray-200 text-center text-sm py-4">
+  <footer>
     © 2025 INFORMICA - Tous droits réservés
   </footer>
-
 </body>
 </html>
-
