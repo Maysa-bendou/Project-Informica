@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,8 +8,7 @@
 </head>
 <body>
   <header>
-    <h2>Formations Entreprise</h2>
-    <img src="assets/image/Image1.png" alt="formation" width="250" />
+    <img src="assets/image/Image1.png" alt="formation" />
     <nav>  
       <a href="Accueil.html">Accuiel</a>
       <a href="#A_propos">A propos</a>
@@ -24,41 +22,77 @@
 
   <main>
 
-    <section id="A_propos">
-      <h2>A propos</h2>
-      <p>EFP INFORMICA est une école de formation professionnelle agréée par l'État, située à
-        Boumerdès et proche de toutes commodités.
-        Notre équipe, composée d'environ une centaine de collaborateurs, comprend des experts,
-        consultants formateurs hautement qualifiés, anciens cadres du milieu professionnel,
-        enseignants universitaires et autres professionnels aguerris.
-        Renforcés par un personnel dynamique et compétent, nous sommes entièrement dévoués à
-        vous offrir un service de qualité.
-        Notre principale mission est de vous fournir les formations nécessaires à vos besoins de
-        développement professionnel : formations qualifiantes, continues, de recyclage et de
-        sensibilisation, en présentiel ou à distance.
-      </p>
-    </section>
+ <section id="A_propos">
+  <div class="apropos-container">
+     <h2> | EFP INFORMICA</h2>
+    <p>
+      Une école de formation professionnelle agréée par l'État, située à
+      Boumerdès et proche de toutes commodités. Notre équipe, composée d'environ une centaine de collaborateurs, comprend des experts,
+      consultants formateurs hautement qualifiés, anciens cadres du milieu professionnel,
+      enseignants universitaires et autres professionnels aguerris.
+      Renforcés par un personnel dynamique et compétent, nous sommes entièrement dévoués à
+      vous offrir un service de qualité.
+      Notre principale mission est de vous fournir les formations nécessaires à vos besoins de
+      développement professionnel : formations qualifiantes, continues, de recyclage et de
+      sensibilisation, en présentiel ou à distance.
+    </p>
+  </div>
+</section>
+
+
 
 <section id="Nos_formations">
   <h2>Nos Formations</h2>
-  <div>
-<<<<<<< HEAD
-    <a href="/formations/management">MANAGEMENT / DÉVELOPPEMENT PERSONNEL</a><br />
-    <a href="/formations/grh">GRH : GESTION DES RESSOURCES HUMAINES</a><br />
-    <a href="/formations/finance">COMPTABILITÉ / FINANCE / JURIDIQUE</a><br />
-    <a href="/formations/marketing">COMMERCIAL / MARKETING</a><br />
-    <a href="/formations/informatique">INFORMATIQUE / TÉLÉCOMMUNICATION</a><br />
-    <a href="/formations/qhse">QHSE : QUALITÉ, HYGIÈNE, SÉCURITÉ ET ENVIRONNEMENT</a><br />
-    <a href="/formations/langues">LES LANGUES A DES FINS SPÉCIFIQUES</a>
-=======
-    <a href="formationsEntreprise.html?cat=management">MANAGEMENT / DÉVELOPPEMENT PERSONNEL</a><br>
-    <a href="formationsEntreprise.html?cat=grh">GRH : GESTION DES RESSOURCES HUMAINES</a><br>
-    <a href="formationsEntreprise.html?cat=compta">COMPTABILITÉ / FINANCE / JURIDIQUE</a><br>
-    <a href="formationsEntreprise.html?cat=marketing">COMMERCIAL / MARKETING</a><br>
-    <a href="formationsEntreprise.html?cat=it">INFORMATIQUE / TÉLÉCOMMUNICATION</a><br>
-    <a href="formationsEntreprise.html?cat=qhse">QHSE : QUALITÉ, HYGIÈNE, SÉCURITÉ ET ENVIRONNEMENT</a><br>
-    <a href="formationsEntreprise.html?cat=langues">LES LANGUES A DES FINS SPÉCIFIQUES</a><br>
->>>>>>> 2f9767d6a1804bf14f9820ac8856d2b591470030
+
+  <div class="formations-grid" id="formationsGrid">
+    <!-- CARD 1 -->
+    <div class="formation-card">
+      <img src="assets/image/management-svgrepo-com (1).svg" alt="Management Icon" class="formation-icon">
+      <h3 class="formation-title">Management / Développement Personnel</h3>
+      <a href="formationsEntreprise.html?cat=management" class="formation-link">En savoir plus</a>
+    </div>
+
+    <!-- CARD 2 -->
+    <div class="formation-card">
+      <img src="assets/image/human-resources-search-svgrepo-com.svg" alt="HR Icon" class="formation-icon">
+      <h3 class="formation-title">GRH : Ressources Humaines</h3>
+      <a href="formationsEntreprise.html?cat=grh" class="formation-link">En savoir plus</a>
+    </div>
+
+    <!-- CARD 3 -->
+    <div class="formation-card">
+      <img src="assets/image/finance-svgrepo-com.svg" alt="Compta Icon" class="formation-icon">
+      <h3 class="formation-title">Comptabilité / Finance / Juridique</h3>
+      <a href="formationsEntreprise.html?cat=compta" class="formation-link">En savoir plus</a>
+    </div>
+
+    <!-- CARD 4 -->
+    <div class="formation-card">
+      <img src="assets/image/marketing-bill-payment-invoice-receipt-svgrepo-com (1).svg" alt="Marketing Icon" class="formation-icon">
+      <h3 class="formation-title">Commercial / Marketing</h3>
+      <a href="formationsEntreprise.html?cat=marketing" class="formation-link">En savoir plus</a>
+    </div>
+
+    <!-- CARD 5 -->
+    <div class="formation-card">
+      <img src="assets/image/computer-14-svgrepo-com.svg" alt="IT Icon" class="formation-icon">
+      <h3 class="formation-title">Informatique / Télécommunication</h3>
+      <a href="formationsEntreprise.html?cat=it" class="formation-link">En savoir plus</a>
+    </div>
+
+    <!-- CARD 6 -->
+    <div class="formation-card">
+      <img src="assets/image/environment-nature-environmental-protection-trees-svgrepo-com.svg" alt="QHSE Icon" class="formation-icon">
+      <h3 class="formation-title">QHSE : Qualité, Sécurité, Environnement</h3>
+      <a href="formationsEntreprise.html?cat=qhse" class="formation-link">En savoir plus</a>
+    </div>
+
+    <!-- CARD 7 -->
+    <div class="formation-card">
+      <img src="assets/image/language-translation-svgrepo-com (1).svg" alt="Langues Icon" class="formation-icon">
+      <h3 class="formation-title">Langues à des fins spécifiques</h3>
+    <a href="formationsEntreprise.html?cat=langues" class="formation-link">En savoir plus</a>
+    </div>
   </div>
 </section>
 
@@ -72,43 +106,93 @@
       <p>................</p>
     </section>
 
-    <section id="Contact">
-      <h2>Contact</h2>
-      <p>📞 Téléphones : 0661 83 23 78 / 0661 57 93 35 / 0774 37 32 71</p><br>
-      <p>✉️ Email : efp.informica@gmail.com</p><br>
-      <p>📍 Location: Dvision 4, Gr Pr no 1224, lot no 1, 2ieme étage, Boumerdes 35000 Boumerdas, Algeria</p><br>
-      <p>🗺️ View on map:</p>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3196.850038517255!2d3.4738196745132837!3d36.75017047052039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128e6894f50955a3%3A0xd2fb5879965cb157!2sINFORMICA%2C%20Ecole%20de%20langues%20et%20informatique!5e0!3m2!1sfr!2sdz!4v1751401194667!5m2!1sfr!2sdz" 
-        width="600" 
-        height="450" 
-        style="border:0;" 
-        allowfullscreen="" 
-        loading="lazy" 
-        referrerpolicy="no-referrer-when-downgrade">
-      </iframe>
-    </section>
+<!-- 🔵 CONTACT SECTION -->
+<section id="Contact">
+  <h2>Contactez-nous</h2>
+  
+  <div class="contact-info-grid">
+    <div class="contact-box">
+      <div class="contact-header">
+        <img src="assets/image/icons/telephone-svgrepo-com.svg" alt="Téléphone">
+        <h3 class="contact-title">Téléphone</h3>
+      </div>
+      <p class="contact-content">0661 83 23 78 / 0661 57 93 35 / 0774 37 32 71</p>
+    </div>
+    
+    <div class="contact-box">
+      <div class="contact-header">
+        <img src="assets/image/icons/gmail-svgrepo-com.svg" alt="Email">
+        <h3 class="contact-title">Email</h3>
+      </div>
+      <p class="contact-content">efp.informica@gmail.com</p>
+    </div>
+    
+    <div class="contact-box">
+      <div class="contact-header">
+        <img src="assets/image/icons/location-pin-svgrepo-com.svg" alt="Adresse">
+        <h3 class="contact-title">Adresse</h3>
+      </div>
+      <p class="contact-content">Division 4, Gr Pr no 1224, lot no 1, 2ième étage, Boumerdès 35000</p>
+    </div>
+  </div>
+</section>
 
-    <section id="info">
-      <h2>Demande d'information</h2>
-      <form>
-        <label for="entreprise">Nom de l'entreprise <span style="color: red">*</span></label>
-        <input type="text" id="entreprise" name="entreprise" required/>
+<!-- 🟩 FORM SECTION -->
+<section id="info">
+  <h2 class="form-heading">Demande d'informations</h2>
 
+  <form class="contact-form">
+    <div class="form-row">
+      <div class="form-group">
+        <label for="entreprise">Nom de l'entreprise <span>*</span></label>
+        <input type="text" id="entreprise" name="entreprise" required />
+      </div>
+      <div class="form-group">
         <label for="responsable">Nom du responsable</label>
         <input type="text" id="responsable" name="responsable" />
+      </div>
+    </div>
 
+    <div class="form-row">
+      <div class="form-group">
         <label for="fonction">Fonction</label>
         <input type="text" id="fonction" name="fonction" />
+      </div>
+      <div class="form-group">
+        <label for="email">Email <span>*</span></label>
+        <input type="email" id="email" name="email" required />
+      </div>
+     <div class="form-group">
+    <label for="phone">Téléphone <span>*</span></label>
+    <input type="tel" id="phone" name="phone" required>
+  </div>
+    </div>
 
-        <label for="email" >Email <span style="color: red">*</span></label>
-        <input type="email" id="email" name="email" required/>
+    <div class="form-row">
+      <div class="form-group full">
+        <label for="message">Message / Demande <span>*</span></label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+      </div>
+    </div>
 
-        <label for="message"  >Message / Demande <span style="color: red">*</span></label>
-        <textarea id="message" name="message" rows="4" cols="30" required></textarea>
+    <input type="submit" value="Envoyer" />
+  </form>
+</section>
 
-        <input type="submit" value="Envoyer" />
-      </form>
-    </section>
+<!-- 🗺️ MAP SECTION -->
+<section id="Localisation">
+  <h2>📍 Localisation</h2>
+  <div class="contact-map">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3192.1323242780145!2d3.3779732152782547!3d36.75354297995659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128fadc6cdb3a0e1%3A0x8cfedb27b8cd8b56!2sBoumerdes!5e0!3m2!1sen!2sdz!4v1659808290304!5m2!1sen!2sdz"
+      width="100%" 
+      height="450" 
+      style="border:0;" 
+      allowfullscreen="" 
+      loading="lazy">
+    </iframe>
+  </div>
+</section>
   </main>
 
 <footer class="footer">
@@ -145,5 +229,37 @@
       © 2025 INFORMICA. Tous droits réservés. Projet réalisé par les étudiants.
     </div>
   </footer>
+  <script>
+  // Shrink header on scroll
+  window.addEventListener("scroll", function () {
+    const header = document.querySelector("header");
+    header.classList.toggle("scrolled", window.scrollY > 40);
+  });
+
+  // Highlight active section in nav
+  const sections = document.querySelectorAll("section[id]");
+  const navLinks = document.querySelectorAll("header nav a");
+
+  window.addEventListener("scroll", () => {
+    let current = "";
+
+    sections.forEach((section) => {
+      const sectionTop = section.offsetTop - 150;
+      if (window.scrollY >= sectionTop) {
+        current = section.getAttribute("id");
+      }
+    });
+
+    navLinks.forEach((link) => {
+      link.classList.remove("active");
+      if (link.getAttribute("href").includes(current)) {
+        link.classList.add("active");
+      }
+    });
+  });
+
+</script>
+
+
 </body>
 </html>
