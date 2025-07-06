@@ -1,0 +1,13 @@
+{
+  "category": "INFORMATIQUE / TÉLÉCOMMUNICATION",
+  "formations": [
+    {
+      "title": "Bureautique",
+      "items": ["Word", "Excel", "PowerPoint"]
+    },
+    {
+      "title": "Développement Web",
+      "items": ["HTML/CSS", "JavaScript", "PHP"]
+    }
+  ]
+}

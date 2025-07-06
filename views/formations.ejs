@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title><%= data.category %></title>
+</head>
+<body>
+  <h2><%= data.category %></h2>
+
+  <% data.formations.forEach(f => { %>
+    <div class="box-formation">
+      <h3><%= f.title %></h3>
+      <ul>
+        <% f.items.forEach(item => { %>
+          <li><%= item %></li>
+        <% }) %>
+      </ul>
+    </div>
+  <% }) %>
+
+  <a href="/">← Back to categories</a>
+</body>
+</html>
