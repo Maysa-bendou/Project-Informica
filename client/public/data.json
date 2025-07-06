@@ -1,0 +1,26 @@
+{
+  "management": {
+    "title": "MANAGEMENT / DÉVELOPPEMENT PERSONNEL",
+    "description": "Formations pour développer vos compétences personnelles.",
+    "formations": [
+      {
+        "title": "Leadership stratégique",
+        "description": "Apprendre à guider et motiver son équipe efficacement."
+      },
+      {
+        "title": "Gestion du stress",
+        "description": "Maîtriser les techniques pour gérer la pression au travail."
+      }
+    ]
+  },
+  "grh": {
+    "title": "GRH : GESTION DES RESSOURCES HUMAINES",
+    "description": "Formations liées aux RH, recrutement, etc.",
+    "formations": [
+      {
+        "title": "Recrutement efficace",
+        "description": "Trouver les bons profils rapidement."
+      }
+    ]
+  }
+}

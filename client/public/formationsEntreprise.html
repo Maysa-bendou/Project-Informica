@@ -1,4 +1,41 @@
+<!-- formationsEntreprise.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Formations - Détails</title>
+</head>
+<body>
+  <h1 id="cat-title">Formations</h1>
+  <p id="cat-description"></p>
+  <ul id="formations-list"></ul>
 
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const cat = urlParams.get("cat");
+
+    fetch('data.json')
+      .then(res => res.json())
+      .then(data => {
+        const category = data[cat.toLowerCase()];
+        if (!category) {
+          document.body.innerHTML = "<h2>Catégorie non trouvée</h2>";
+          return;
+        }
+
+        document.getElementById("cat-title").textContent = category.title;
+        document.getElementById("cat-description").textContent = category.description;
+
+        const list = document.getElementById("formations-list");
+        category.formations.forEach(formation => {
+          const li = document.createElement("li");
+          li.innerHTML = `<strong>${formation.title}</strong><br>${formation.description}`;
+          list.appendChild(li);
+        });
+      });
+  </script>
+</body>
+</html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
