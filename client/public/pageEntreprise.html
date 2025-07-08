@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Informica Entreprise</title>
   <link rel="stylesheet" href="styles/entreprise.css" />
+
 </head>
 <body>
   <header>
@@ -63,7 +64,7 @@
     <div class="formation-card">
       <img src="assets/image/finance-svgrepo-com.svg" alt="Compta Icon" class="formation-icon">
       <h3 class="formation-title">Comptabilité / Finance / Juridique</h3>
-      <a href="formationsEntreprise.html?cat=compta" class="formation-link">En savoir plus</a>
+      <a href="formationsEntreprise.html?cat=comptabilite" class="formation-link">En savoir plus</a>
     </div>
 
     <!-- CARD 4 -->
@@ -77,7 +78,7 @@
     <div class="formation-card">
       <img src="assets/image/computer-14-svgrepo-com.svg" alt="IT Icon" class="formation-icon">
       <h3 class="formation-title">Informatique / Télécommunication</h3>
-      <a href="formationsEntreprise.html?cat=it" class="formation-link">En savoir plus</a>
+      <a href="formationsEntreprise.html?cat=informatique" class="formation-link">En savoir plus</a>
     </div>
 
     <!-- CARD 6 -->
@@ -96,12 +97,54 @@
   </div>
 </section>
 
-    <section id="Nos_Références">
-      <h2>Nos Références</h2>
-      <p>...............</p>
-    </section>
+<section id="Nos_Références">
+  <h2>Nos Références</h2>
+  <div class="references-slider-container">
+    <button class="slider-arrow prev-arrow">&#8249;</button>
+    
+    <div class="references-slider">
+      <div class="slider-track">
+        <div class="slide">
+          <img src="assets/image/colab/rrrr1.png" alt="Partner Logo">
+        </div>
+        <div class="slide">
+          <img src="assets/image/colab/rrrr2.png" alt="Partner Logo">
+        </div>
+        <div class="slide">
+          <img src="assets/image/colab/rrrr3.png" alt="Partner Logo">
+        </div>
+        <div class="slide">
+          <img src="assets/image/colab/rrr4.png" alt="Partner Logo">
+        </div>
+        <div class="slide">
+          <img src="assets/image/colab/rrr5.png" alt="Partner Logo">
+        </div>
+        <div class="slide">
+          <img src="assets/image/colab/rrr6.png" alt="Partner Logo">
+        </div>
+        <div class="slide">
+          <img src="assets/image/colab/fef2_1.png" alt="Partner Logo">
+        </div>
+        <div class="slide">
+          <img src="assets/image/colab/fef2_2.png" alt="Partner Logo">
+        </div>
+        <div class="slide">
+          <img src="assets/image/colab/fef2_3.png" alt="Partner Logo">
+        </div>
+        <!-- Add your last image here -->
+        <div class="slide">
+          <img src="assets/image/colab/fef2_4.png" alt="Partner Logo">
+        </div>
+      </div>
+    </div>
+    
+    <button class="slider-arrow next-arrow">&#8250;</button>
+  </div>
+  
+  <!-- Dots will be added automatically by JavaScript -->
+</section>
 
-    <section id="Actualités">
+<section id="Actualités">
       <h2>Actualités</h2>
       <p>................</p>
     </section>
@@ -260,6 +303,130 @@
 
 </script>
 
+<script>
+  const form = document.querySelector(".contact-form");
+
+  form.addEventListener("submit", function(event) {
+    event.preventDefault(); // prevent normal form submit (page reload)
+
+    const data = {
+      entreprise: form.entreprise.value,
+      responsable: form.responsable.value,
+      fonction: form.fonction.value,
+      email: form.email.value,
+      phone: form.phone.value,
+      message: form.message.value,
+    };
+
+    fetch("http://localhost:3000/api/form", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(data),
+    })
+    .then(response => response.text())
+    .then(text => {
+      alert(text); // show success or error message
+      form.reset(); // clear the form on success
+    })
+    .catch(error => {
+      console.error("Error sending form:", error);
+      alert("Erreur lors de l'envoi du formulaire.");
+    });
+  });
+</script>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+  const track = document.querySelector('.slider-track');
+  const slides = document.querySelectorAll('.slide');
+  const nextBtn = document.querySelector('.next-arrow');
+  const prevBtn = document.querySelector('.prev-arrow');
+  const dotsContainer = document.createElement('div');
+  dotsContainer.classList.add('slider-dots');
+  
+  // Create dots navigation
+  slides.forEach((_, index) => {
+    const dot = document.createElement('div');
+    dot.classList.add('dot');
+    if (index === 0) dot.classList.add('active');
+    dot.addEventListener('click', () => goToSlide(index));
+    dotsContainer.appendChild(dot);
+  });
+  
+  document.querySelector('#Nos_Références').appendChild(dotsContainer);
+  const dots = document.querySelectorAll('.dot');
+  
+  let currentSlide = 0;
+  const slideCount = slides.length;
+
+  function updateSlider() {
+    track.style.transform = `translateX(-${currentSlide * 100}%)`;
+    
+    // Update dots
+    dots.forEach((dot, index) => {
+      dot.classList.toggle('active', index === currentSlide);
+    });
+    
+    // Update arrow visibility
+    updateArrowVisibility();
+  }
+
+  function updateArrowVisibility() {
+    // Hide prev arrow on first slide
+    if (currentSlide === 0) {
+      prevBtn.classList.add('hidden');
+    } else {
+      prevBtn.classList.remove('hidden');
+    }
+    
+    // Hide next arrow on last slide
+    if (currentSlide === slideCount - 1) {
+      nextBtn.classList.add('hidden');
+    } else {
+      nextBtn.classList.remove('hidden');
+    }
+  }
+
+  function goToSlide(slideIndex) {
+    currentSlide = slideIndex;
+    updateSlider();
+  }
+
+  function nextSlide() {
+    if (currentSlide < slideCount - 1) {
+      currentSlide++;
+      updateSlider();
+    }
+  }
+
+  function prevSlide() {
+    if (currentSlide > 0) {
+      currentSlide--;
+      updateSlider();
+    }
+  }
+
+  // Event listeners
+  nextBtn.addEventListener('click', nextSlide);
+  prevBtn.addEventListener('click', prevSlide);
+  
+  // Keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight') nextSlide();
+    if (e.key === 'ArrowLeft') prevSlide();
+  });
+
+  // Initialize
+  updateSlider();
+});
+</script>
+
+
+
+
+
+
 
 </body>
-</html>
+</html> 

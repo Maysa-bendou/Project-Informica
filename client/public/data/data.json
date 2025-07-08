@@ -1,0 +1,94 @@
+{
+  "management": {
+    "title": "MANAGEMENT / DÉVELOPPEMENT PERSONNEL",
+    "description": "Formations en leadership, communication, efficacité personnelle et plus.",
+    "formations": [
+      {
+        "title": "Leadership et développement personnel",
+        "description": "Développer son leadership, son intelligence émotionnelle, gérer le stress, s’affirmer, développer la créativité, gérer les situations difficiles."
+      },
+      {
+        "title": "Communication et prise de parole",
+        "description": "Renforcer son impact professionnel à l'oral, prise de parole en public."
+      },
+      {
+        "title": "Management d'équipe",
+        "description": "Piloter les tableaux de bord, délégation efficace, réunions, changement, travail en équipe, relations constructives."
+      },
+      {
+        "title": "Efficacité personnelle",
+        "description": "Gestion du temps, priorités, pratiques managériales, postures du manager."
+      },
+      {
+        "title": "Management opérationnel",
+        "description": "SMI, ERP, gestion de projets, MS Project/PrimaveraP6, coûts, délais, gestion des risques."
+      }
+    ]
+  },
+  
+  "grh": {
+    "title": "GRH : Gestion des Ressources Humaines",
+    "description": "Formations en gestion administrative, prévisionnelle, recrutement et plus.",
+    "formations": [
+      {
+        "title": "GRH complète",
+        "description": "Administrative, opérationnelle, tableau de bord, GPEC, réglementation, contrats, rémunération, sécurité sociale, carrières, stratégie de formation."
+      }
+    ]
+  },
+
+  "comptabilite": {
+    "title": "Comptabilité / Finance / Juridique",
+    "description": "Formations en comptabilité, fiscalité, analyse financière, audit, marchés publics.",
+    "formations": [
+      {
+        "title": "Comptabilité et Finance",
+        "description": "Comptabilité générale, stocks, patrimoine, inventaires, fiscalité, trésorerie, audit, contrôle de gestion, marchés publics, CCAG."
+      }
+    ]
+  },
+
+  "marketing": {
+    "title": "Commercial / Marketing",
+    "description": "Formations en marketing stratégique, relation client, outils digitaux.",
+    "formations": [
+      {
+        "title": "Marketing stratégique et opérationnel",
+        "description": "Connaissances fondamentales, segmentation, compétitivité, plan commercial, techniques commerciales, communication client, marketing digital."
+      }
+    ]
+  },
+  "informatique": {
+    "title": "INFORMATIQUE / TÉLÉCOMMUNICATION",
+    "description": "Formations en bureautique, développement web, IA, cybersécurité, réseaux.",
+    "formations": [
+      {
+        "title": "Informatique & Télécom",
+        "description": "Bureautique, développement web, bases de données, systèmes d'information, réseaux, IA, cybersécurité, logiciels professionnels."
+      }
+    ]
+  },
+
+  "qhse": {
+    "title": "QHSE : QUALITÉ, HYGIÈNE, SÉCURITÉ ET ENVIRONNEMENT",
+    "description": "Formations QHSE, hygiène alimentaire, sécurité au travail, environnement.",
+    "formations": [
+      {
+        "title": "Qualité, Hygiène, Sécurité, Environnement",
+        "description": "Management QHSE, ISO 9001/22000/45001/14001, HACCP, 5S, sécurité incendie, secourisme, sûreté interne, déchets industriels."
+      }
+    ]
+  },
+
+  "langues": {
+    "title": "LES LANGUES A DES FINS SPECIFIQUES",
+    "description": "Formations en langues : Anglais, Français, Espagnol, Allemand, Italien, Turc.",
+    "formations": [
+      {
+        "title": "Langues professionnelles",
+        "description": "Anglais / Français / Espagnol / Italien / Allemand / Turc"
+      }
+    ]
+  }
+}
+

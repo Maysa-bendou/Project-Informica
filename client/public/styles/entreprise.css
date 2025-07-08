@@ -156,7 +156,105 @@ section {
   justify-content: flex-start;
   align-items: center;
 }
+/* Slider base styles */
+/* References Slider */
+#Nos_Références {
+  padding: 60px 20px;
+  background-color: #f8fafc;
+  text-align: center;
+}
 
+/* References Slider Styles */
+.references-slider-container {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+
+.references-slider {
+  overflow: hidden;
+}
+
+.slider-track {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slide {
+  min-width: 100%;
+  padding: 0 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.slide img {
+   width: 800px; /* Set your desired fixed width */
+  height: 200px;
+  object-fit: contain;
+  transition: all 0.3s ease;
+   
+}
+
+
+/* Navigation Arrows */
+.slider-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: white;
+  border: none;
+  font-size: 20px;
+  color: #004080;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  transition: all 0.3s ease;
+}
+
+.slider-arrow:hover {
+  background: #004080;
+  color: white;
+}
+
+.slider-arrow.hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.prev-arrow {
+  left: 0;
+}
+
+.next-arrow {
+  right: 0;
+}
+
+/* Dots Navigation */
+.slider-dots {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 8px;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #cbd5e1;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.dot.active {
+  background: #004080;
+  transform: scale(1.2);
+}
 h2 {
   font-size: 32px;
   color: #004080;
