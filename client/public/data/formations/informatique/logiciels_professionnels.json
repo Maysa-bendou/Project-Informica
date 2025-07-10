@@ -1,6 +1,1348 @@
 {
-  "title": "Comptabilité - fianace - juridique",
-  "formations":[
-
+  "title": "Logiciels Professionnels",
+  "formations": [
+    {
+      "titreFormation": "Microsoft Power BI",
+      "objectifs": [
+        "Comprendre les fonctionnalités de Power BI pour la Business Intelligence",
+        "Développer des compétences pour créer des rapports et tableaux de bord interactifs",
+        "Maîtriser les techniques d'analyse et de visualisation des données"
+      ],
+      "publicCible": [
+        "Analystes de données",
+        "Responsables BI",
+        "Décideurs d'entreprise"
+      ],
+      "prerequis": "Connaissances de base en gestion des données et analyse",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à Power BI",
+          "contenu": [
+            "Concepts de Base",
+            "Environnement Power BI"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Collecte et Intégration",
+          "contenu": [
+            "Sources de Données",
+            "ETL avec Power Query"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Modélisation des Données",
+          "contenu": [
+            "Création de Modèles",
+            "Relations et Hiérarchies"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Création de Rapports",
+          "contenu": [
+            "Conception des Rapports",
+            "Visualisation des Données"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "DAX (Data Analysis Expressions)",
+          "contenu": [
+            "Formules DAX",
+            "Calculs et Mesures"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Partage et Collaboration",
+          "contenu": [
+            "Publication des Rapports",
+            "Collaboration en Équipe"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Sécurité et Gouvernance",
+          "contenu": [
+            "Sécurité des Données",
+            "Gestion des Accès"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Création",
+            "Simulations de Modélisation"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Outils et Extensions",
+          "contenu": [
+            "Outils de Visualisation",
+            "Automatisation avec Power BI Service"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion de Projets avec MS Project",
+      "objectifs": [
+        "Maîtriser les techniques de gestion de projets avec MS Project",
+        "Planifier, exécuter et suivre un projet",
+        "Créer et gérer un calendrier de projet",
+        "Allouer et gérer les ressources",
+        "Suivre l'avancement et générer des rapports"
+      ],
+      "publicCible": [
+        "Chefs de projet",
+        "Coordinateurs de projet",
+        "Membres d'équipe projet"
+      ],
+      "prerequis": "Connaissance de base de la gestion de projet et environnement Windows",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts clés de gestion de projet",
+            "Interface MS Project"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Définition du projet",
+          "contenu": [
+            "Objectifs et livrables",
+            "Décomposition en tâches (WBS)"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Planification",
+          "contenu": [
+            "Création et organisation des tâches",
+            "Dépendances entre tâches"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Gestion des Ressources",
+          "contenu": [
+            "Types de ressources",
+            "Allocation des ressources"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Suivi et Contrôle",
+          "contenu": [
+            "Suivi de l'avancement",
+            "Utilisation des lignes de base"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Reporting",
+          "contenu": [
+            "Génération de rapports",
+            "Exportation vers Excel"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Cas pratique",
+          "contenu": [
+            "Simulation de gestion de projet",
+            "Analyse des résultats"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion de Projets avec Primavera",
+      "objectifs": [
+        "Maîtriser Primavera pour planifier et gérer des projets complexes",
+        "Créer et gérer des calendriers de projet",
+        "Allouer et gérer les ressources efficacement",
+        "Suivre l'avancement et générer des rapports"
+      ],
+      "publicCible": [
+        "Chefs de projet",
+        "Planificateurs",
+        "Ingénieurs"
+      ],
+      "prerequis": "Connaissance de base de la gestion de projet",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts clés",
+            "Interface Primavera"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Définition du projet",
+          "contenu": [
+            "Objectifs et livrables",
+            "Décomposition en activités"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Planification",
+          "contenu": [
+            "Création d'activités",
+            "Dépendances entre activités"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Gestion des Ressources",
+          "contenu": [
+            "Types de ressources",
+            "Allocation des ressources"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Suivi et Contrôle",
+          "contenu": [
+            "Suivi de l'avancement",
+            "Lignes de base"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Reporting",
+          "contenu": [
+            "Génération de rapports",
+            "Tableaux de bord"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Cas pratique",
+          "contenu": [
+            "Simulation de gestion",
+            "Analyse des résultats"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Crystal Reports",
+      "objectifs": [
+        "Comprendre les fonctionnalités de Crystal Reports",
+        "Créer et personnaliser des rapports interactifs",
+        "Maîtriser l'intégration et visualisation des données"
+      ],
+      "publicCible": [
+        "Analystes de données",
+        "Responsables BI",
+        "Développeurs"
+      ],
+      "prerequis": "Connaissances de base en gestion des données",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts de Base",
+            "Interface Crystal Reports"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Création de Rapports",
+          "contenu": [
+            "Sources de Données",
+            "Conception des Rapports"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Personnalisation",
+          "contenu": [
+            "Formatage des Données",
+            "Utilisation des Sections"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Fonctionnalités Avancées",
+          "contenu": [
+            "Formules et Fonctions",
+            "Graphiques et Visualisations"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Intégration",
+          "contenu": [
+            "Exportation des Rapports",
+            "Intégration avec Applications"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Sécurité",
+          "contenu": [
+            "Contrôles d'Accès",
+            "Distribution des Rapports"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Création",
+            "Simulations d'Intégration"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils et Extensions",
+          "contenu": [
+            "Outils de Visualisation",
+            "Automatisation des Tâches"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Sage - Gestion Comptable et Financière",
+      "objectifs": [
+        "Maîtriser Sage pour la gestion comptable et financière",
+        "Saisir et traiter les écritures comptables",
+        "Gérer les immobilisations, stocks et budgets",
+        "Générer des états financiers"
+      ],
+      "publicCible": [
+        "Comptables",
+        "Responsables financiers",
+        "Gestionnaires de paie"
+      ],
+      "prerequis": "Connaissance de base en comptabilité",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts comptables",
+            "Interface Sage"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Saisie des Opérations",
+          "contenu": [
+            "Écritures comptables",
+            "Gestion des journaux"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Gestion des Immobilisations",
+          "contenu": [
+            "Fiches d'immobilisations",
+            "Calcul des amortissements"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Gestion des Stocks",
+          "contenu": [
+            "Paramétrage des articles",
+            "Suivi des entrées/sorties"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Suivi Financier",
+          "contenu": [
+            "Comptes clients/fournisseurs",
+            "Relance des créances"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Reporting",
+          "contenu": [
+            "États financiers",
+            "Rapports personnalisés"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Pc Compta",
+      "objectifs": [
+        "Maîtriser Pc Compta pour la gestion comptable",
+        "Saisir et traiter les écritures comptables",
+        "Gérer les comptes clients et fournisseurs",
+        "Générer des états financiers"
+      ],
+      "publicCible": [
+        "Comptables",
+        "Responsables financiers",
+        "Gestionnaires de paie"
+      ],
+      "prerequis": "Connaissance de base en comptabilité",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts comptables",
+            "Interface Pc Compta"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Saisie des Opérations",
+          "contenu": [
+            "Écritures comptables",
+            "Lettrage des comptes"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Gestion Clients/Fournisseurs",
+          "contenu": [
+            "Fiches clients/fournisseurs",
+            "Gestion des factures"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Gestion des Immobilisations",
+          "contenu": [
+            "Fiches d'immobilisations",
+            "Calcul des amortissements"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Suivi Financier",
+          "contenu": [
+            "Rapprochement bancaire",
+            "Flux de trésorerie"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Reporting",
+          "contenu": [
+            "États financiers",
+            "Rapports personnalisés"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Pc Paie",
+      "objectifs": [
+        "Maîtriser Pc Paie pour la gestion des paies",
+        "Gérer les bulletins de paie et déclarations sociales",
+        "Automatiser les processus de paie",
+        "Générer des rapports et états de paie"
+      ],
+      "publicCible": [
+        "Responsables de paie",
+        "Gestionnaires RH",
+        "Comptables"
+      ],
+      "prerequis": "Connaissance de base en gestion de paie",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts de paie",
+            "Interface Pc Paie"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Saisie des Éléments",
+          "contenu": [
+            "Informations salariés",
+            "Variables de paie"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Déclarations Sociales",
+          "contenu": [
+            "Paramétrage organismes",
+            "Génération des déclarations"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Automatisation",
+          "contenu": [
+            "Règles de paie",
+            "Calculs automatisés"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Gestion des Absences",
+          "contenu": [
+            "Suivi des absences",
+            "Calcul des droits aux congés"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Reporting",
+          "contenu": [
+            "Rapports personnalisés",
+            "Tableaux de bord"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "AutoCAD",
+      "objectifs": [
+        "Maîtriser AutoCAD pour la création de dessins techniques",
+        "Créer, modifier et gérer des dessins 2D",
+        "Utiliser les outils de cotation et mise en page",
+        "Gérer les calques, blocs et références externes"
+      ],
+      "publicCible": [
+        "Dessinateurs",
+        "Architectes",
+        "Ingénieurs"
+      ],
+      "prerequis": "Connaissances de base en dessin technique",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface AutoCAD",
+            "Outils de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Concepts de Dessin",
+          "contenu": [
+            "Outils de dessin",
+            "Gestion des calques"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Outils de Modification",
+          "contenu": [
+            "Déplacement, copie",
+            "Outils d'édition avancée"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Cotation",
+          "contenu": [
+            "Création de cotes",
+            "Styles de cotation"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Gestion des Calques",
+          "contenu": [
+            "Organisation des calques",
+            "Filtres de calques"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Blocs et Xrefs",
+          "contenu": [
+            "Création de blocs",
+            "Gestion des Xrefs"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Mise en Page",
+          "contenu": [
+            "Création de présentations",
+            "Paramétrage d'impression"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "AutoCAD Structural Detailing",
+      "objectifs": [
+        "Maîtriser AutoCAD Structural Detailing pour les dessins de structures",
+        "Créer et gérer des dessins techniques de structures",
+        "Utiliser les outils spécifiques aux structures",
+        "Générer des dessins de fabrication"
+      ],
+      "publicCible": [
+        "Ingénieurs en structures",
+        "Techniciens",
+        "Dessinateurs"
+      ],
+      "prerequis": "Connaissances de base en dessin technique et structures",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 hours)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface utilisateur",
+            "Outils de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Modélisation Structurelle",
+          "contenu": [
+            "Poutres, colonnes, dalles",
+            "Matériaux et sections"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Outils Spécifiques",
+          "contenu": [
+            "Outils de modification",
+            "Cotation structurelle"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Détails de Fabrication",
+          "contenu": [
+            "Plans d'ensemble",
+            "Listes de matériaux"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "ETABS",
+      "objectifs": [
+        "Maîtriser ETABS pour l'analyse et conception de structures",
+        "Créer des modèles 3D de bâtiments",
+        "Effectuer des analyses statiques et dynamiques",
+        "Générer des rapports et dessins de conception"
+      ],
+      "publicCible": [
+        "Ingénieurs civils",
+        "Ingénieurs en structures",
+        "Techniciens"
+      ],
+      "prerequis": "Connaissances de base en génie civil et structures",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface ETABS",
+            "Modélisation de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Gestion des Charges",
+          "contenu": [
+            "Charges statiques",
+            "Combinaisons de charges"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Analyse Statique",
+          "contenu": [
+            "Méthodes d'analyse",
+            "Interprétation des résultats"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Analyse Dynamique",
+          "contenu": [
+            "Vibrations et modes propres",
+            "Analyse spectrale"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Conception",
+          "contenu": [
+            "Béton armé",
+            "Éléments en acier"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Reporting",
+          "contenu": [
+            "Génération de rapports",
+            "Dessins de conception"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Robot Structural Analysis",
+      "objectifs": [
+        "Maîtriser Robot pour l'analyse et conception de structures",
+        "Créer des modèles 3D de bâtiments",
+        "Effectuer des analyses statiques et dynamiques",
+        "Générer des rapports et dessins de conception"
+      ],
+      "publicCible": [
+        "Ingénieurs civils",
+        "Ingénieurs en structures",
+        "Techniciens"
+      ],
+      "prerequis": "Connaissances de base en génie civil et structures",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface Robot",
+            "Modélisation de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Gestion des Charges",
+          "contenu": [
+            "Charges statiques",
+            "Combinaisons de charges"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Analyse Statique",
+          "contenu": [
+            "Méthodes d'analyse",
+            "Interprétation des résultats"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Analyse Dynamique",
+          "contenu": [
+            "Vibrations et modes propres",
+            "Analyse spectrale"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Conception",
+          "contenu": [
+            "Béton armé",
+            "Éléments en acier"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Reporting",
+          "contenu": [
+            "Génération de rapports",
+            "Dessins de conception"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Tekla Structures",
+      "objectifs": [
+        "Maîtriser Tekla pour la modélisation et conception de structures",
+        "Créer des modèles 3D détaillés",
+        "Effectuer des analyses et générer des dessins de fabrication",
+        "Gérer les projets de construction collaborativement"
+      ],
+      "publicCible": [
+        "Ingénieurs civils",
+        "Ingénieurs en structures",
+        "Techniciens"
+      ],
+      "prerequis": "Connaissances de base en génie civil et structures",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface Tekla",
+            "Modélisation de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Modélisation Avancée",
+          "contenu": [
+            "Composants système",
+            "Connexions et détails"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Analyse Structurale",
+          "contenu": [
+            "Méthodes d'analyse",
+            "Optimisation des éléments"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Dessins de Fabrication",
+          "contenu": [
+            "Plans d'ensemble",
+            "Nomenclatures"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Gestion de Projet",
+          "contenu": [
+            "Collaboration",
+            "Gestion des modifications"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "AMETank",
+      "objectifs": [
+        "Maîtriser AMETank pour la conception de réservoirs",
+        "Créer des modèles 3D de réservoirs",
+        "Effectuer des analyses de contraintes et stabilité",
+        "Générer des dessins de fabrication"
+      ],
+      "publicCible": [
+        "Ingénieurs",
+        "Concepteurs",
+        "Techniciens"
+      ],
+      "prerequis": "Connaissances de base en génie civil ou mécanique",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface AMETank",
+            "Modélisation de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Conception",
+          "contenu": [
+            "Normes API 650/620",
+            "Dimensionnement des éléments"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Analyse Structurale",
+          "contenu": [
+            "Contraintes et stabilité",
+            "Simulation des charges"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Détails de Fabrication",
+          "contenu": [
+            "Plans détaillés",
+            "Listes de matériaux"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "SolidWorks",
+      "objectifs": [
+        "Maîtriser SolidWorks pour la conception mécanique",
+        "Créer des modèles 3D de pièces et assemblages",
+        "Effectuer des simulations et analyses",
+        "Générer des dessins techniques"
+      ],
+      "publicCible": [
+        "Ingénieurs",
+        "Concepteurs",
+        "Techniciens"
+      ],
+      "prerequis": "Connaissances de base en génie mécanique",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface SolidWorks",
+            "Modélisation de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Modélisation Avancée",
+          "contenu": [
+            "Pièces complexes",
+            "Fonctionnalités avancées"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Assemblages",
+          "contenu": [
+            "Création d'assemblages",
+            "Contraintes et relations"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Simulation",
+          "contenu": [
+            "Analyse de contraintes",
+            "Optimisation"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Dessins Techniques",
+          "contenu": [
+            "Génération de vues",
+            "Cotation et annotations"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Adobe Photoshop",
+      "objectifs": [
+        "Maîtriser Photoshop pour la retouche photo et création graphique",
+        "Utiliser les outils de retouche et correction",
+        "Créer des graphiques et illustrations",
+        "Préparer des fichiers pour impression et web"
+      ],
+      "publicCible": [
+        "Graphistes",
+        "Photographes",
+        "Designers"
+      ],
+      "prerequis": "Connaissances de base en informatique",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface Photoshop",
+            "Outils de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Retouche Photo",
+          "contenu": [
+            "Réglages de base",
+            "Outils de retouche"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Création Graphique",
+          "contenu": [
+            "Formes vectorielles",
+            "Pinceaux et motifs"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Texte et Typographie",
+          "contenu": [
+            "Ajout de texte",
+            "Effets de texte"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Exportation",
+          "contenu": [
+            "Préparation pour impression",
+            "Optimisation pour web"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Adobe Illustrator",
+      "objectifs": [
+        "Maîtriser Illustrator pour la création vectorielle",
+        "Créer des logos, icônes et illustrations",
+        "Travailler avec calques, chemins et formes",
+        "Préparer des fichiers pour impression et web"
+      ],
+      "publicCible": [
+        "Graphistes",
+        "Illustrateurs",
+        "Designers"
+      ],
+      "prerequis": "Connaissances de base en informatique",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface Illustrator",
+            "Outils de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Dessin Vectoriel",
+          "contenu": [
+            "Outil Plume",
+            "Formes complexes"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Couleur et Styles",
+          "contenu": [
+            "Palettes de couleurs",
+            "Dégradés et motifs"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Texte et Typographie",
+          "contenu": [
+            "Ajout de texte",
+            "Effets de texte"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Exportation",
+          "contenu": [
+            "Préparation pour impression",
+            "Optimisation pour web"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "InDesign",
+      "objectifs": [
+        "Maîtriser InDesign pour la mise en page",
+        "Créer des documents imprimés et numériques",
+        "Travailler avec styles, calques et gabarits",
+        "Préparer des fichiers pour impression et web"
+      ],
+      "publicCible": [
+        "Graphistes",
+        "Maquettistes",
+        "Designers"
+      ],
+      "prerequis": "Connaissances de base en informatique",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface InDesign",
+            "Outils de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Mise en Page",
+          "contenu": [
+            "Création de pages",
+            "Grilles et repères"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Styles",
+          "contenu": [
+            "Styles de texte",
+            "Styles de paragraphe"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Images et Couleurs",
+          "contenu": [
+            "Importation d'images",
+            "Gestion des couleurs"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Exportation",
+          "contenu": [
+            "Préparation pour impression",
+            "Documents interactifs"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Adobe Premiere Pro",
+      "objectifs": [
+        "Maîtriser Premiere Pro pour le montage vidéo",
+        "Importer et organiser des séquences",
+        "Appliquer effets et transitions",
+        "Exporter pour différentes plateformes"
+      ],
+      "publicCible": [
+        "Monteurs vidéo",
+        "Réalisateurs",
+        "Producteurs"
+      ],
+      "prerequis": "Connaissances de base en informatique",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface Premiere",
+            "Outils de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Montage",
+          "contenu": [
+            "Techniques de découpe",
+            "Utilisation de la timeline"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Effets",
+          "contenu": [
+            "Transitions",
+            "Effets visuels"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Audio et Couleur",
+          "contenu": [
+            "Montage audio",
+            "Correction des couleurs"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Exportation",
+          "contenu": [
+            "Paramètres d'export",
+            "Media Encoder"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Adobe After Effects",
+      "objectifs": [
+        "Maîtriser After Effects pour les animations",
+        "Créer des animations et effets visuels",
+        "Utiliser les masques et keyframes",
+        "Exporter pour différentes plateformes"
+      ],
+      "publicCible": [
+        "Animateurs",
+        "Graphistes",
+        "Monteurs vidéo"
+      ],
+      "prerequis": "Connaissances de base en informatique",
+      "methodologie": "Présentations théoriques, démonstrations pratiques, exercices d'application",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Interface After Effects",
+            "Outils de base"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Animation",
+          "contenu": [
+            "Keyframes",
+            "Éditeur de graphique"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Effets Visuels",
+          "contenu": [
+            "Application d'effets",
+            "Correction des couleurs"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Masques et Textes",
+          "contenu": [
+            "Création de masques",
+            "Animation de texte"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Exportation",
+          "contenu": [
+            "Paramètres d'export",
+            "Media Encoder"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
   ]
 }

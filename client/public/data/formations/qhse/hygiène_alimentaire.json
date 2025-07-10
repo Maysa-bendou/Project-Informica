@@ -1,0 +1,324 @@
+{
+  "title": "Hygiène et Sécurité Alimentaire",
+  "formations": [
+    {
+      "titreFormation": "ISO 22000 : Système de Management de la Sécurité des Denrées Alimentaires",
+      "objectifs": [
+        "Comprendre les exigences de la norme ISO 22000 pour le système de management de la sécurité des denrées alimentaires",
+        "Développer des compétences pour établir, mettre en œuvre et maintenir un système de management de la sécurité des aliments conforme à ISO 22000",
+        "Maîtriser les techniques pour améliorer continuellement la sécurité des denrées alimentaires"
+      ],
+      "publicCible": [
+        "Responsables qualité",
+        "Auditeurs internes",
+        "Responsables de la sécurité alimentaire",
+        "Toute personne impliquée dans la gestion de la sécurité des denrées alimentaires"
+      ],
+      "prerequis": "Connaissances de base en gestion de la sécurité alimentaire et en hygiène des aliments",
+      "duree": "5 jours (35 heures)",
+      "methodePedagogique": [
+        "Exposés théoriques",
+        "Études de cas",
+        "Ateliers interactifs",
+        "Simulations"
+      ],
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à ISO 22000",
+          "contenu": [
+            "Comprendre les principes et les objectifs de la norme ISO 22000",
+            "Exploration de l’évolution de la norme ISO 22000"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Contexte de l’Organisation",
+          "contenu": [
+            "Techniques pour analyser le contexte interne et externe de l’organisation",
+            "Méthodes pour identifier et comprendre les attentes des parties prenantes"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Leadership et Engagement",
+          "contenu": [
+            "Exploration des responsabilités de la direction dans le système de sécurité des aliments",
+            "Élaboration et communication de la politique de sécurité alimentaire"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Planification du Système de Sécurité des Aliments",
+          "contenu": [
+            "Techniques pour identifier et gérer les risques et opportunités liés à la sécurité alimentaire",
+            "Définition et planification des objectifs de sécurité alimentaire"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Support et Ressources",
+          "contenu": [
+            "Stratégies pour gérer les ressources nécessaires au système de sécurité des aliments",
+            "Techniques pour évaluer et développer les compétences du personnel"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Opérations",
+          "contenu": [
+            "Mise en œuvre et maintien des Programmes Pré-requis (PRP)",
+            "Application de la méthode HACCP"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Évaluation de la Performance",
+          "contenu": [
+            "Surveillance et mesure de la performance du système",
+            "Audits internes de sécurité alimentaire"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Amélioration Continue",
+          "contenu": [
+            "Analyse et traitement des non-conformités",
+            "Mise en œuvre des actions correctives et préventives"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Préparation à la Certification ISO 22000",
+          "contenu": [
+            "Étapes pour obtenir la certification",
+            "Préparation à l’audit externe"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Exercices pratiques de planification",
+            "Simulations d’audit interne"
+          ]
+        },
+        {
+          "module": 11,
+          "titre": "Outils et Techniques de Sécurité Alimentaire",
+          "contenu": [
+            "Diagrammes de flux, analyses de risques"
+          ]
+        },
+        {
+          "module": 12,
+          "titre": "Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis et retour d'expérience"
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "Hygiène Alimentaire – La Méthode HACCP",
+      "objectifs": [
+        "Comprendre les principes et les étapes de la méthode HACCP",
+        "Développer des compétences pour identifier, évaluer et maîtriser les dangers alimentaires",
+        "Maîtriser les techniques pour mettre en œuvre un plan HACCP efficace"
+      ],
+      "publicCible": [
+        "Responsables qualité",
+        "Gestionnaires de la sécurité alimentaire",
+        "Techniciens en production alimentaire",
+        "Toute personne impliquée dans la gestion de l’hygiène alimentaire"
+      ],
+      "prerequis": "Connaissances de base en sécurité alimentaire",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à la Méthode HACCP",
+          "contenu": [
+            "Principes de l’analyse des dangers et des points critiques",
+            "Historique et évolution"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Préparation à la Mise en Œuvre",
+          "contenu": [
+            "Constitution et formation de l’équipe HACCP",
+            "Description des produits et utilisation prévue"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Analyse des Dangers",
+          "contenu": [
+            "Identification des dangers biologiques, chimiques, physiques",
+            "Évaluation des risques"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Détermination des CCP",
+          "contenu": [
+            "Critères pour sélectionner les CCP",
+            "Établissement des limites critiques"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Surveillance des CCP",
+          "contenu": [
+            "Techniques et procédures de surveillance"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Actions Correctives",
+          "contenu": [
+            "Définition et mise en œuvre des actions correctives"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Vérification et Validation",
+          "contenu": [
+            "Procédures de vérification et validation des mesures de contrôle"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Documentation et Enregistrements",
+          "contenu": [
+            "Documentation du plan HACCP",
+            "Maintien des enregistrements"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de mise en œuvre",
+            "Simulations de surveillance et actions correctives"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Outils et Techniques HACCP",
+          "contenu": [
+            "Diagrammes de causes, arbres de décision"
+          ]
+        },
+        {
+          "module": 11,
+          "titre": "Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis et retour d’expérience"
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "Hygiène Alimentaire dans la Restauration Collective",
+      "objectifs": [
+        "Comprendre les principes et exigences de l’hygiène alimentaire dans la restauration collective",
+        "Développer des compétences pour mettre en œuvre des pratiques d’hygiène efficaces",
+        "Maîtriser les techniques pour prévenir les risques alimentaires"
+      ],
+      "publicCible": [
+        "Responsables de la restauration collective",
+        "Chefs cuisiniers",
+        "Personnel de cuisine",
+        "Toute personne impliquée dans la gestion de l’hygiène alimentaire en restauration collective"
+      ],
+      "prerequis": "Connaissances de base en hygiène et sécurité alimentaire",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à l’Hygiène Alimentaire",
+          "contenu": [
+            "Principes de l’hygiène alimentaire",
+            "Réglementations spécifiques à la restauration collective"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Bonnes Pratiques d’Hygiène (BPH)",
+          "contenu": [
+            "Hygiène du personnel",
+            "Hygiène des locaux et équipements"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Gestion des Matières Premières",
+          "contenu": [
+            "Réception, stockage, contrôle qualité"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Préparation et Cuisson des Aliments",
+          "contenu": [
+            "Techniques de préparation",
+            "Maîtrise des températures"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Prévention des Contaminations",
+          "contenu": [
+            "Contaminations croisées",
+            "Nettoyage et désinfection"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Gestion des Déchets",
+          "contenu": [
+            "Tri, élimination, récupération et recyclage"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Surveillance et Contrôle",
+          "contenu": [
+            "Plans de contrôle",
+            "Inspections et audits"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Formation et Sensibilisation",
+          "contenu": [
+            "Programmes de formation",
+            "Campagnes de sensibilisation"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers pratiques",
+            "Simulations d’inspections"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Outils et Techniques d’Hygiène",
+          "contenu": [
+            "Check-lists, tableaux de bord"
+          ]
+        },
+        {
+          "module": 11,
+          "titre": "Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis et retour d’expérience"
+          ]
+        }
+      ]
+    }
+  ]
+}

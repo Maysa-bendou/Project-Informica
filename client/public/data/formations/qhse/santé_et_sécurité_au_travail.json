@@ -1,0 +1,1538 @@
+{
+  "title": "QHSE - Santé et Sécurité au Travail",
+  "formations": [
+    {
+      "titreFormation": "ISO 45001 : Système de Management de la Santé et de la Sécurité au Travail (SMSST)",
+      "objectifs": [
+        "Comprendre les exigences de la norme ISO 45001 pour le SMSST",
+        "Établir, mettre en œuvre et maintenir un SMSST conforme à la norme",
+        "Améliorer continuellement la santé et la sécurité au travail"
+      ],
+      "publicCible": [
+        "Responsables HSE",
+        "Auditeurs internes",
+        "Consultants en santé et sécurité",
+        "Toute personne impliquée dans la gestion de la santé et de la sécurité au travail"
+      ],
+      "prerequis": "Connaissances de base en gestion de la santé et de la sécurité au travail",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à ISO 45001",
+          "contenu": [
+            "Principes et objectifs de la norme",
+            "Historique et évolution"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Contexte de l’Organisation",
+          "contenu": [
+            "Analyse du contexte",
+            "Identification des parties prenantes"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Leadership et Participation des Travailleurs",
+          "contenu": [
+            "Rôle de la direction",
+            "Engagement des travailleurs"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Planification du SMSST",
+          "contenu": [
+            "Identification des risques et opportunités",
+            "Objectifs de santé et sécurité"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Support et Ressources",
+          "contenu": [
+            "Gestion des ressources",
+            "Compétences et formation"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Opérations",
+          "contenu": [
+            "Contrôle opérationnel",
+            "Préparation et réponse aux urgences"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Évaluation de la Performance",
+          "contenu": [
+            "Surveillance et mesure",
+            "Audit interne"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Amélioration Continue",
+          "contenu": [
+            "Analyse des non-conformités",
+            "Actions correctives et préventives"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Préparation à la Certification ISO 45001",
+          "contenu": [
+            "Processus de certification",
+            "Préparation à l’audit externe"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de planification du SMSST",
+            "Simulations d’audit interne"
+          ]
+        },
+        {
+          "module": 11,
+          "titre": "Outils et Techniques",
+          "contenu": [
+            "Check-lists",
+            "Tableaux de bord"
+          ]
+        },
+        {
+          "module": 12,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Identification et Évaluation des Risques au Milieu de Travail",
+      "objectifs": [
+        "Comprendre les principes de l’identification et de l’évaluation des risques",
+        "Identifier, évaluer et gérer les risques professionnels",
+        "Élaborer des plans de prévention des risques"
+      ],
+      "publicCible": [
+        "Responsables HSE",
+        "Coordinateurs sécurité",
+        "Gestionnaires de risques"
+      ],
+      "prerequis": "Connaissances de base en santé et sécurité au travail",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à l’Identification des Risques",
+          "contenu": [
+            "Concepts de base",
+            "Importance de l’identification des risques"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Techniques d’Identification des Risques",
+          "contenu": [
+            "Analyse des tâches",
+            "Inspections",
+            "Sources de risques"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Évaluation des Risques",
+          "contenu": [
+            "Critères d’évaluation",
+            "Matrice de risques"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Méthodes d’Évaluation des Risques",
+          "contenu": [
+            "Évaluation qualitative",
+            "Évaluation quantitative"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Gestion et Revue des Risques",
+          "contenu": [
+            "Plans de traitement",
+            "Surveillance continue",
+            "Mise à jour"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Documentation et Applications",
+          "contenu": [
+            "Gestion de la documentation",
+            "Simulations pratiques"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Outils d’Analyse des Risques",
+          "contenu": [
+            "AMDEC",
+            "Arbre des causes"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "La Méthode 5S : Organisation des Milieux de Travail",
+      "objectifs": [
+        "Comprendre et appliquer les étapes de la méthode 5S",
+        "Améliorer l’organisation et l’ordre dans le milieu professionnel",
+        "Maintenir les standards de propreté et d’efficacité"
+      ],
+      "publicCible": [
+        "Responsables production",
+        "Responsables qualité",
+        "Opérateurs"
+      ],
+      "prerequis": "Connaissances de base en gestion de production et amélioration continue",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à la Méthode 5S",
+          "contenu": [
+            "Principes de la méthode",
+            "Historique et origine"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Les 5 Étapes du 5S",
+          "contenu": [
+            "Seiri (Trier)",
+            "Seiton (Ranger)",
+            "Seiso (Nettoyer)",
+            "Seiketsu (Standardiser)",
+            "Shitsuke (Soutenir)"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Surveillance et Évaluation",
+          "contenu": [
+            "Indicateurs de performance",
+            "Audits 5S"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Applications Pratiques et Outils",
+          "contenu": [
+            "Ateliers et simulations",
+            "Signalisation et marquage"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+
+
+
+    {
+      "titreFormation": "Prévention des Risques Liés aux Travaux en Hauteur",
+      "objectifs": [
+        "Comprendre les risques liés aux travaux en hauteur",
+        "Mettre en œuvre les mesures de protection",
+        "Assurer la sécurité des travailleurs"
+      ],
+      "publicCible": [
+        "Travailleurs en hauteur",
+        "Superviseurs",
+        "Responsables HSE"
+      ],
+      "prerequis": "Connaissances de base en santé et sécurité au travail",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction et Réglementation",
+          "contenu": [
+            "Principes de sécurité",
+            "Normes et réglementation"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Identification des Dangers",
+          "contenu": [
+            "Analyse des dangers",
+            "Évaluation des risques"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Équipements de Protection",
+          "contenu": [
+            "EPI (harnais, casques, lignes de vie)",
+            "EPC (garde-corps, filets)"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Techniques de Travail et Sauvetage",
+          "contenu": [
+            "Méthodes sécurisées",
+            "Procédures de sauvetage"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Plan de Prévention",
+          "contenu": [
+            "Élaboration et mise en œuvre",
+            "Suivi du plan"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Contrôle et Applications Pratiques",
+          "contenu": [
+            "Inspections et audits",
+            "Simulations pratiques"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Outils et Évaluation Finale",
+          "contenu": [
+            "Outils de gestion des risques",
+            "Évaluation finale"
+          ]
+        }
+      ]
+    },
+
+  {
+    "titreFormation": "Prévention des Risques Liés aux Travaux dans les Espaces Confinés",
+    "objectifs": [
+      "Comprendre les dangers et les risques associés aux travaux dans les espaces confinés",
+      "Développer des compétences pour mettre en œuvre des mesures de prévention et de protection",
+      "Maîtriser les techniques pour assurer la sécurité des travailleurs effectuant des travaux dans des espaces confinés"
+    ],
+    "publicCible": [
+      "Travailleurs dans des espaces confinés",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans la gestion des travaux dans les espaces confinés"
+    ],
+    "prerequis": "Connaissances de base en santé et sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Espaces Confinés",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de sécurité des travaux dans les espaces confinés",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour les travaux dans les espaces confinés"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Identification des Dangers et Évaluation des Risques",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux espaces confinés",
+          "Évaluation des Risques : Méthodes pour évaluer les risques associés aux travaux dans les espaces confinés"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour les travaux dans les espaces confinés (masques, appareils respiratoires)",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour les travaux dans les espaces confinés (ventilation, détection de gaz)",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Techniques de Travail dans les Espaces Confinés",
+        "contenu": [
+          "Méthodes de Travail Sécurisées : Stratégies pour effectuer des travaux dans les espaces confinés de manière sécurisée",
+          "Techniques de Sauvetage : Techniques pour réaliser des sauvetages dans les espaces confinés en cas d'urgence"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Plan de Prévention des Risques",
+        "contenu": [
+          "Élaboration du Plan de Prévention : Techniques pour élaborer un plan de prévention des risques pour les travaux dans les espaces confinés",
+          "Mise en Œuvre et Suivi : Stratégies pour mettre en œuvre et suivre le plan de prévention"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle des Travaux dans les Espaces Confinés",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour les travaux dans les espaces confinés",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des travaux dans les espaces confinés"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Mise en Œuvre des EPI/EPC : Exercices pratiques pour utiliser les EPI et installer les EPC",
+          "Simulations de Sauvetage : Jeux de rôle pour pratiquer les techniques de sauvetage dans les espaces confinés"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Habilitation Électrique",
+    "objectifs": [
+      "Comprendre les dangers liés à l'électricité et les principes de prévention",
+      "Connaître les règles de sécurité et les procédures de travail en environnement électrique",
+      "Utiliser les équipements de protection individuelle (EPI) appropriés",
+      "Appliquer les mesures de protection lors de travaux sur ou à proximité d'installations électriques",
+      "Obtenir l'habilitation électrique selon les normes en vigueur"
+    ],
+    "publicCible": [
+      "Électriciens",
+      "Techniciens de maintenance",
+      "Personnel d'entretien",
+      "Toute personne appelée à intervenir sur des installations électriques ou à proximité"
+    ],
+    "prerequis": "Connaissances de base en électricité (expérience préalable dans le domaine électrique est un plus)",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction à la Sécurité Électrique",
+        "contenu": [
+          "Les dangers de l'électricité",
+          "Les effets du courant électrique sur le corps humain",
+          "Statistiques des accidents électriques"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Réglementation et normes",
+        "contenu": [
+          "Les obligations légales et réglementaires",
+          "Les normes en vigueur (NF C 18-510, etc.)",
+          "Les différents niveaux d'habilitation électrique"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Analyse des risques électriques",
+        "contenu": [
+          "Identification des risques",
+          "Évaluation des risques et prévention",
+          "Plans de prévention et protocoles de sécurité"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Utilisation des équipements de protection individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI pour les travaux électriques",
+          "Utilisation et entretien des EPI",
+          "Mise en situation pratique"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Procédures de travail en sécurité",
+        "contenu": [
+          "Préparation des interventions",
+          "Consignation et déconsignation des installations",
+          "Techniques de mise hors tension et de réarmement"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Secourisme en cas d'accident électrique",
+        "contenu": [
+          "Premiers secours en cas de choc électrique",
+          "Utilisation du défibrillateur automatique externe (DAE)",
+          "Conduite à tenir en attendant les secours"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Évaluation et habilitation",
+        "contenu": [
+          "Test de connaissances théoriques",
+          "Évaluation des compétences pratiques",
+          "Délivrance de l'habilitation électrique"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Habilitation du Personnel Affecté aux Tâches de Manipulation et Stockage des Matières et Produits Chimiques Dangereux et des Récipients de Gaz Sous Pression",
+    "objectifs": [
+      "Comprendre les dangers et les risques associés à la manipulation et au stockage des produits chimiques dangereux et des récipients de gaz sous pression",
+      "Développer des compétences pour mettre en œuvre des mesures de prévention et de protection",
+      "Maîtriser les techniques pour assurer la sécurité des travailleurs manipulant des produits chimiques et des récipients de gaz sous pression"
+    ],
+    "publicCible": [
+      "Travailleurs manipulant des produits chimiques et des gaz sous pression",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans la gestion des produits chimiques et des gaz"
+    ],
+    "prerequis": "Connaissances de base en santé et sécurité au travail et en gestion des produits chimiques",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Produits Chimiques et Gaz Sous Pression",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de sécurité pour les produits chimiques et les gaz sous pression",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour la manipulation et le stockage des produits chimiques et des gaz"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Identification des Dangers et Évaluation des Risques",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux produits chimiques et aux gaz sous pression",
+          "Évaluation des Risques : Méthodes pour évaluer les risques associés à la manipulation et au stockage"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour la manipulation des produits chimiques et des gaz (gants, masques, combinaisons)",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI chimiques"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour la manipulation et le stockage (ventilation, systèmes d'aspiration)",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC chimiques"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Techniques de Manipulation des Produits Chimiques et Gaz",
+        "contenu": [
+          "Méthodes de Manipulation Sécurisées : Stratégies pour manipuler les produits chimiques et les gaz de manière sécurisée",
+          "Techniques de Transfert : Techniques pour transférer les produits chimiques et les gaz en toute sécurité"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Stockage des Produits Chimiques et Gaz",
+        "contenu": [
+          "Conditions de Stockage : Méthodes pour assurer un stockage sûr des produits chimiques et des gaz",
+          "Gestion des Incompatibilités : Stratégies pour gérer les incompatibilités entre produits chimiques"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Plan de Prévention des Risques",
+        "contenu": [
+          "Élaboration du Plan de Prévention : Techniques pour élaborer un plan de prévention des risques pour la manipulation et le stockage des produits chimiques et des gaz",
+          "Mise en Œuvre et Suivi : Stratégies pour mettre en œuvre et suivre le plan de prévention"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Surveillance et Contrôle des Opérations Chimiques",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour les opérations chimiques",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité chimique"
+        ]
+      },
+      {
+        "module": 9,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Mise en Œuvre des EPI/EPC : Exercices pratiques pour utiliser les EPI et installer les EPC",
+          "Simulations de Manipulation : Jeux de rôle pour pratiquer les techniques de manipulation et de stockage"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Conduite Défensive",
+    "objectifs": [
+      "Comprendre les principes de la conduite défensive",
+      "Développer des compétences pour anticiper et réagir aux situations de conduite dangereuses",
+      "Maîtriser les techniques pour réduire les risques d'accidents de la route"
+    ],
+    "publicCible": [
+      "Conducteurs professionnels",
+      "Chauffeurs de transport de marchandises et de personnes",
+      "Toute personne impliquée dans la conduite de véhicules pour des raisons professionnelles"
+    ],
+    "prerequis": "Permis de conduire valide",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction à la Conduite Défensive",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de la conduite défensive",
+          "Importance de la Conduite Défensive : Exploration de l'importance de la conduite défensive pour la sécurité routière"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Préparation à la Conduite",
+        "contenu": [
+          "Vérifications Préalables : Techniques pour effectuer les vérifications préalables du véhicule",
+          "Position de Conduite : Stratégies pour adopter une position de conduite optimale"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Anticipation et Prévision",
+        "contenu": [
+          "Lecture de la Route : Techniques pour anticiper les dangers et prévoir les comportements des autres usagers",
+          "Gestion des Intersections : Méthodes pour gérer les intersections en toute sécurité"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Techniques de Conduite Sécuritaire",
+        "contenu": [
+          "Distances de Sécurité : Importance de maintenir des distances de sécurité adéquates",
+          "Freinage et Évitement : Techniques pour freiner et éviter les obstacles de manière sécurisée"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Comportement en Situation d'Urgence",
+        "contenu": [
+          "Réaction aux Urgences : Stratégies pour réagir efficacement aux situations d'urgence",
+          "Gestion des Conditions Météorologiques : Techniques pour conduire en toute sécurité dans des conditions météorologiques défavorables"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Surveillance et Contrôle",
+        "contenu": [
+          "Surveillance des Environnements : Techniques pour surveiller les environnements de conduite",
+          "Évaluation des Risques : Stratégies pour évaluer et gérer les risques pendant la conduite"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Conduite : Exercices pratiques pour appliquer les techniques de conduite défensive",
+          "Simulations de Scénarios : Jeux de rôle pour pratiquer la conduite en situations variées"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Lutte contre l'Incendie et Explosion",
+    "objectifs": [
+      "Comprendre les principes de la lutte contre l'incendie et l'explosion",
+      "Développer des compétences pour prévenir et réagir efficacement en cas d'incendie ou d'explosion",
+      "Maîtriser les techniques pour utiliser les équipements de lutte contre l'incendie"
+    ],
+    "publicCible": [
+      "Responsables HSE",
+      "Personnels de sécurité",
+      "Employés travaillant dans des environnements à risque d'incendie ou d'explosion"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction à la Lutte contre l'Incendie",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de la lutte contre l'incendie",
+          "Types d'Incendies : Exploration des différents types d'incendies et leurs caractéristiques"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Prévention des Incendies",
+        "contenu": [
+          "Évaluation des Risques d'Incendie : Techniques pour évaluer les risques d'incendie dans l'environnement de travail",
+          "Mesures de Prévention : Stratégies pour mettre en œuvre des mesures de prévention des incendies"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Équipements de Lutte contre l'Incendie",
+        "contenu": [
+          "Extincteurs : Types et utilisation des extincteurs",
+          "Systèmes de Détection et d'Alerte : Introduction aux systèmes de détection d'incendie et d'alerte"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Réaction en Cas d'Incendie",
+        "contenu": [
+          "Procédures d'Évacuation : Techniques pour planifier et exécuter une évacuation en toute sécurité",
+          "Utilisation des Équipements : Formation à l'utilisation des équipements de lutte contre l'incendie"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Lutte contre les Explosions",
+        "contenu": [
+          "Types d'Explosions : Comprendre les différents types d'explosions et leurs causes",
+          "Mesures de Prévention des Explosions : Techniques pour prévenir les explosions dans l'environnement de travail"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Plan de Réponse aux Incendies et Explosions",
+        "contenu": [
+          "Élaboration du Plan : Techniques pour élaborer un plan de réponse aux incendies et explosions",
+          "Mise en Œuvre et Suivi : Stratégies pour mettre en œuvre et suivre le plan de réponse"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour la prévention des incendies",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité incendie"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Manipulation des Équipements : Exercices pratiques pour utiliser les équipements de lutte contre l'incendie",
+          "Simulations d'Évacuation : Jeux de rôle pour pratiquer les procédures d'évacuation"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Sécurité des Cylindres de Gaz Comprimé",
+    "objectifs": [
+      "Comprendre les dangers associés aux cylindres de gaz comprimé",
+      "Développer des compétences pour manipuler et stocker les cylindres de gaz en toute sécurité",
+      "Maîtriser les techniques pour prévenir les incidents liés aux gaz comprimés"
+    ],
+    "publicCible": [
+      "Personnel manipulant des cylindres de gaz",
+      "Responsables HSE",
+      "Toute personne impliquée dans la gestion des gaz comprimés"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail et en gestion des gaz",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction à la Sécurité des Gaz Comprimés",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de sécurité des gaz comprimés",
+          "Types de Gaz : Présentation des différents types de gaz comprimés et leurs caractéristiques"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés aux Gaz Comprimés",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux gaz comprimés",
+          "Risques d'Explosion et d'Incendie : Exploration des risques d'explosion et d'incendie liés aux gaz comprimés"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Manipulation des Cylindres de Gaz",
+        "contenu": [
+          "Techniques de Manipulation Sécurisées : Stratégies pour manipuler les cylindres de gaz en toute sécurité",
+          "Utilisation des Équipements : Formation à l'utilisation des équipements pour manipuler les cylindres de gaz"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Stockage des Cylindres de Gaz",
+        "contenu": [
+          "Conditions de Stockage : Méthodes pour assurer un stockage sûr des cylindres de gaz",
+          "Gestion des Incompatibilités : Stratégies pour gérer les incompatibilités entre différents gaz"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour la manipulation des gaz comprimés",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI chimiques"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Prévention des Incidents",
+        "contenu": [
+          "Mesures de Prévention : Techniques pour prévenir les incidents liés aux gaz comprimés",
+          "Plans de Réponse aux Incidents : Élaboration de plans de réponse aux incidents liés aux gaz"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour la sécurité des gaz comprimés",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des gaz"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Manipulation des Cylindres : Exercices pratiques pour manipuler les cylindres de gaz en toute sécurité",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+
+
+
+
+
+  {
+    "titreFormation": "Testeur de Gaz Autorisé",
+    "objectifs": [
+      "Comprendre les principes et l'utilisation des testeurs de gaz",
+      "Développer des compétences pour mesurer les concentrations de gaz en toute sécurité",
+      "Maîtriser les techniques pour interpréter les résultats des tests de gaz et prendre les mesures appropriées"
+    ],
+    "publicCible": [
+      "Travailleurs utilisant des testeurs de gaz",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans la surveillance des gaz"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail et en gestion des gaz",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Testeurs de Gaz",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de fonctionnement des testeurs de gaz",
+          "Types de Testeurs de Gaz : Présentation des différents types de testeurs de gaz et leurs applications"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés aux Gaz",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux gaz",
+          "Risques d'Inhalation et d'Explosion : Exploration des risques d'inhalation et d'explosion liés aux gaz"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Utilisation des Testeurs de Gaz",
+        "contenu": [
+          "Techniques de Mesure : Stratégies pour mesurer les concentrations de gaz en toute sécurité",
+          "Étapes de Calibration : Méthodes pour calibrer les testeurs de gaz"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Interprétation des Résultats",
+        "contenu": [
+          "Analyse des Données : Techniques pour analyser les données recueillies par les testeurs de gaz",
+          "Actions Correctives : Stratégies pour prendre des actions correctives en fonction des résultats des tests"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour la manipulation des testeurs de gaz",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI chimiques"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Prévention des Incidents",
+        "contenu": [
+          "Mesures de Prévention : Techniques pour prévenir les incidents liés aux concentrations dangereuses de gaz",
+          "Plans de Réponse aux Incidents : Élaboration de plans de réponse aux incidents liés aux gaz"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour l'utilisation des testeurs de gaz",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des gaz"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Mesure des Gaz : Exercices pratiques pour utiliser les testeurs de gaz en toute sécurité",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Étiquetage et Verrouillage des Installations - Lockout/Tagout (LOTO)",
+    "objectifs": [
+      "Comprendre les principes du lockout/tagout (LOTO) pour la sécurité des installations",
+      "Développer des compétences pour mettre en œuvre des procédures LOTO efficaces",
+      "Maîtriser les techniques pour prévenir les accidents liés à l'énergie dangereuse"
+    ],
+    "publicCible": [
+      "Personnel de maintenance",
+      "Techniciens",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans la gestion des installations énergisées"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail et en gestion des installations",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction au Lockout/Tagout (LOTO)",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de LOTO",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour LOTO"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés à l'Énergie Dangereuse",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers liés à l'énergie dangereuse",
+          "Types d'Énergie Dangereuse : Exploration des différents types d'énergie dangereuse (électrique, hydraulique, pneumatique, etc.)"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Procédures de LOTO",
+        "contenu": [
+          "Séquences de Verrouillage : Techniques pour suivre les séquences de verrouillage",
+          "Étiquetage des Installations : Méthodes pour étiqueter les installations énergisées"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Verrouillage et d'Étiquetage",
+        "contenu": [
+          "Types d'Équipements : Présentation des différents types d'équipements de verrouillage et d'étiquetage",
+          "Utilisation des Équipements : Techniques pour utiliser correctement les équipements de LOTO"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Surveillance et Contrôle des Procédures LOTO",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour les procédures LOTO",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité LOTO"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Prévention des Accidents",
+        "contenu": [
+          "Mesures de Prévention : Techniques pour prévenir les accidents liés à l'énergie dangereuse",
+          "Plans de Réponse aux Incidents : Élaboration de plans de réponse aux incidents liés à l'énergie"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Mise en Œuvre de LOTO : Exercices pratiques pour mettre en œuvre les procédures LOTO",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Prévention des Risques d'Excavation et de Fouille de Tranchée",
+    "objectifs": [
+      "Comprendre les dangers et les risques associés aux travaux d'excavation et de fouille de tranchée",
+      "Développer des compétences pour mettre en œuvre des mesures de prévention et de protection",
+      "Maîtriser les techniques pour assurer la sécurité des travailleurs lors des travaux d'excavation"
+    ],
+    "publicCible": [
+      "Travailleurs en excavation",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans la gestion des travaux d'excavation"
+    ],
+    "prerequis": "Connaissances de base en santé et sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Travaux d'Excavation",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de sécurité des travaux d'excavation",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour les travaux d'excavation"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Identification des Dangers et Évaluation des Risques",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux travaux d'excavation",
+          "Évaluation des Risques : Méthodes pour évaluer les risques associés aux travaux d'excavation"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Techniques de Sécurisation des Tranchées",
+        "contenu": [
+          "Étaiement et Blindage : Stratégies pour étayer et blinder les tranchées",
+          "Pentes et Berme : Techniques pour créer des pentes et des bermes sécurisées"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour les travaux d'excavation",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI de protection"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour les travaux d'excavation",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Prévention des Effondrements",
+        "contenu": [
+          "Mesures de Prévention : Techniques pour prévenir les effondrements des tranchées",
+          "Surveillance des Tranchées : Méthodes pour surveiller la stabilité des tranchées"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle des Travaux",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour les travaux d'excavation",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des tranchées"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Sécurisation des Tranchées : Exercices pratiques pour sécuriser les tranchées",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Conduite Sécuritaire des Chariots Élévateurs",
+    "objectifs": [
+      "Comprendre les principes de la conduite sécuritaire des chariots élévateurs",
+      "Développer des compétences pour manipuler les chariots élévateurs en toute sécurité",
+      "Maîtriser les techniques pour prévenir les accidents et les incidents liés aux chariots élévateurs"
+    ],
+    "publicCible": [
+      "Conducteurs de chariots élévateurs",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans l'utilisation des chariots élévateurs"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Chariots Élévateurs",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de fonctionnement des chariots élévateurs",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour la conduite des chariots élévateurs"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés aux Chariots Élévateurs",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux chariots élévateurs",
+          "Risques de Basculement et de Collision : Exploration des risques de basculement et de collision"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Techniques de Conduite Sécuritaire",
+        "contenu": [
+          "Manœuvres de Conduite : Stratégies pour effectuer des manœuvres de conduite en toute sécurité",
+          "Chargement et Déchargement : Techniques pour charger et décharger les marchandises en toute sécurité"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour la conduite des chariots élévateurs",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI de protection"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour la conduite des chariots élévateurs",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Entretien et Vérification des Chariots",
+        "contenu": [
+          "Vérifications Préalables : Techniques pour effectuer les vérifications préalables des chariots élévateurs",
+          "Entretien Régulier : Méthodes pour entretenir les chariots élévateurs en toute sécurité"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle des Opérations",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour la conduite des chariots élévateurs",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des chariots élévateurs"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Conduite des Chariots : Exercices pratiques pour conduire les chariots élévateurs en toute sécurité",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Manutention Mécanique et Manuelle",
+    "objectifs": [
+      "Comprendre les principes de la manutention mécanique et manuelle",
+      "Développer des compétences pour manipuler les charges en toute sécurité",
+      "Maîtriser les techniques pour prévenir les blessures et les accidents liés à la manutention"
+    ],
+    "publicCible": [
+      "Opérateurs de manutention",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans la manutention de charges"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction à la Manutention",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de la manutention mécanique et manuelle",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour la manutention"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés à la Manutention",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques à la manutention",
+          "Risques de Blessures et d'Accidents : Exploration des risques de blessures et d'accidents"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Techniques de Manutention Manuelle",
+        "contenu": [
+          "Postures de Manutention : Stratégies pour adopter des postures de manutention sécurisées",
+          "Techniques de Levage : Techniques pour lever et déplacer les charges en toute sécurité"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Techniques de Manutention Mécanique",
+        "contenu": [
+          "Utilisation des Équipements : Stratégies pour utiliser les équipements de manutention mécanique (transpalettes, chariots élévateurs)",
+          "Entretien des Équipements : Méthodes pour entretenir les équipements de manutention en toute sécurité"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour la manutention",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI de protection"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour la manutention",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle des Opérations",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour la manutention",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité de la manutention"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Manutention : Exercices pratiques pour manipuler les charges en toute sécurité",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Conduite Sécuritaire des Engins de Chantiers",
+    "objectifs": [
+      "Comprendre les principes de la conduite sécuritaire des engins de chantiers",
+      "Développer des compétences pour manipuler les engins de chantiers en toute sécurité",
+      "Maîtriser les techniques pour prévenir les accidents et les incidents liés aux engins de chantiers"
+    ],
+    "publicCible": [
+      "Conducteurs d'engins de chantiers",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans l'utilisation des engins de chantiers"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Engins de Chantiers",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de fonctionnement des engins de chantiers",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour la conduite des engins de chantiers"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés aux Engins de Chantiers",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux engins de chantiers",
+          "Risques de Basculement et de Collision : Exploration des risques de basculement et de collision"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Techniques de Conduite Sécuritaire",
+        "contenu": [
+          "Manœuvres de Conduite : Stratégies pour effectuer des manœuvres de conduite en toute sécurité",
+          "Chargement et Déchargement : Techniques pour charger et décharger les matériaux en toute sécurité"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour la conduite des engins de chantiers",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI de protection"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour la conduite des engins de chantiers",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Entretien et Vérification des Engins",
+        "contenu": [
+          "Vérifications Préalables : Techniques pour effectuer les vérifications préalables des engins de chantiers",
+          "Entretien Régulier : Méthodes pour entretenir les engins de chantiers en toute sécurité"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle des Opérations",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour la conduite des engins de chantiers",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des engins de chantiers"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Conduite des Engins : Exercices pratiques pour conduire les engins de chantiers en toute sécurité",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Conduite Sécuritaire des Ponts Roulants",
+    "objectifs": [
+      "Comprendre les principes de la conduite sécuritaire des ponts roulants",
+      "Développer des compétences pour manipuler les ponts roulants en toute sécurité",
+      "Maîtriser les techniques pour prévenir les accidents et les incidents liés aux ponts roulants"
+    ],
+    "publicCible": [
+      "Conducteurs de ponts roulants",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans l'utilisation des ponts roulants"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Ponts Roulants",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de fonctionnement des ponts roulants",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour la conduite des ponts roulants"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés aux Ponts Roulants",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux ponts roulants",
+          "Risques de Basculement et de Collision : Exploration des risques de basculement et de collision"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Techniques de Conduite Sécuritaire",
+        "contenu": [
+          "Manœuvres de Conduite : Stratégies pour effectuer des manœuvres de conduite en toute sécurité",
+          "Levage et Déplacement des Charges : Techniques pour lever et déplacer les charges en toute sécurité"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour la conduite des ponts roulants",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI de protection"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour la conduite des ponts roulants",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Entretien et Vérification des Ponts",
+        "contenu": [
+          "Vérifications Préalables : Techniques pour effectuer les vérifications préalables des ponts roulants",
+          "Entretien Régulier : Méthodes pour entretenir les ponts roulants en toute sécurité"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle des Opérations",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour la conduite des ponts roulants",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des ponts roulants"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Conduite des Ponts : Exercices pratiques pour conduire les ponts roulants en toute sécurité",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Conduite Sécuritaire des Nacelles (PEMP)",
+    "objectifs": [
+      "Comprendre les principes de la conduite sécuritaire des nacelles élévatrices (PEMP)",
+      "Développer des compétences pour manipuler les nacelles en toute sécurité",
+      "Maîtriser les techniques pour prévenir les accidents et les incidents liés aux nacelles"
+    ],
+    "publicCible": [
+      "Conducteurs de nacelles",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne impliquée dans l'utilisation des nacelles élévatrices"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Nacelles Élévatrices",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de fonctionnement des nacelles élévatrices",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour la conduite des nacelles"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés aux Nacelles",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques aux nacelles",
+          "Risques de Basculement et de Collision : Exploration des risques de basculement et de collision"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Techniques de Conduite Sécuritaire",
+        "contenu": [
+          "Manœuvres de Conduite : Stratégies pour effectuer des manœuvres de conduite en toute sécurité",
+          "Levage et Déplacement des Charges : Techniques pour lever et déplacer les charges en toute sécurité"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour la conduite des nacelles",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI de protection"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour la conduite des nacelles",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Entretien et Vérification des Nacelles",
+        "contenu": [
+          "Vérifications Préalables : Techniques pour effectuer les vérifications préalables des nacelles élévatrices",
+          "Entretien Régulier : Méthodes pour entretenir les nacelles en toute sécurité"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle des Opérations",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour la conduite des nacelles élévatrices",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des nacelles"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de Conduite des Nacelles : Exercices pratiques pour conduire les nacelles élévatrices en toute sécurité",
+          "Simulations de Scénarios d'Urgence : Jeux de rôle pour pratiquer les procédures de réponse aux incidents"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Techniques d'Élingage et Gestes de Commandement",
+    "objectifs": [
+      "Comprendre les principes des techniques d'élingage et des gestes de commandement",
+      "Développer des compétences pour manipuler les charges avec des élingues en toute sécurité",
+      "Maîtriser les techniques pour communiquer efficacement avec des gestes de commandement"
+    ],
+    "publicCible": [
+      "Opérateurs d'élingage",
+      "Conducteurs de grues",
+      "Superviseurs",
+      "Toute personne impliquée dans la manipulation des charges avec des élingues"
+    ],
+    "prerequis": "Connaissances de base en sécurité au travail",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction aux Techniques d'Élingage",
+        "contenu": [
+          "Concepts de Base : Comprendre les principes de l'élingage",
+          "Réglementation et Normes : Présentation des principales réglementations et normes pour l'élingage"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Dangers Associés à l'Élingage",
+        "contenu": [
+          "Identification des Dangers : Techniques pour identifier les dangers spécifiques à l'élingage",
+          "Risques de Basculement et de Rupture : Exploration des risques de basculement et de rupture des charges"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Techniques d'Élingage Sécuritaire",
+        "contenu": [
+          "Sélection des Élingues : Stratégies pour sélectionner les élingues appropriées",
+          "Fixation des Élingues : Techniques pour fixer les élingues en toute sécurité"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Équipements de Protection Individuelle (EPI)",
+        "contenu": [
+          "Types d'EPI : Présentation des différents types d'EPI pour l'élingage",
+          "Utilisation des EPI : Techniques pour utiliser correctement les EPI de protection"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Équipements de Protection Collective (EPC)",
+        "contenu": [
+          "Types d'EPC : Présentation des différents types d'EPC pour l'élingage",
+          "Utilisation des EPC : Techniques pour installer et utiliser les EPC"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Gestes de Commandement",
+        "contenu": [
+          "Principes des Gestes de Commandement : Techniques pour utiliser les gestes de commandement",
+          "Communication Visuelle : Stratégies pour communiquer efficacement avec des gestes"
+        ]
+      },
+      {
+        "module": 7,
+        "titre": "Surveillance et Contrôle des Opérations",
+        "contenu": [
+          "Plans de Contrôle : Élaboration de plans de contrôle pour les opérations d'élingage",
+          "Inspections et Audits : Techniques pour réaliser des inspections et des audits de sécurité des élingues"
+        ]
+      },
+      {
+        "module": 8,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers d'Élingage : Exercices pratiques pour manipuler les charges avec des élingues en toute sécurité",
+          "Simulations de Gestes de Commandement : Jeux de rôle pour pratiquer les gestes de commandement"
+        ]
+      }
+    ]
+  }
+]
+
+}
