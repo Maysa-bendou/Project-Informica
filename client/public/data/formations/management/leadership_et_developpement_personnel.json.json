@@ -8,8 +8,8 @@
         "Renforcer la capacité à gérer les équipes de manière efficace.",
         "Développer des stratégies pour la gestion du stress."
       ],
-      "publicCible": "Managers de niveau intermédiaire à supérieur, chefs de projet, responsables d’équipes.",
-      "prerequis": "Expérience préalable en gestion d’équipe, connaissances de base en management.",
+      "publicCible": "Managers de niveau intermédiaire à supérieur, chefs de projet, responsables d'équipes.",
+      "prerequis": "Expérience préalable en gestion d'équipe, connaissances de base en management.",
       "programme": [
         {
           "titre": "1. Introduction au Leadership",
@@ -45,7 +45,7 @@
         {
           "titre": "5. Évaluation Finale",
           "contenu": [
-            "Évaluation des acquis, bilan personnel et remise d’attestation."
+            "Évaluation des acquis, bilan personnel et remise d'attestation."
           ]
         }
       ]
@@ -91,7 +91,7 @@
         {
           "titre": "5. Évaluation Finale",
           "contenu": [
-            "Évaluation des acquis, retour d’expérience, remise d’attestation."
+            "Évaluation des acquis, retour d'expérience, remise d'attestation."
           ]
         }
       ]
@@ -103,7 +103,7 @@
         "Apprendre des techniques efficaces pour gérer le stress personnel.",
         "Acquérir des compétences pour aider les collaborateurs à gérer leur stress."
       ],
-      "publicCible": "Managers, chefs de projet, responsables d’équipe, tous les professionnels souhaitant améliorer leur gestion du stress et celle de leurs collaborateurs.",
+      "publicCible": "Managers, chefs de projet, responsables d'équipe, tous les professionnels souhaitant améliorer leur gestion du stress et celle de leurs collaborateurs.",
       "prerequis": "Aucun prérequis spécifique.",
       "programme": [
         {
@@ -124,9 +124,9 @@
         {
           "titre": "3. Aider les Collaborateurs à Gérer leur Stress",
           "contenu": [
-            "Identification du Stress chez les Collaborateurs : Signes et symptômes du stress chez les membres de l’équipe.",
+            "Identification du Stress chez les Collaborateurs : Signes et symptômes du stress chez les membres de l'équipe.",
             "Techniques de Support : Stratégies pour soutenir les collaborateurs stressés (écoute active, coaching).",
-            "Promotion d’un Environnement de Travail Sain : Actions pour créer un environnement de travail réduisant le stress."
+            "Promotion d'un Environnement de Travail Sain : Actions pour créer un environnement de travail réduisant le stress."
           ]
         },
         {
@@ -140,6 +140,166 @@
           "titre": "5. Évaluation Finale",
           "contenu": [
             "Évaluation des acquis, discussion collective, remise des attestations."
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "S'affirmer dans la Vie Professionnelle",
+      "objectifs": [
+        "Développer la confiance en soi et l'assertivité au travail.",
+        "Apprendre à exprimer ses opinions et besoins de manière claire et respectueuse.",
+        "Améliorer les compétences en communication pour mieux gérer les interactions professionnelles."
+      ],
+      "publicCible": "Tous les professionnels souhaitant renforcer leur assertivité et leur confiance en soi au travail.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à l'Assertivité",
+          "contenu": [
+            "Concepts de Base : Définition de l'assertivité, différences entre passivité, assertivité et agressivité.",
+            "Auto-évaluation : Outils pour évaluer son niveau actuel d'assertivité."
+          ]
+        },
+        {
+          "titre": "2. Développement de la Confiance en Soi",
+          "contenu": [
+            "Techniques de Renforcement de la Confiance : Stratégies pour développer une attitude positive et confiante.",
+            "Gestion des Peurs et des Doutes : Techniques pour surmonter les peurs et les doutes qui entravent l'affirmation de soi."
+          ]
+        },
+        {
+          "titre": "3. Communication Assertive",
+          "contenu": [
+            "Techniques de Communication : Apprentissage des techniques pour exprimer ses opinions et besoins clairement et respectueusement.",
+            "Gestion des Critiques et des Désaccords : Stratégies pour gérer les critiques constructivement et résoudre les désaccords de manière assertive."
+          ]
+        },
+        {
+          "titre": "4. Applications Pratiques",
+          "contenu": [
+            "Jeux de Rôle : Simulations de situations professionnelles pour pratiquer l'affirmation de soi.",
+            "Études de Cas : Analyse de cas concrets pour développer des réponses assertives adaptées."
+          ]
+        },
+        {
+          "titre": "5. Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis, échanges en groupe, conclusion de la formation."
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "Développer sa Créativité",
+      "objectifs": [
+        "Stimuler la pensée créative et l'innovation.",
+        "Apprendre des techniques pour générer de nouvelles idées.",
+        "Améliorer la capacité à résoudre les problèmes de manière créative."
+      ],
+      "publicCible": "Tous les professionnels souhaitant améliorer leur créativité et leur capacité d'innovation.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Créativité",
+          "contenu": [
+            "Concepts de Base : Définition et importance de la créativité dans le milieu professionnel.",
+            "Auto-évaluation : Outils pour évaluer son niveau actuel de créativité."
+          ]
+        },
+        {
+          "titre": "2. Techniques de Génération d'Idées",
+          "contenu": [
+            "Brainstorming : Apprentissage des techniques de brainstorming pour générer des idées en groupe.",
+            "Mind Mapping : Utilisation du mind mapping pour organiser et visualiser les idées.",
+            "Technique des 6 Chapeaux de la Pensée : Application de cette méthode pour aborder les problèmes sous différents angles."
+          ]
+        },
+        {
+          "titre": "3. Résolution Créative de Problèmes",
+          "contenu": [
+            "Approches Innovantes : Techniques pour aborder les problèmes de manière innovante, y compris le design thinking.",
+            "Analyse et Réorganisation : Méthodes pour analyser et réorganiser les problèmes afin de trouver des solutions créatives."
+          ]
+        },
+        {
+          "titre": "4. Développement de la Pensée Innovante",
+          "contenu": [
+            "Cultiver la Curiosité : Stratégies pour encourager la curiosité et l'ouverture d'esprit.",
+            "Environnement Créatif : Création d'un environnement de travail propice à l'innovation et à la créativité."
+          ]
+        },
+        {
+          "titre": "5. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Créativité : Exercices pratiques pour appliquer les techniques de créativité.",
+            "Études de Cas : Analyse de situations réelles pour développer des solutions créatives et innovantes."
+          ]
+        },
+        {
+          "titre": "6. Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis, feedback sur les projets réalisés, perspectives de développement futur."
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "Prévenir et Gérer les Situations Difficiles",
+      "objectifs": [
+        "Identifier les situations difficiles et les anticiper.",
+        "Développer des compétences pour gérer efficacement les conflits et les crises.",
+        "Renforcer la résilience et la capacité à trouver des solutions face aux situations complexes."
+      ],
+      "publicCible": "Managers, chefs de projet, responsables d'équipe, tous les professionnels confrontés à des situations difficiles dans leur travail.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion des Situations Difficiles",
+          "contenu": [
+            "Comprendre les Situations Difficiles : Définition et typologie des situations difficiles au travail.",
+            "Auto-évaluation : Outils pour évaluer sa capacité actuelle à gérer les situations difficiles."
+          ]
+        },
+        {
+          "titre": "2. Prévention des Situations Difficiles",
+          "contenu": [
+            "Identification Précoce : Techniques pour repérer les signes avant-coureurs des conflits et des crises.",
+            "Communication Préventive : Stratégies de communication pour prévenir les situations difficiles."
+          ]
+        },
+        {
+          "titre": "3. Gestion des Conflits",
+          "contenu": [
+            "Techniques de Médiation : Apprentissage des techniques de médiation pour résoudre les conflits de manière constructive.",
+            "Négociation en Situation de Conflit : Stratégies de négociation pour trouver des solutions gagnant-gagnant."
+          ]
+        },
+        {
+          "titre": "4. Gestion des Crises",
+          "contenu": [
+            "Planification de la Réponse aux Crises : Élaboration de plans d'action pour faire face aux crises.",
+            "Techniques de Dé-escalade : Méthodes pour réduire la tension et contrôler les situations de crise."
+          ]
+        },
+        {
+          "titre": "5. Renforcement de la Résilience",
+          "contenu": [
+            "Développement de la Résilience : Techniques pour renforcer la résilience face aux défis et aux situations stressantes.",
+            "Gestion des Émotions : Stratégies pour gérer ses émotions et celles des autres dans des situations difficiles."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Simulations de Conflits : Jeux de rôle et simulations pour pratiquer la gestion des conflits.",
+            "Études de Cas : Analyse de cas réels pour développer des stratégies de gestion des crises."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": [
+            "Évaluation des compétences acquises, bilan personnel et plan d'amélioration continue."
           ]
         }
       ]
