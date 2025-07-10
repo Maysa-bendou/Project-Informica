@@ -16,15 +16,14 @@
       <a href="#A_propos">A propos</a>
       <a href="#Nos_formations">Nos Formations</a>
       <a href="#Nos_Références">Nos Références</a>
-      <a href="#Actualités">Actualités</a>
       <a href="#Contact">Contact</a>
-      <a href="#info">Demande d'information</a>
     </nav>
   </header>
 
   <main>
 
  <section id="A_propos">
+  
   <div class="apropos-container">
      <h2> | EFP INFORMICA</h2>
     <p>
@@ -100,6 +99,7 @@
 
 <section id="Nos_Références">
   <h2>Nos Références</h2>
+
   <div class="references-slider-container">
     <button class="slider-arrow prev-arrow">&#8249;</button>
     
@@ -145,99 +145,106 @@
   <!-- Dots will be added automatically by JavaScript -->
 </section>
 
-<section id="Actualités">
-      <h2>Actualités</h2>
-      <p>................</p>
-    </section>
 
-<!-- 🔵 CONTACT SECTION -->
+
+<!-- 🔵 CONTACT SECTION + FORM -->
 <section id="Contact">
-  <h2>Contactez-nous</h2>
-  
-  <div class="contact-info-grid">
-    <div class="contact-box">
-      <div class="contact-header">
-        <img src="assets/image/icons/telephone-svgrepo-com.svg" alt="Téléphone">
-        <h3 class="contact-title">Téléphone</h3>
-      </div>
-      <p class="contact-content">0661 83 23 78 / 0661 57 93 35 / 0774 37 32 71</p>
+  <h2> Contactez-nous </h2>
+
+  <div class="contact-container">
+    <!-- Left: Contact Info -->
+    <div class="contact-info">
+      
+      
+        <div class="contact-header">
+          <img src="assets/image/icons/telephone-svgrepo-com.svg" alt="Téléphone">
+          <h3 class="contact-title">Téléphone</h3>
+        </div>
+        <p class="contact-content">0661 83 23 78 <br>
+            0661 57 93 35 <br>
+            0774 37 32 71
+        </p>
+      <hr>
+
+      
+        <div class="contact-header">
+          <img src="assets/image/icons/gmail-svgrepo-com.svg" alt="Email">
+          <h3 class="contact-title">Email</h3>
+        </div>
+        <p class="contact-content">efp.informica@gmail.com</p>
+       <hr>
+
+      
+        <div class="contact-header">
+          <img src="assets/image/icons/location-pin-svgrepo-com.svg" alt="Adresse">
+          <h3 class="contact-title">Adresse</h3>
+        </div>
+        <p class="contact-content">Division 4, Gr Pr no 1224, lot no 1, 2ième étage, Boumerdès 35000</p>
+     
     </div>
+
+    <!-- Right: Form -->
     
-    <div class="contact-box">
-      <div class="contact-header">
-        <img src="assets/image/icons/gmail-svgrepo-com.svg" alt="Email">
-        <h3 class="contact-title">Email</h3>
-      </div>
-      <p class="contact-content">efp.informica@gmail.com</p>
-    </div>
+      <form class="contact-form">
+        <h3> Demande d'infomations </h3>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="entreprise">Nom de l'entreprise <span>*</span></label>
+            <input type="text" id="entreprise" name="entreprise" required />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="fonction">Fonction</label>
+            <input type="text" id="fonction" name="fonction" />
+          </div>
+          <div class="form-group">
+            <label for="email">Email <span>*</span></label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <div class="form-group">
+            <label for="phone">Téléphone <span>*</span></label>
+            <input type="tel" id="phone" name="phone" required>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group full">
+            <label for="message"> Demande <span>*</span></label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+          </div>
+        </div>
+
+        <input type="submit" value="Envoyer" class="submit-btn" />
+      </form>
     
-    <div class="contact-box">
-      <div class="contact-header">
-        <img src="assets/image/icons/location-pin-svgrepo-com.svg" alt="Adresse">
-        <h3 class="contact-title">Adresse</h3>
-      </div>
-      <p class="contact-content">Division 4, Gr Pr no 1224, lot no 1, 2ième étage, Boumerdès 35000</p>
-    </div>
   </div>
 </section>
 
-<!-- 🟩 FORM SECTION -->
-<section id="info">
-  <h2 class="form-heading">Demande d'informations</h2>
-
-  <form class="contact-form">
-    <div class="form-row">
-      <div class="form-group">
-        <label for="entreprise">Nom de l'entreprise <span>*</span></label>
-        <input type="text" id="entreprise" name="entreprise" required />
-      </div>
-      <div class="form-group">
-        <label for="responsable">Nom du responsable</label>
-        <input type="text" id="responsable" name="responsable" />
-      </div>
-    </div>
-
-    <div class="form-row">
-      <div class="form-group">
-        <label for="fonction">Fonction</label>
-        <input type="text" id="fonction" name="fonction" />
-      </div>
-      <div class="form-group">
-        <label for="email">Email <span>*</span></label>
-        <input type="email" id="email" name="email" required />
-      </div>
-     <div class="form-group">
-    <label for="phone">Téléphone <span>*</span></label>
-    <input type="tel" id="phone" name="phone" required>
-  </div>
-    </div>
-
-    <div class="form-row">
-      <div class="form-group full">
-        <label for="message">Message / Demande <span>*</span></label>
-        <textarea id="message" name="message" rows="4" required></textarea>
-      </div>
-    </div>
-
-    <input type="submit" value="Envoyer" />
-  </form>
-</section>
-
-<!-- 🗺️ MAP SECTION -->
+<!-- 🗺 MAP SECTION -->
 <section id="Localisation">
   <h2>📍 Localisation</h2>
   <div class="contact-map">
-    <iframe 
+    <iframe
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3192.1323242780145!2d3.3779732152782547!3d36.75354297995659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128fadc6cdb3a0e1%3A0x8cfedb27b8cd8b56!2sBoumerdes!5e0!3m2!1sen!2sdz!4v1659808290304!5m2!1sen!2sdz"
-      width="100%" 
-      height="450" 
-      style="border:0;" 
-      allowfullscreen="" 
+      width="100%"
+      height="450"
+      style="border:0;"
+      allowfullscreen=""
       loading="lazy">
     </iframe>
   </div>
 </section>
-  </main>
+
+
+
+
+
+
+
+
+</main>
 
 <footer class="footer">
     <div class="footer-row">
@@ -256,18 +263,17 @@
       © 2025 INFORMICA. Tous droits réservés. Projet réalisé par les étudiants.
     </div>
   </footer>
-  <script>
+<script>
   // Shrink header on scroll
   window.addEventListener("scroll", function () {
     const header = document.querySelector("header");
     header.classList.toggle("scrolled", window.scrollY > 40);
   });
 
-  // Highlight active section in nav
-  const sections = document.querySelectorAll("section[id]");
-  const navLinks = document.querySelectorAll("header nav a");
-
-  window.addEventListener("scroll", () => {
+  // Function to highlight active nav link
+  function updateActiveSection() {
+    const sections = document.querySelectorAll("section[id]");
+    const navLinks = document.querySelectorAll("header nav a");
     let current = "";
 
     sections.forEach((section) => {
@@ -279,13 +285,17 @@
 
     navLinks.forEach((link) => {
       link.classList.remove("active");
-      if (link.getAttribute("href").includes(current)) {
+      if (current && link.getAttribute("href").includes(current)) {
         link.classList.add("active");
       }
     });
-  });
+  }
 
+  // Run on scroll and on page load
+  window.addEventListener("scroll", updateActiveSection);
+  document.addEventListener("DOMContentLoaded", updateActiveSection);
 </script>
+
 
 <script>
   const form = document.querySelector(".contact-form");
@@ -407,6 +417,57 @@
 </script>
 
 
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const allSections = document.querySelectorAll("section");
+    const navLinks = document.querySelectorAll("header nav a");
+
+    // On initial load: hide all sections except A_propos
+    allSections.forEach(section => {
+      if (section.id !== "A_propos") {
+        section.style.display = "none";
+      }
+    });
+
+    // Handle navbar clicks
+    navLinks.forEach(link => {
+      link.addEventListener("click", (e) => {
+        const href = link.getAttribute("href");
+        if (href.startsWith("#")) {
+          e.preventDefault();
+
+          const targetId = href.slice(1);
+
+          // Hide all sections
+          allSections.forEach(section => {
+            section.style.display = "none";
+          });
+
+          // Show only the clicked section
+          if (targetId === "Contact") {
+            const contact = document.getElementById("Contact");
+            const localisation = document.getElementById("Localisation");
+            if (contact) contact.style.display = "block";
+            if (localisation) localisation.style.display = "block";
+            if (contact) contact.scrollIntoView({ behavior: "smooth" });
+          } else {
+            const section = document.getElementById(targetId);
+            if (section) {
+              section.style.display = "block";
+              section.scrollIntoView({ behavior: "smooth" });
+            }
+          }
+
+          // Update active class
+          navLinks.forEach(n => n.classList.remove("active"));
+          link.classList.add("active");
+        }
+      });
+    });
+  });
+</script>
 
 
 
