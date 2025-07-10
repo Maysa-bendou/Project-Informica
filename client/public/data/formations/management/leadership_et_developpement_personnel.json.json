@@ -1,0 +1,148 @@
+{
+  "title": "Leadership et développement personnel",
+  "formations": [
+    {
+      "titreFormation": "Développer son Leadership",
+      "objectifs": [
+        "Améliorer les compétences en leadership.",
+        "Renforcer la capacité à gérer les équipes de manière efficace.",
+        "Développer des stratégies pour la gestion du stress."
+      ],
+      "publicCible": "Managers de niveau intermédiaire à supérieur, chefs de projet, responsables d’équipes.",
+      "prerequis": "Expérience préalable en gestion d’équipe, connaissances de base en management.",
+      "programme": [
+        {
+          "titre": "1. Introduction au Leadership",
+          "contenu": [
+            "Théories et Styles de Leadership",
+            "Auto-évaluation : outils pour mieux se connaître."
+          ]
+        },
+        {
+          "titre": "2. Communication Efficace",
+          "contenu": [
+            "Techniques de Communication : écoute active, assertivité.",
+            "Gestion des Conflits : médiation et négociation.",
+            "Écoute Active : comprendre et interagir."
+          ]
+        },
+        {
+          "titre": "3. Gestion du Stress",
+          "contenu": [
+            "Identification des Sources de Stress",
+            "Techniques de Relaxation : respiration, méditation.",
+            "Gestion du Temps : priorisation, outils numériques."
+          ]
+        },
+        {
+          "titre": "4. Développement de la Créativité",
+          "contenu": [
+            "Brainstorming : techniques pour l'équipe.",
+            "Résolution Créative : design thinking.",
+            "Innovation : encourager la pensée créative."
+          ]
+        },
+        {
+          "titre": "5. Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis, bilan personnel et remise d’attestation."
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "Développer son Intelligence Émotionnelle",
+      "objectifs": [
+        "Comprendre les principes de l'intelligence émotionnelle.",
+        "Améliorer la gestion des émotions personnelles et professionnelles.",
+        "Renforcer les compétences en communication émotionnelle."
+      ],
+      "publicCible": "Managers, chefs de projet, tous les professionnels souhaitant améliorer leur intelligence émotionnelle.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à l'Intelligence Émotionnelle",
+          "contenu": [
+            "Principes de Base : Compréhension des concepts fondamentaux de l'intelligence émotionnelle.",
+            "Auto-évaluation : Outils pour évaluer son intelligence émotionnelle actuelle."
+          ]
+        },
+        {
+          "titre": "2. Gestion des Émotions",
+          "contenu": [
+            "Reconnaissance des Émotions : Techniques pour identifier et comprendre ses propres émotions.",
+            "Régulation des Émotions : Stratégies pour gérer efficacement les émotions dans diverses situations."
+          ]
+        },
+        {
+          "titre": "3. Compétences Sociales et Relationnelles",
+          "contenu": [
+            "Empathie : Développement de l'empathie pour mieux comprendre et répondre aux émotions des autres.",
+            "Communication Émotionnelle : Techniques pour améliorer la communication basée sur l'intelligence émotionnelle."
+          ]
+        },
+        {
+          "titre": "4. Applications Pratiques",
+          "contenu": [
+            "Résolution de Conflits : Utilisation de l'intelligence émotionnelle pour gérer et résoudre les conflits.",
+            "Leadership Émotionnel : Application des principes de l'intelligence émotionnelle dans le leadership."
+          ]
+        },
+        {
+          "titre": "5. Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis, retour d’expérience, remise d’attestation."
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gérer son Stress et celui de ses Collaborateurs",
+      "objectifs": [
+        "Identifier les sources de stress au travail.",
+        "Apprendre des techniques efficaces pour gérer le stress personnel.",
+        "Acquérir des compétences pour aider les collaborateurs à gérer leur stress."
+      ],
+      "publicCible": "Managers, chefs de projet, responsables d’équipe, tous les professionnels souhaitant améliorer leur gestion du stress et celle de leurs collaborateurs.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion du Stress",
+          "contenu": [
+            "Comprendre le Stress : Définition du stress, ses causes et ses impacts sur la performance et la santé.",
+            "Auto-évaluation : Outils pour évaluer son propre niveau de stress."
+          ]
+        },
+        {
+          "titre": "2. Techniques de Gestion du Stress Personnel",
+          "contenu": [
+            "Techniques de Relaxation : Apprentissage de techniques telles que la respiration profonde, la méditation, et la relaxation progressive.",
+            "Gestion du Temps : Stratégies pour une gestion efficace du temps afin de réduire le stress.",
+            "Développement de la Résilience : Techniques pour renforcer la résilience face au stress."
+          ]
+        },
+        {
+          "titre": "3. Aider les Collaborateurs à Gérer leur Stress",
+          "contenu": [
+            "Identification du Stress chez les Collaborateurs : Signes et symptômes du stress chez les membres de l’équipe.",
+            "Techniques de Support : Stratégies pour soutenir les collaborateurs stressés (écoute active, coaching).",
+            "Promotion d’un Environnement de Travail Sain : Actions pour créer un environnement de travail réduisant le stress."
+          ]
+        },
+        {
+          "titre": "4. Applications Pratiques",
+          "contenu": [
+            "Exercices de Relaxation en Groupe : Mise en pratique des techniques de relaxation avec les collaborateurs.",
+            "Études de Cas : Analyse de situations réelles et développement de stratégies de gestion du stress adaptées."
+          ]
+        },
+        {
+          "titre": "5. Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis, discussion collective, remise des attestations."
+          ]
+        }
+      ]
+    }
+  ]
+}

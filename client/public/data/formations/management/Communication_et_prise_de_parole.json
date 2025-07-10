@@ -1,0 +1,125 @@
+{
+  "title": "Communication et prise de parole",
+  "formations": [
+    {
+      "titreFormation": "Renforcer son Impact Professionnel à l'Oral",
+      "objectifs": [
+        "Améliorer les compétences en prise de parole en public.",
+        "Développer une communication claire et persuasive.",
+        "Renforcer la confiance en soi lors des présentations orales."
+      ],
+      "publicCible": "Tous les professionnels souhaitant améliorer leur impact lors de prises de parole en public.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Prise de Parole en Public",
+          "contenu": [
+            "Concepts de Base : Importance de la prise de parole efficace en milieu professionnel.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en communication orale."
+          ]
+        },
+        {
+          "titre": "2. Techniques de Communication Orale",
+          "contenu": [
+            "Articulation et Diction : Exercices pour améliorer la clarté de l’expression orale.",
+            "Utilisation de la Voix : Techniques pour moduler la voix, gérer le volume et le ton."
+          ]
+        },
+        {
+          "titre": "3. Structuration du Discours",
+          "contenu": [
+            "Construction du Message : Méthodes pour structurer un discours de manière logique et persuasive.",
+            "Introduction et Conclusion : Techniques pour captiver l’audience dès le début et conclure efficacement."
+          ]
+        },
+        {
+          "titre": "4. Techniques de Présentation",
+          "contenu": [
+            "Utilisation des Supports Visuels : Bonnes pratiques pour utiliser des supports visuels (e.g., slides) pour renforcer le message.",
+            "Gestion du Langage Corporel : Stratégies pour utiliser le langage corporel de manière positive et engageante."
+          ]
+        },
+        {
+          "titre": "5. Développement de la Confiance en Soi",
+          "contenu": [
+            "Préparation Mentale : Techniques pour gérer le trac et renforcer la confiance en soi avant et pendant la présentation.",
+            "Interaction avec l’Audience : Stratégies pour engager l’audience et gérer les questions et les objections."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Exercices de Prise de Parole : Ateliers pratiques pour s’exercer à la prise de parole en public.",
+            "Simulations de Présentation : Simulations de présentations professionnelles pour mettre en pratique les compétences acquises."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis, retour d'expérience, remise d'attestation."
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "Prendre la Parole en Public",
+      "objectifs": [
+        "Améliorer les compétences en prise de parole devant un public.",
+        "Développer la capacité à communiquer de manière claire et efficace.",
+        "Renforcer la confiance en soi lors des interventions publiques."
+      ],
+      "publicCible": "Tous les professionnels souhaitant améliorer leurs compétences en prise de parole en public.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Prise de Parole en Public",
+          "contenu": [
+            "Concepts de Base : Importance et impact de la prise de parole en public dans le milieu professionnel.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en communication orale."
+          ]
+        },
+        {
+          "titre": "2. Préparation à la Prise de Parole",
+          "contenu": [
+            "Définition des Objectifs : Techniques pour définir des objectifs clairs pour la présentation.",
+            "Structuration du Discours : Méthodes pour organiser les idées de manière logique et fluide."
+          ]
+        },
+        {
+          "titre": "3. Techniques de Communication Orale",
+          "contenu": [
+            "Clarté et Concision : Exercices pour améliorer la clarté et la concision du discours.",
+            "Utilisation de la Voix : Techniques pour gérer le rythme, le volume et l’intonation."
+          ]
+        },
+        {
+          "titre": "4. Gestion du Langage Corporel",
+          "contenu": [
+            "Posture et Gestes : Stratégies pour adopter une posture positive et utiliser des gestes pour renforcer le message.",
+            "Contact Visuel : Techniques pour établir et maintenir un contact visuel avec l’audience."
+          ]
+        },
+        {
+          "titre": "5. Développement de la Confiance en Soi",
+          "contenu": [
+            "Gestion du Trac : Techniques pour gérer le stress et le trac avant et pendant la présentation.",
+            "Interaction avec l’Audience : Stratégies pour engager l’audience, répondre aux questions et gérer les objections."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Exercices de Prise de Parole : Ateliers pratiques pour s’exercer à la prise de parole en public.",
+            "Simulations de Présentation : Simulations de situations réelles pour appliquer les compétences acquises."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis, retour d’expérience, remise des attestations."
+          ]
+        }
+      ]
+    }
+  ]
+}

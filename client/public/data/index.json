@@ -1,0 +1,101 @@
+{
+  "management": {
+    "id": "management",
+    "title": "MANAGEMENT / DÉVELOPPEMENT PERSONNEL",
+    "hasSubcategories": true,
+    "subcategories": [
+      {
+        "id": "leadership_et_developpement_personnel",
+        "title": "Leadership et développement personnel"
+      },
+      {
+        "id": "management_dequipe",
+        "title": "Management d’équipe"
+      },
+      {
+        "id": "management_operationnel",
+        "title": "Management opérationnel"
+      }
+    ]
+  },
+  "grh": {
+    "id": "grh",
+    "title": "GRH : Gestion des Ressources Humaines",
+    "hasSubcategories": false
+  },
+  "comptabilite": {
+    "id": "comptabilite",
+    "title": "Comptabilité / Finance / Juridique",
+    "hasSubcategories": false
+  },
+  "marketing": {
+    "id": "marketing",
+    "title": "Commercial / Marketing",
+    "hasSubcategories": true,
+    "subcategories": [
+      {
+        "id": "connaissances_fondamentales",
+        "title": "Acquisition des Connaissances Fondamentales"
+      },
+      {
+        "id": "competences_strategiques",
+        "title": "Développement des Compétences Stratégiques"
+      },
+      {
+        "id": "techniques_operationnelles",
+        "title": "Maîtrise des Techniques Opérationnelles"
+      },
+      {
+        "id": "relation_client",
+        "title": "Communication et Relation Client"
+      },
+      {
+        "id": "outils_marketing",
+        "title": "Mise en Pratique des Outils Marketing"
+      }
+    ]
+  },
+  "informatique": {
+    "id": "informatique",
+    "title": "INFORMATIQUE / TÉLÉCOMMUNICATION",
+    "hasSubcategories": true,
+    "subcategories": [
+      {
+        "id": "bureautique",
+        "title": "Bureautique"
+      },
+      {
+        "id": "developpement_web",
+        "title": "Développement Web"
+      },
+      {
+        "id": "bases_donnees",
+        "title": "Bases de Données"
+      },
+      {
+        "id": "systemes_information",
+        "title": "Développement Professionnel en Systèmes d’Information"
+      }
+    ]
+  },
+  "qhse": {
+    "id": "qhse",
+    "title": "QHSE : QUALITÉ, HYGIÈNE, SÉCURITÉ ET ENVIRONNEMENT",
+    "hasSubcategories": true,
+    "subcategories": [
+      {
+        "id": "management_qhse",
+        "title": "Management QHSE"
+      },
+      {
+        "id": "hygiene_alimentaire",
+        "title": "Hygiène alimentaire"
+      }
+    ]
+  },
+  "langues": {
+    "id": "langues",
+    "title": "LES LANGUES À DES FINS SPÉCIFIQUES",
+    "hasSubcategories": false
+  }
+}
