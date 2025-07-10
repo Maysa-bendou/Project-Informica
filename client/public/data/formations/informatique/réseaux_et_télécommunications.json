@@ -1,0 +1,527 @@
+{
+  "title": "Réseaux et Télécommunications",
+  "formations": [
+    {
+      "titreFormation": "Théorie des Réseaux : TCP/IP, OSI, Routage, Commutation",
+      "objectifs": [
+        "Comprendre les concepts fondamentaux des réseaux informatiques",
+        "Développer des compétences pour configurer et gérer des réseaux basés sur TCP/IP et OSI",
+        "Maîtriser les techniques de routage et de commutation"
+      ],
+      "publicCible": [
+        "Administrateurs réseau",
+        "Ingénieurs réseau",
+        "Techniciens en informatique"
+      ],
+      "prerequis": "Connaissances de base en informatique et en réseaux",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction aux Réseaux",
+          "contenu": [
+            "Concepts de Base",
+            "Topologies Réseau"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Modèle OSI",
+          "contenu": [
+            "Les 7 Couches OSI",
+            "Protocoles Associés"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Modèle TCP/IP",
+          "contenu": [
+            "Architecture TCP/IP",
+            "Protocoles TCP/IP (HTTP, FTP, SMTP)"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Routage des Réseaux",
+          "contenu": [
+            "Concepts de Routage",
+            "Protocoles (RIP, OSPF, BGP)"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Commutation des Réseaux",
+          "contenu": [
+            "Concepts de Commutation",
+            "Technologies (VLAN, STP)"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Sécurité des Réseaux",
+          "contenu": [
+            "Mesures de Sécurité",
+            "Outils de Sécurité"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Configuration",
+            "Simulations de Routage"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils de Gestion",
+          "contenu": [
+            "Outils de Surveillance (Wireshark, SolarWinds)",
+            "Automatisation des Réseaux"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Technologies Mobiles : 2G, 3G, 4G, 5G, LTE, NR",
+      "objectifs": [
+        "Comprendre les principes des technologies mobiles de la 2G à la 5G",
+        "Développer des compétences pour les réseaux LTE et NR",
+        "Maîtriser les techniques d'optimisation des réseaux mobiles"
+      ],
+      "publicCible": [
+        "Ingénieurs télécoms",
+        "Techniciens réseau",
+        "Consultants en télécommunications"
+      ],
+      "prerequis": "Connaissances de base en réseaux et télécommunications",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Évolution des Réseaux Mobiles",
+            "Principes Fondamentaux"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Technologies 2G et 3G",
+          "contenu": [
+            "Réseaux GSM et GPRS",
+            "Réseaux UMTS et HSPA"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Technologies 4G et LTE",
+          "contenu": [
+            "Architecture LTE",
+            "Fonctionnalités Avancées (MIMO, Carrier Aggregation)"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Technologies 5G et NR",
+          "contenu": [
+            "Architecture 5G NR",
+            "Cas d'Utilisation (IoT, véhicules connectés)"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Optimisation",
+          "contenu": [
+            "Optimisation des Performances",
+            "Gestion des Interférences"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Sécurité",
+          "contenu": [
+            "Protocoles de Sécurité",
+            "Challenges de Sécurité"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Configuration",
+            "Simulations d'Optimisation"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils de Gestion",
+          "contenu": [
+            "Outils de Surveillance",
+            "Solutions d'Analyse"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Administration Réseaux : Windows Server, Linux, Cisco",
+      "objectifs": [
+        "Comprendre l'administration des réseaux sous Windows Server, Linux et Cisco",
+        "Développer des compétences pour configurer serveurs et équipements réseau",
+        "Maîtriser les outils d'administration réseau"
+      ],
+      "publicCible": [
+        "Administrateurs réseau",
+        "Ingénieurs système",
+        "Techniciens IT"
+      ],
+      "prerequis": "Connaissances de base en systèmes d'exploitation et réseaux",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts de Base",
+            "Environnements Réseau"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Windows Server",
+          "contenu": [
+            "Configuration des Serveurs",
+            "Services Réseau (DNS, DHCP, AD)"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Linux",
+          "contenu": [
+            "Gestion des Serveurs",
+            "Services Réseau (Apache, Nginx, SSH)"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Cisco",
+          "contenu": [
+            "Configuration Routeurs/Switches",
+            "Protocoles et Sécurité"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Gestion des Performances",
+          "contenu": [
+            "Surveillance des Réseaux",
+            "Outils de Monitoring (Nagios, Zabbix)"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Sécurité",
+          "contenu": [
+            "Firewall et VPN",
+            "Gestion des Menaces"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Configuration",
+            "Simulations Cisco"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils d'Administration",
+          "contenu": [
+            "Scripts et Automatisation",
+            "Solutions de Gestion (Cisco Prime, Ansible)"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Sécurité des Réseaux et des Systèmes : VPN, Firewalls, Intrusion Detection",
+      "objectifs": [
+        "Comprendre les principes de sécurité des réseaux et systèmes",
+        "Développer des compétences pour configurer VPN, firewalls et systèmes de détection",
+        "Maîtriser les techniques de protection des infrastructures"
+      ],
+      "publicCible": [
+        "Administrateurs réseau",
+        "Ingénieurs sécurité",
+        "Techniciens IT"
+      ],
+      "prerequis": "Connaissances de base en réseaux et sécurité informatique",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts de Base",
+            "Menaces et Vulnérabilités"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "VPN",
+          "contenu": [
+            "Concepts et Types",
+            "Configuration (IPsec, SSL)"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Firewalls",
+          "contenu": [
+            "Types (stateful, stateless, UTM)",
+            "Configuration"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Intrusion Detection",
+          "contenu": [
+            "Concepts IDS/IPS",
+            "Configuration"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Sécurisation",
+          "contenu": [
+            "Stratégies de Sécurisation",
+            "Gestion des Accès"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Surveillance",
+          "contenu": [
+            "Outils (Snort, Suricata)",
+            "Analyse des Logs"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Configuration",
+            "Simulations d'Incidents"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils",
+          "contenu": [
+            "Outils SIEM",
+            "Scripts de Sécurité"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Cloud Computing pour les Télécoms : AWS, Azure, GCP",
+      "objectifs": [
+        "Comprendre le cloud computing et ses applications en télécoms",
+        "Développer des compétences pour utiliser AWS, Azure et GCP",
+        "Maîtriser le déploiement d'infrastructures cloud pour les télécoms"
+      ],
+      "publicCible": [
+        "Ingénieurs télécoms",
+        "Administrateurs cloud",
+        "Architectes cloud"
+      ],
+      "prerequis": "Connaissances de base en réseaux et cloud computing",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts de Base",
+            "Modèles (IaaS, PaaS, SaaS)"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Cloud pour Télécoms",
+          "contenu": [
+            "Applications",
+            "Cas d'Utilisation"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "AWS",
+          "contenu": [
+            "Services (EC2, S3, VPC)",
+            "Déploiement"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Azure",
+          "contenu": [
+            "Services (VM, Blob Storage, VNets)",
+            "Déploiement"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "GCP",
+          "contenu": [
+            "Services (Compute Engine, Cloud Storage)",
+            "Déploiement"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Sécurité",
+          "contenu": [
+            "Sécurisation",
+            "Conformité"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Déploiement",
+            "Simulations"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils",
+          "contenu": [
+            "Terraform, Kubernetes",
+            "Automatisation CI/CD"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "SDN et NFV : Virtualisation des Réseaux et des Fonctions Réseau",
+      "objectifs": [
+        "Comprendre les principes de SDN et NFV",
+        "Développer des compétences pour déployer SDN/NFV",
+        "Maîtriser l'optimisation des réseaux virtualisés"
+      ],
+      "publicCible": [
+        "Ingénieurs réseau",
+        "Administrateurs télécoms",
+        "Architectes cloud"
+      ],
+      "prerequis": "Connaissances de base en réseaux et virtualisation",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction",
+          "contenu": [
+            "Concepts de Base",
+            "Enjeux et Bénéfices"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Architecture SDN",
+          "contenu": [
+            "Composants (control plane, data plane)",
+            "Protocoles (OpenFlow, NETCONF)"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Architecture NFV",
+          "contenu": [
+            "Composants (NFVI, VNF, MANO)",
+            "Fonctions Virtualisées"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Déploiement SDN",
+          "contenu": [
+            "Contrôleurs SDN",
+            "Configuration"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Déploiement NFV",
+          "contenu": [
+            "Orchestrateurs",
+            "Services NFV"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Sécurité",
+          "contenu": [
+            "Sécurisation",
+            "Gestion des Risques"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Configuration",
+            "Simulations"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils",
+          "contenu": [
+            "OpenStack, ONOS",
+            "Automatisation"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
+  ]
+}

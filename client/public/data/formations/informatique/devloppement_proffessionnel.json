@@ -1,0 +1,710 @@
+{
+  "title": "devloppement proffessionnel",
+  "formations": [
+    {
+      "titreFormation": "Gestion et Optimisation des Systèmes d'Information",
+      "objectifs": [
+        "Comprendre les principes de gestion des systèmes d'information (SI)",
+        "Développer des compétences pour optimiser les performances des SI",
+        "Maîtriser les techniques pour aligner les SI avec les objectifs stratégiques de l'entreprise"
+      ],
+      "publicCible": [
+        "Responsables SI",
+        "DSI",
+        "Chefs de projet IT",
+        "Consultants en SI"
+      ],
+      "prerequis": "Connaissances de base en gestion des systèmes d'information",
+      "methodologie": "Exposés théoriques, études de cas, ateliers interactifs, simulations",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à la Gestion des SI",
+          "contenu": [
+            "Concepts de Base",
+            "Rôle Stratégique des SI"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Optimisation des Performances",
+          "contenu": [
+            "Évaluation des SI",
+            "Optimisation des Processus"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Gestion des Ressources SI",
+          "contenu": [
+            "Gestion des Infrastructures",
+            "Gestion des Applications"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Sécurité des SI",
+          "contenu": [
+            "Politiques de Sécurité",
+            "Gestion des Risques"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Alignement Stratégique",
+          "contenu": [
+            "Gouvernance des SI",
+            "Indicateurs de Performance"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers d'Évaluation des SI",
+            "Simulations de Gouvernance SI"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Outils et Techniques",
+          "contenu": [
+            "Outils de Monitoring SI",
+            "Techniques d'Automatisation"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Systèmes d'Information Décisionnels (Business Intelligence)",
+      "objectifs": [
+        "Comprendre les concepts et technologies des systèmes d'information décisionnels (BI)",
+        "Développer des compétences pour analyser les données et générer des rapports décisionnels",
+        "Maîtriser les outils et techniques de Business Intelligence pour la prise de décision"
+      ],
+      "publicCible": [
+        "Analystes BI",
+        "Data analysts",
+        "Responsables SI",
+        "Personnes impliquées dans la prise de décision basée sur les données"
+      ],
+      "prerequis": "Connaissances de base en gestion des données et en analyse de données",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à la Business Intelligence",
+          "contenu": [
+            "Concepts de Base",
+            "Architecture BI"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Collecte et Intégration des Données",
+          "contenu": [
+            "Extraction, Transformation, Chargement (ETL)",
+            "Intégration des Données"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Stockage des Données",
+          "contenu": [
+            "Data Warehousing",
+            "Modélisation des Données"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Analyse des Données",
+          "contenu": [
+            "Outils d'Analyse BI (Tableau, Power BI, QlikView)",
+            "Techniques d'Analyse"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Visualisation des Données",
+          "contenu": [
+            "Création de Tableaux de Bord",
+            "Visualisation des Rapports"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Performance et Optimisation",
+          "contenu": [
+            "Optimisation des Performances",
+            "Gestion des Capacités"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Création de Rapports BI",
+            "Simulations d'Analyse"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Sécurité et Gouvernance",
+          "contenu": [
+            "Sécurisation des Systèmes BI",
+            "Gouvernance des Données"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Analyse et Gestion des Données",
+      "objectifs": [
+        "Comprendre les techniques d'analyse et de gestion des données",
+        "Développer des compétences pour manipuler, analyser et interpréter les données",
+        "Maîtriser les outils et méthodes pour la gestion efficace des données"
+      ],
+      "publicCible": [
+        "Data analysts",
+        "Data scientists",
+        "Responsables de la gestion des données"
+      ],
+      "prerequis": "Connaissances de base en manipulation des données et en analyse statistique",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à l'Analyse des Données",
+          "contenu": [
+            "Concepts de Base",
+            "Cycle de Vie des Données"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Collecte et Préparation",
+          "contenu": [
+            "Techniques de Collecte",
+            "Nettoyage et Préparation"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Exploration des Données",
+          "contenu": [
+            "Analyse Exploratoire",
+            "Visualisation Initiale"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Analyse Statistique",
+          "contenu": [
+            "Statistiques Descriptives",
+            "Techniques d'Inférence"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Modélisation des Données",
+          "contenu": [
+            "Techniques de Modélisation",
+            "Validation des Modèles"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Visualisation des Résultats",
+          "contenu": [
+            "Création de Graphiques",
+            "Tableaux de Bord et Rapports"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers d'Analyse",
+            "Simulations de Modélisation"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils d'Analyse",
+          "contenu": [
+            "Introduction à Python et R",
+            "Logiciels d'Analyse (SAS, SPSS)"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Sécurité et Gouvernance",
+          "contenu": [
+            "Protection des Données",
+            "Qualité des Données"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Architecture des Systèmes d'Information",
+      "objectifs": [
+        "Comprendre les principes d'architecture des SI",
+        "Développer des compétences pour concevoir des architectures SI efficaces",
+        "Maîtriser les techniques pour aligner l'architecture SI avec les besoins de l'entreprise"
+      ],
+      "publicCible": [
+        "Architectes SI",
+        "Responsables SI",
+        "Chefs de projet IT"
+      ],
+      "prerequis": "Connaissances de base en systèmes d'information et gestion des projets IT",
+      "methodologie": "Exposés théoriques, études de cas, ateliers interactifs, simulations",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à l'Architecture SI",
+          "contenu": [
+            "Concepts de Base",
+            "Enjeux de l'Architecture SI"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Conception de l'Architecture",
+          "contenu": [
+            "Modèles d'Architecture (TOGAF, Zachman)",
+            "Techniques de Modélisation (UML, BPMN)"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Intégration des Systèmes",
+          "contenu": [
+            "Intégration des Applications",
+            "Middleware et ESB"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Architecture Orientée Services (SOA)",
+          "contenu": [
+            "Principes de la SOA",
+            "Développement de Services"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Cloud Computing",
+          "contenu": [
+            "Intégration du Cloud",
+            "Technologies de Virtualisation"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Sécurité et Gouvernance",
+          "contenu": [
+            "Sécurisation de l'Architecture",
+            "Gouvernance de l'Architecture"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Conception",
+            "Simulations d'Intégration"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils de Gestion",
+          "contenu": [
+            "Outils de Modélisation (Enterprise Architect, ArchiMate)",
+            "Gestion des Services et API"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion de la Transformation Numérique",
+      "objectifs": [
+        "Comprendre les enjeux de la transformation numérique",
+        "Développer des compétences pour planifier et gérer les projets digitaux",
+        "Maîtriser les outils et stratégies pour réussir la transformation digitale"
+      ],
+      "publicCible": [
+        "Responsables transformation digitale",
+        "Chefs de projet IT",
+        "Consultants en transformation numérique"
+      ],
+      "prerequis": "Connaissances de base en gestion de projets et technologies numériques",
+      "methodologie": "Exposés théoriques, études de cas, ateliers interactifs, simulations",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à la Transformation Numérique",
+          "contenu": [
+            "Concepts de Base",
+            "Enjeux et Opportunités"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Planification",
+          "contenu": [
+            "Stratégie Digitale",
+            "Gestion du Changement"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Technologies Digitales",
+          "contenu": [
+            "Cloud Computing",
+            "Big Data et Analytics"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Innovation et Agilité",
+          "contenu": [
+            "Méthodes Agiles",
+            "Culture de l'Innovation"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Expérience Client Digitale",
+          "contenu": [
+            "Stratégies de Digitalisation",
+            "Outils de CRM"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Sécurité et Conformité",
+          "contenu": [
+            "Cybersécurité",
+            "Conformité Réglementaire"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Planification",
+            "Simulations de Gestion du Changement"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils et Plateformes",
+          "contenu": [
+            "Plateformes (Salesforce, SAP, Microsoft Dynamics)",
+            "Outils de Collaboration"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Systèmes d'Information Géographique (SIG)",
+      "objectifs": [
+        "Comprendre les principes des SIG",
+        "Développer des compétences pour collecter, analyser et visualiser des données géospatiales",
+        "Maîtriser les outils et techniques pour l'utilisation efficace des SIG"
+      ],
+      "publicCible": [
+        "Géomaticiens",
+        "Urbanistes",
+        "Analystes de données spatiales"
+      ],
+      "prerequis": "Connaissances de base en gestion des données géographiques recommandées",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction aux SIG",
+          "contenu": [
+            "Concepts de Base",
+            "Applications des SIG"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Collecte et Préparation",
+          "contenu": [
+            "Techniques de Collecte (GPS, télédétection)",
+            "Préparation des Données"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Analyse Spatiale",
+          "contenu": [
+            "Analyse Spatiale",
+            "Modélisation Géospatiale"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Visualisation",
+          "contenu": [
+            "Cartographie Thématique",
+            "Visualisation Avancée (3D)"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Gestion des Données",
+          "contenu": [
+            "Bases de Données Géospatiales",
+            "Intégration des Données"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Cartographie",
+            "Simulations d'Analyse Spatiale"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Outils SIG",
+          "contenu": [
+            "ArcGIS et QGIS",
+            "Extensions SIG"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Sécurité et Partage",
+          "contenu": [
+            "Sécurisation des Données",
+            "Partage des Cartes"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Les Systèmes ERP pour la Gestion Opérationnelle",
+      "objectifs": [
+        "Comprendre les principes et fonctionnalités des systèmes ERP",
+        "Développer des compétences pour utiliser les ERP dans la gestion des opérations",
+        "Maîtriser les outils pour l'implémentation et l'optimisation des ERP"
+      ],
+      "publicCible": [
+        "Responsables opérationnels",
+        "Chefs de projet ERP",
+        "Consultants ERP"
+      ],
+      "prerequis": "Connaissances de base en gestion des SI et processus opérationnels",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction aux ERP",
+          "contenu": [
+            "Concepts de Base",
+            "Enjeux des ERP"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Fonctionnalités",
+          "contenu": [
+            "Modules ERP (finance, RH, production)",
+            "Intégration des Modules"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Implémentation",
+          "contenu": [
+            "Planification",
+            "Gestion des Projets ERP"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Optimisation",
+          "contenu": [
+            "Automatisation des Processus",
+            "Amélioration Continue"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Analyse des Données",
+          "contenu": [
+            "Reporting ERP",
+            "Tableaux de Bord"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Formation et Support",
+          "contenu": [
+            "Formation des Utilisateurs",
+            "Support et Maintenance"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Configuration",
+            "Simulations de Processus"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils ERP",
+          "contenu": [
+            "SAP, Oracle, Microsoft Dynamics",
+            "Extensions ERP"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "ITIL : Gestion des services IT",
+      "objectifs": [
+        "Comprendre les meilleures pratiques ITIL",
+        "Développer des compétences pour mettre en œuvre les processus ITIL",
+        "Maîtriser les techniques pour aligner les services IT avec la stratégie d'entreprise"
+      ],
+      "publicCible": [
+        "Responsables IT",
+        "Chefs de projet IT",
+        "Consultants IT"
+      ],
+      "prerequis": "Connaissances de base en gestion des services IT",
+      "methodologie": "Exposés théoriques, études de cas, ateliers interactifs, simulations",
+      "duree": "5 jours (35 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à ITIL",
+          "contenu": [
+            "Concepts de Base",
+            "Structure ITIL"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Cycle de Vie des Services",
+          "contenu": [
+            "Stratégie des Services",
+            "Conception des Services"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Transition des Services",
+          "contenu": [
+            "Gestion des Changements",
+            "Gestion des Configurations"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Opération des Services",
+          "contenu": [
+            "Gestion des Incidents",
+            "Gestion des Accès"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Amélioration Continue",
+          "contenu": [
+            "Mesure des Performances",
+            "Amélioration des Processus"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Alignement Stratégique",
+          "contenu": [
+            "Gouvernance IT",
+            "Gestion des Relations"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers ITIL",
+            "Simulations de Gestion"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Outils ITIL",
+          "contenu": [
+            "Outils ITSM (ServiceNow, BMC Remedy)",
+            "Tableaux de Bord ITIL"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Certification ITIL",
+          "contenu": [
+            "Préparation à la Certification"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
+  ]
+}

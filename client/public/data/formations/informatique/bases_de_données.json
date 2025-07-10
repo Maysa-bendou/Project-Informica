@@ -1,0 +1,154 @@
+{
+  "title": "basses de données",
+  "formations":[
+{
+  "titreFormation": "Administration MySQL Avancée",
+  "objectifs": [
+    "Maîtriser l'architecture et les composants MySQL",
+    "Optimiser les performances des bases de données",
+    "Implémenter des solutions de haute disponibilité"
+  ],
+  "publicCible": [
+    "Administrateurs de bases de données",
+    "Développeurs back-end",
+    "Architectes de données"
+  ],
+  "prerequis": "Connaissances de base en SQL",
+  "duree": "4 jours (28 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "Architecture MySQL",
+      "contenu": [
+        "Moteurs de stockage (InnoDB, MyISAM)",
+        "Structure des fichiers de données",
+        "Gestion de la mémoire"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "Optimisation Avancée",
+      "contenu": [
+        "Analyse EXPLAIN",
+        "Optimisation des schémas",
+        "Configuration du buffer pool"
+      ]
+    },
+    {
+      "module": 3,
+      "titre": "Haute Disponibilité",
+      "contenu": [
+        "Réplication MySQL",
+        "Cluster MySQL InnoDB",
+        "Sauvegardes logiques et physiques"
+      ]
+    }
+  ]
+},
+{
+  "titreFormation": "SQL Expert",
+  "objectifs": [
+    "Maîtriser les requêtes complexes",
+    "Optimiser les performances SQL",
+    "Gérer les transactions avancées"
+  ],
+  "publicCible": [
+    "Développeurs SQL",
+    "Analystes de données",
+    "Administrateurs de bases de données"
+  ],
+  "prerequis": "Bases de SQL",
+  "duree": "3 jours (21 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "Requêtes Avancées",
+      "contenu": [
+        "Common Table Expressions (CTE)",
+        "Fenêtrage (Window Functions)",
+        "Requêtes récursives"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "Performance SQL",
+      "contenu": [
+        "Indexation avancée",
+        "Partitionnement",
+        "Plan d'exécution détaillé"
+      ]
+    }
+  ]
+},
+{
+  "titreFormation": "NoSQL - Approche Polyglotte",
+  "objectifs": [
+    "Comprendre les différents modèles NoSQL",
+    "Choisir la solution adaptée aux cas d'usage",
+    "Implémenter des solutions scalables"
+  ],
+  "publicCible": [
+    "Architectes de données",
+    "Développeurs full-stack",
+    "Data engineers"
+  ],
+  "prerequis": "Connaissances de base en bases de données",
+  "duree": "5 jours (35 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "Modèles NoSQL",
+      "contenu": [
+        "Clé-valeur (Redis, DynamoDB)",
+        "Document (MongoDB, Couchbase)",
+        "Graphes (Neo4j, JanusGraph)"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "Patterns de Modélisation",
+      "contenu": [
+        "Denormalisation stratégique",
+        "Design pour les requêtes",
+        "Gestion des relations"
+      ]
+    }
+  ]
+},
+{
+  "titreFormation": "Ingénierie Big Data",
+  "objectifs": [
+    "Maîtriser l'écosystème Hadoop/Spark",
+    "Concevoir des pipelines de données",
+    "Optimiser les traitements distribués"
+  ],
+  "publicCible": [
+    "Data engineers",
+    "Architectes Big Data",
+    "DevOps data"
+  ],
+  "prerequis": "Bases de programmation et bases de données",
+  "duree": "5 jours (35 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "Écosystème Hadoop",
+      "contenu": [
+        "HDFS architecture",
+        "YARN resource management",
+        "Hive/Impala pour le SQL"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "Traitement avec Spark",
+      "contenu": [
+        "DataFrames API",
+        "Streaming structuré",
+        "Optimisation des jobs"
+      ]
+    }
+  ]
+}
+  ]
+}

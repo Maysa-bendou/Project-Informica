@@ -1,0 +1,118 @@
+{
+  "title": "Intelligence Artificielle et Technologies Avancées",
+  "formations": [
+    {
+      "titreFormation": "L'Intelligence Artificielle (IA) : Maîtrisez les Outils de Recherche",
+      "objectifs": [
+        "Comprendre les principes fondamentaux de l'intelligence artificielle (IA)",
+        "Développer des compétences pour utiliser les outils de recherche en IA",
+        "Maîtriser les techniques pour appliquer l'IA et transformer les visions en réalités connectées"
+      ],
+      "publicCible": [
+        "Data scientists",
+        "Ingénieurs en IA",
+        "Développeurs",
+        "Chercheurs",
+        "Personnes intéressées par l'application de l'IA"
+      ],
+      "prerequis": "Connaissances de base en programmation et en mathématiques",
+      "methodologie": "Exposés théoriques, démonstrations pratiques, ateliers interactifs, études de cas",
+      "duree": "6 jours (42 heures)",
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à l'IA",
+          "contenu": [
+            "Concepts de Base",
+            "Historique et Évolution"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Types d'IA",
+          "contenu": [
+            "IA Faible vs IA Forte",
+            "Domaines d'Application (santé, finance, industrie)"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Outils et Techniques de Recherche",
+          "contenu": [
+            "Algorithmes de Machine Learning (régression, classification)",
+            "Deep Learning (réseaux neuronaux, CNN, RNN)"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Environnements de Développement",
+          "contenu": [
+            "Frameworks et Bibliothèques (TensorFlow, PyTorch, Keras)",
+            "Environnements (Jupyter Notebook, Google Colab)"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Préparation des Données",
+          "contenu": [
+            "Collecte des Données",
+            "Nettoyage et Préparation"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Modélisation et Entraînement",
+          "contenu": [
+            "Création de Modèles",
+            "Évaluation des Modèles"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Vision par Ordinateur (détection d'objets, reconnaissance faciale)",
+            "Traitement du Langage Naturel (chatbots, analyse de sentiment)"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Déploiement et Intégration",
+          "contenu": [
+            "Déploiement des Modèles",
+            "Intégration avec les Systèmes Existants"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Éthique et Gouvernance",
+          "contenu": [
+            "Considérations Éthiques",
+            "Gouvernance de l'IA"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Applications Pratiques Avancées",
+          "contenu": [
+            "Ateliers de Développement IA",
+            "Simulations de Déploiement"
+          ]
+        },
+        {
+          "module": 11,
+          "titre": "Visualisation et Analyse",
+          "contenu": [
+            "Visualisation des Résultats",
+            "Outils d'Analyse"
+          ]
+        },
+        {
+          "module": 12,
+          "titre": "Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
+  ]
+}

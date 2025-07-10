@@ -1,0 +1,192 @@
+[
+  {
+    "titreFormation": "Secourisme - Les premiers gestes qui sauvent",
+    "objectifs": [
+      "Comprendre l'importance des premiers secours",
+      "Apprendre les techniques de secourisme fondamentales pour intervenir efficacement en attendant l'arrivée des secours professionnels",
+      "Prévenir les accidents et promouvoir une culture de prévention"
+    ],
+    "publicCible": [
+      "Tous les employés",
+      "Superviseurs",
+      "Responsables HSE",
+      "Toute personne souhaitant acquérir des compétences en premiers secours"
+    ],
+    "prerequis": "Aucun",
+    "methodologie": [
+      "Approche interactive combinant cours théoriques et mises en situation pratiques",
+      "Simulations réalistes avec mannequins et équipements de secourisme",
+      "Évaluations continues avec tests pratiques et théoriques"
+    ],
+    "materielPedagogique": [
+      "Boite à pharmacie complète",
+      "Ballons insufflateurs (Adulte et Bébé)",
+      "Brancard",
+      "Colliers cervicaux",
+      "Matelas à décompression",
+      "Casques de protection",
+      "Plan dur",
+      "Mannequins (Adulte homme Ambuman, Adulte femme Little Anne QCPR, 2 Baby Little Anne)",
+      "3 Défibrillateurs QCPR LAEDER"
+    ],
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction et principes de base du secourisme",
+        "contenu": [
+          "Importance des premiers secours et rôles des secouristes",
+          "Évaluation de la situation et analyse des dangers",
+          "Techniques de réanimation (RCP et défibrillateur)",
+          "Gestion des voies respiratoires"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Interventions en cas de blessures et maladies soudaines",
+        "contenu": [
+          "Traitement des blessures courantes (bandages, hémorragies)",
+          "Interventions pour fractures et traumatismes",
+          "Gestion des brûlures et intoxications",
+          "Secours aux personnes inconscientes"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Pratique et simulations de situations d'urgence",
+        "contenu": [
+          "Mise en pratique des compétences à travers des scénarios",
+          "Évaluation des compétences acquises",
+          "Retour d'expérience et amélioration continue"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "SST : Sauveteur Secouriste du Travail",
+    "objectifs": [
+      "Comprendre les rôles et responsabilités d'un SST",
+      "Développer des compétences pour prévenir les risques professionnels",
+      "Maîtriser les techniques de premiers secours en entreprise"
+    ],
+    "publicCible": [
+      "Tous les employés",
+      "Superviseurs",
+      "Responsables HSE",
+      "Personnes souhaitant devenir SST"
+    ],
+    "prerequis": "Aucun",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction au Rôle du SST",
+        "contenu": [
+          "Principes et responsabilités du SST",
+          "Importance du SST en entreprise"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Prévention des Risques Professionnels",
+        "contenu": [
+          "Identification des risques professionnels",
+          "Mesures de prévention"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Intervention en Cas d'Accident",
+        "contenu": [
+          "Sécurisation de la zone d'accident",
+          "Évaluation de l'état de la victime"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Techniques de Secourisme",
+        "contenu": [
+          "Réanimation Cardio-Pulmonaire (RCP)",
+          "Utilisation du défibrillateur",
+          "Arrêt des saignements",
+          "Soins des brûlures",
+          "Gestion des fractures et entorses",
+          "Prise en charge des malaises"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de secourisme",
+          "Simulations de scénarios d'urgence"
+        ]
+      }
+    ]
+  },
+  {
+    "titreFormation": "Ambulancier / Auxiliaire Ambulancier",
+    "objectifs": [
+      "Comprendre les rôles et responsabilités des ambulanciers",
+      "Développer des compétences pour les urgences médicales",
+      "Maîtriser les techniques de transport et soins des patients"
+    ],
+    "publicCible": [
+      "Ambulanciers",
+      "Auxiliaires ambulanciers",
+      "Personnel de transport médical"
+    ],
+    "prerequis": "Connaissances de base en premiers secours et transport médical",
+    "programme": [
+      {
+        "module": 1,
+        "titre": "Introduction au Métier d'Ambulancier",
+        "contenu": [
+          "Principes et responsabilités",
+          "Rôle dans le système de santé"
+        ]
+      },
+      {
+        "module": 2,
+        "titre": "Gestion des Urgences Médicales",
+        "contenu": [
+          "Évaluation des situations d'urgence",
+          "Priorisation des interventions"
+        ]
+      },
+      {
+        "module": 3,
+        "titre": "Techniques Médicales",
+        "contenu": [
+          "Réanimation Cardio-Pulmonaire (RCP)",
+          "Utilisation du défibrillateur",
+          "Gestion des voies respiratoires",
+          "Soins des traumatismes"
+        ]
+      },
+      {
+        "module": 4,
+        "titre": "Soins des Patients",
+        "contenu": [
+          "Gestion des malaises et urgences",
+          "Surveillance des signes vitaux",
+          "Techniques de transport sécurisé"
+        ]
+      },
+      {
+        "module": 5,
+        "titre": "Communication et Coordination",
+        "contenu": [
+          "Transmission d'information aux services médicaux",
+          "Rédaction de rapports médicaux"
+        ]
+      },
+      {
+        "module": 6,
+        "titre": "Applications Pratiques",
+        "contenu": [
+          "Ateliers de transport médical",
+          "Simulations de situations d'urgence"
+        ]
+      }
+    ]
+  }
+]

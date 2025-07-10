@@ -1,0 +1,108 @@
+{
+  "title": "management",
+  "formations": [
+    {
+      "titreFormation": "Communication QHSE",
+      "objectifs": [
+        "Comprendre l’importance de la communication dans la gestion QHSE",
+        "Développer des compétences pour élaborer et mettre en œuvre des stratégies de communication QHSE efficaces",
+        "Maîtriser les techniques pour sensibiliser et impliquer le personnel dans les initiatives QHSE"
+      ],
+      "publicCible": [
+        "Responsables QHSE",
+        "Coordinateurs QHSE",
+        "Formateurs",
+        "Toute personne impliquée dans la communication et la sensibilisation QHSE"
+      ],
+      "prerequis": "Connaissances de base en gestion QHSE",
+      "duree": "5 jours (35 heures)",
+      "methodePedagogique": [
+        "Exposés théoriques",
+        "Études de cas",
+        "Ateliers interactifs",
+        "Simulations"
+      ],
+      "programme": [
+        {
+          "module": 1,
+          "titre": "Introduction à la Communication QHSE",
+          "contenu": [
+            "Comprendre les principes de la communication QHSE",
+            "Exploration du rôle de la communication dans la gestion QHSE"
+          ]
+        },
+        {
+          "module": 2,
+          "titre": "Stratégies de Communication QHSE",
+          "contenu": [
+            "Techniques pour élaborer une stratégie de communication QHSE",
+            "Développement d’un plan de communication pour les initiatives QHSE"
+          ]
+        },
+        {
+          "module": 3,
+          "titre": "Outils de Communication QHSE",
+          "contenu": [
+            "Utilisation des supports de communication : affiches, newsletters, e-mails",
+            "Introduction aux technologies : intranets, applications mobiles"
+          ]
+        },
+        {
+          "module": 4,
+          "titre": "Sensibilisation et Formation QHSE",
+          "contenu": [
+            "Développement de programmes de sensibilisation aux enjeux QHSE",
+            "Techniques pour organiser et animer des sessions de formation QHSE"
+          ]
+        },
+        {
+          "module": 5,
+          "titre": "Communication en Situation de Crise",
+          "contenu": [
+            "Stratégies pour gérer la communication en situation de crise QHSE",
+            "Élaboration d’un plan de communication de crise"
+          ]
+        },
+        {
+          "module": 6,
+          "titre": "Engagement et Participation du Personnel",
+          "contenu": [
+            "Techniques pour engager et impliquer le personnel dans les initiatives QHSE",
+            "Stratégies pour recueillir et gérer les feedbacks des employés"
+          ]
+        },
+        {
+          "module": 7,
+          "titre": "Surveillance et Évaluation de la Communication QHSE",
+          "contenu": [
+            "Définition et suivi des indicateurs de performance",
+            "Techniques pour améliorer continuellement les stratégies de communication QHSE"
+          ]
+        },
+        {
+          "module": 8,
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Exercices pratiques pour élaborer des stratégies et plans de communication",
+            "Jeux de rôle pour pratiquer la communication en situation de crise"
+          ]
+        },
+        {
+          "module": 9,
+          "titre": "Outils et Techniques de Communication",
+          "contenu": [
+            "Introduction aux outils pour la gestion des communications QHSE"
+          ]
+        },
+        {
+          "module": 10,
+          "titre": "Évaluation Finale",
+          "contenu": [
+            "Évaluation des acquis théoriques et pratiques",
+            "Retour d'expérience et feedback collectif"
+          ]
+        }
+      ]
+    }
+  ]
+}
