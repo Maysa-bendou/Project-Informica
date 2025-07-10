@@ -7,12 +7,13 @@
 
 /* Make body and html take full height */
 html, body {
-  height: 100%;
+  
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
   display: flex;
   flex-direction: column;
+  scroll-padding-top: 200px;
 }
 a,
 a:visited {
@@ -23,6 +24,10 @@ a:visited {
 main {
   flex: 1;
   padding-bottom: 0;
+  min-height: 100vh;
+  padding-top: 80px; 
+  margin-bottom: 80px;
+  padding-bottom: 60px;
 }
 
 /* Header Base Style */
@@ -59,6 +64,7 @@ header.scrolled img {
 
 /* Nav links */
 header nav a {
+  display: inline-block;
   color: #004080;
   text-decoration: none;
   padding: 8px 15px;
@@ -75,7 +81,10 @@ header.scrolled nav a {
 /* Active Section Link */
 header nav a.active {
   color: #1388fd;
+  
+  
 }
+
 
 #A_propos {
   position: relative;
@@ -155,12 +164,23 @@ section {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  min-height: 500px;
+  padding-top: 100px;
+
+   
 }
+
+
+section h2 {
+  text-align: center;
+  margin-bottom: 20px; /* optional: spacing below */
+}
+
 /* Slider base styles */
 /* References Slider */
 #Nos_Références {
   padding: 60px 20px;
-  background-color: #f8fafc;
+  
   text-align: center;
 }
 
@@ -319,10 +339,12 @@ p {
 
 /* CONTACT SECTION (UNCHANGED) */
 #Contact {
-  padding: 60px 30px;
-  width: 100%;
-  background-color: #f8fafc;
+  padding: 60px 0;
+  width: 80%;
+  margin: 0 auto; /* Center the section */
+ 
 }
+
 
 .contact-info-grid {
   display: flex;
@@ -338,21 +360,25 @@ p {
   min-width: 280px;
   background: white;
   border-radius: 10px;
-  padding: 20px;
+  padding: 12px 16px; /* Smaller padding */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   text-align: left;
+  margin-bottom: 15px; /* Optional space between boxes */
 }
+
 
 .contact-header {
   display: flex;
   gap: 12px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   align-items: center;
   width: 100%;
+
+  
 }
 
 .contact-header img {
@@ -365,10 +391,12 @@ p {
   font-weight: bold;
   color: #004080;
   margin: 0;
-  text-align: left;
+  text-align: center;
+
 }
 
 .contact-content {
+  white-space: pre-line;
   font-size: 16px;
   color: #1e293b;
   line-height: 1;
@@ -413,6 +441,16 @@ p {
   min-width: 250px;
 }
 
+.contact-form h3 {
+  text-align: center;
+  font-size: 22px; 
+  color: #004080;  
+  margin-bottom: 20px;
+
+   font-weight: bold;
+  letter-spacing: 1px;
+}
+
 .form-group label {
   display: block;
   font-weight: 400;
@@ -450,12 +488,12 @@ p {
   padding: 14px 28px;
   font-size: 16px;
   font-weight: 600;
-  border-radius: 8px;
+  border-radius: 30px;
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.2s ease;
   display: block;
   margin: 10px auto;
-  width: auto;
+  width: 300px;
 }
 
 .contact-form input[type="submit"]:hover {
@@ -463,9 +501,55 @@ p {
   transform: translateY(-2px);
 }
 
+
+
+.contact-container {
+  display: flex;
+  height: 550px;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 30px;
+  width: 100%; /* Take full 80% already defined in section */
+}
+
+
+.contact-info {
+  flex: 0 0 40%;
+  max-width: 40%;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+ 
+   font-size: 18px;
+  font-weight: bold;
+  color: #174b7f;
+  margin: 0;
+
+}
+
+.contact-form-wrapper {
+  flex: 0 0 60%;
+  max-width: 60%;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+
+
+
 /* MAP SECTION (UNCHANGED) */
 #Localisation {
-  background-color: #f8fafc;
+  
   padding: 60px 30px;
   width: 100%;
 }
@@ -596,11 +680,7 @@ p {
     padding: 10px 20px;
   }
 
-  .contact-info-grid {
-    flex-direction: column;
-    gap: 15px;
-    align-items: flex-start;
-  }
+
 
   section {
     padding: 100px 20px 40px;
@@ -613,6 +693,15 @@ p {
 
   .apropos-container {
     padding: 20px;
+  }
+    .contact-container {
+    flex-direction: column;
+  }
+
+ .contact-info,
+  .contact-form-wrapper {
+    flex: 1 1 100%;
+    max-width: 100%;
   }
 }
 
@@ -628,6 +717,7 @@ p {
 
   .contact-form {
     padding: 20px;
+    text-align: left;
   }
 
   #A_propos h2 {
