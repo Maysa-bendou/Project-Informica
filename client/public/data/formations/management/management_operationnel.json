@@ -1,0 +1,384 @@
+{
+  "title": "Management opérationnel",
+  "formations": [
+    {
+      "titreFormation": "Système de Management Intégré (SMI)",
+      "objectifs": [
+        "Comprendre les principes et les avantages d'un système de management intégré.",
+        "Apprendre à concevoir et à mettre en œuvre un SMI efficace.",
+        "Développer des compétences pour intégrer les systèmes de management de la qualité, de la santé et de la sécurité, et de l'environnement."
+      ],
+      "publicCible": "Responsables qualité, responsables HSE, managers, chefs de projet, tous les professionnels impliqués dans la gestion des systèmes de management.",
+      "prerequis": "Connaissances de base en gestion de la qualité, HSE, ou en gestion de projet.",
+      "programme": [
+        {
+          "titre": "1. Introduction au Système de Management Intégré (SMI)",
+          "contenu": [
+            "Concepts de Base : Définition et avantages d'un système de management intégré.",
+            "Normes et Référentiels : Présentation des principales normes (ISO 9001, ISO 14001, ISO 45001)."
+          ]
+        },
+        {
+          "titre": "2. Conception d'un SMI",
+          "contenu": [
+            "Planification du SMI : Techniques pour planifier et structurer un système de management intégré.",
+            "Identification des Processus : Méthodes pour identifier et documenter les processus clés."
+          ]
+        },
+        {
+          "titre": "3. Mise en Œuvre du SMI",
+          "contenu": [
+            "Intégration des Systèmes : Stratégies pour intégrer les systèmes de management de la qualité, de la santé et sécurité, et de l'environnement.",
+            "Gestion des Risques : Techniques pour identifier et gérer les risques liés aux différents systèmes."
+          ]
+        },
+        {
+          "titre": "4. Audit et Contrôle du SMI",
+          "contenu": [
+            "Audit Interne : Méthodes pour réaliser des audits internes efficaces du SMI.",
+            "Suivi de la Performance : Outils pour surveiller et évaluer la performance du système intégré."
+          ]
+        },
+        {
+          "titre": "5. Amélioration Continue",
+          "contenu": [
+            "Processus d'Amélioration : Stratégies pour mettre en place des actions d'amélioration continue.",
+            "Gestion des Non-Conformités : Techniques pour gérer les non-conformités et les actions correctives."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Études de Cas : Analyse de cas réels pour développer des stratégies de mise en œuvre du SMI.",
+            "Simulations de Processus : Simulations de situations d'intégration pour appliquer les concepts acquis."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Les ERP de la Gestion Opérationnelle (Progiciels de Gestion Intégrée PGI)",
+      "objectifs": [
+        "Comprendre les principes et les avantages des ERP dans la gestion opérationnelle.",
+        "Apprendre à utiliser les principaux modules d'un ERP.",
+        "Développer des compétences pour optimiser les processus opérationnels à l'aide des ERP."
+      ],
+      "publicCible": "Responsables opérationnels, responsables IT, managers, chefs de projet, tous les professionnels impliqués dans l'optimisation des processus opérationnels.",
+      "prerequis": "Connaissances de base en gestion des opérations ou en technologies de l'information.",
+      "programme": [
+        {
+          "titre": "1. Introduction aux ERP",
+          "contenu": [
+            "Concepts de Base : Définition et avantages des ERP pour la gestion opérationnelle.",
+            "Architecture des ERP : Comprendre l'architecture et les composants principaux d'un ERP."
+          ]
+        },
+        {
+          "titre": "2. Modules Fonctionnels des ERP",
+          "contenu": [
+            "Gestion des Finances : Fonctionnalités pour la gestion financière, y compris la comptabilité, la gestion des actifs et la trésorerie.",
+            "Gestion des Ressources Humaines : Modules pour la gestion des employés, la paie, et le développement des talents.",
+            "Gestion des Achats et des Stocks : Fonctionnalités pour optimiser les achats, la gestion des stocks et la chaîne d'approvisionnement.",
+            "Gestion de la Production : Outils pour planifier, exécuter et suivre la production."
+          ]
+        },
+        {
+          "titre": "3. Mise en Œuvre des ERP",
+          "contenu": [
+            "Planification du Déploiement : Stratégies pour planifier et gérer le déploiement d'un ERP.",
+            "Personnalisation et Configuration : Techniques pour personnaliser et configurer les modules ERP selon les besoins spécifiques de l'entreprise."
+          ]
+        },
+        {
+          "titre": "4. Utilisation des ERP",
+          "contenu": [
+            "Navigation et Interface Utilisateur : Formation sur l'utilisation de l'interface utilisateur des ERP.",
+            "Rapports et Analyses : Outils pour générer des rapports et analyser les données opérationnelles."
+          ]
+        },
+        {
+          "titre": "5. Optimisation des Processus",
+          "contenu": [
+            "Automatisation des Processus : Techniques pour automatiser les processus opérationnels à l'aide des ERP.",
+            "Amélioration Continue : Stratégies pour utiliser les ERP dans le cadre d'un processus d'amélioration continue."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Démonstrations Pratiques : Démonstrations des principaux modules ERP.",
+            "Études de Cas : Analyse de cas réels pour comprendre l'implémentation et l'utilisation des ERP."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Les Fondamentaux du Management de Projet",
+      "objectifs": [
+        "Comprendre les principes et les étapes clés du management de projet.",
+        "Développer des compétences pour planifier, exécuter et clôturer des projets.",
+        "Apprendre à utiliser des outils et des techniques de gestion de projet."
+      ],
+      "publicCible": "Chefs de projet, managers, responsables d'équipe, tous les professionnels impliqués dans la gestion de projets.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction au Management de Projet",
+          "contenu": [
+            "Concepts de Base : Définition et importance du management de projet.",
+            "Cycle de Vie du Projet : Présentation des phases du cycle de vie d'un projet."
+          ]
+        },
+        {
+          "titre": "2. Initiation du Projet",
+          "contenu": [
+            "Définition des Objectifs : Techniques pour définir des objectifs clairs et alignés avec la stratégie de l'entreprise.",
+            "Identification des Parties Prenantes : Méthodes pour identifier et analyser les parties prenantes du projet."
+          ]
+        },
+        {
+          "titre": "3. Planification du Projet",
+          "contenu": [
+            "Structure de Répartition du Travail (WBS) : Techniques pour décomposer le projet en tâches gérables.",
+            "Planification des Ressources : Stratégies pour planifier et allouer les ressources nécessaires au projet.",
+            "Gestion des Risques : Outils pour identifier, analyser et gérer les risques du projet.",
+            "Élaboration du Planning : Utilisation de diagrammes de Gantt et de réseaux PERT pour planifier les activités du projet."
+          ]
+        },
+        {
+          "titre": "4. Exécution du Projet",
+          "contenu": [
+            "Gestion des Équipes : Techniques pour diriger et motiver les équipes de projet.",
+            "Suivi de l'Avancement : Méthodes pour surveiller l'avancement des tâches et gérer les écarts."
+          ]
+        },
+        {
+          "titre": "5. Clôture du Projet",
+          "contenu": [
+            "Évaluation de la Performance : Critères et outils pour évaluer la performance du projet.",
+            "Documentation et Retours d'Expérience : Techniques pour documenter les leçons apprises et les bonnes pratiques."
+          ]
+        },
+        {
+          "titre": "6. Outils et Techniques de Gestion de Projet",
+          "contenu": [
+            "Logiciels de Gestion de Projet : Introduction aux outils logiciels couramment utilisés (e.g., MS Project, Trello).",
+            "Rapports de Suivi : Techniques pour créer des rapports de suivi efficaces."
+          ]
+        },
+        {
+          "titre": "7. Applications Pratiques",
+          "contenu": [
+            "Études de Cas : Analyse de projets réels pour appliquer les concepts et techniques appris.",
+            "Simulations de Gestion de Projet : Exercices pratiques pour gérer un projet de bout en bout."
+          ]
+        },
+        {
+          "titre": "8. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion de projets avec MS Project et Primavera",
+      "objectifs": [
+        "Élaborer un planning de projet structuré avec MS Project et/ou Primavera",
+        "Affecter les ressources et suivre les coûts et délais",
+        "Mettre à jour et ajuster le planning selon l'avancement réel",
+        "Générer des rapports de suivi et des tableaux de bord",
+        "Choisir l'outil le plus adapté à leur environnement professionnel"
+      ],
+      "publicCible": "Chefs de projet, Ingénieurs de planification, Responsables de bureaux d'études, Consultants et coordinateurs de projet, Toute personne impliquée dans la planification, le suivi ou le pilotage de projets",
+      "prerequis": "Connaissances de base en gestion de projet (planning, budget, ressources), Maîtrise de l'environnement Windows",
+      "programme": [
+        {
+          "titre": "Jour 1 – Fondamentaux de la gestion de projet",
+          "contenu": [
+            "Cycle de vie d'un projet",
+            "Structures (WBS, OBS)",
+            "Terminologie et concepts clés : tâche, jalon, charge, ressources, chemin critique",
+            "Présentation des outils : MS Project vs Primavera"
+          ]
+        },
+        {
+          "titre": "Jour 2 – MS Project – Prise en main et planification",
+          "contenu": [
+            "Interface de MS Project",
+            "Création d'un nouveau projet",
+            "Décomposition du projet (WBS)",
+            "Saisie des tâches, dépendances et durées",
+            "Diagramme de Gantt"
+          ]
+        },
+        {
+          "titre": "Jour 3 – MS Project – Ressources, coûts et suivi",
+          "contenu": [
+            "Affectation des ressources humaines et matérielles",
+            "Gestion des coûts",
+            "Suivi de l'avancement (baseline, mises à jour)",
+            "Tableaux de bord et rapports"
+          ]
+        },
+        {
+          "titre": "Jour 4 – Primavera P6 – Planification de projets complexes",
+          "contenu": [
+            "Interface et navigation dans Primavera P6",
+            "Structuration du projet (EPS, WBS)",
+            "Création du planning : activités, relations, durées",
+            "Affectation des ressources et calendrier"
+          ]
+        },
+        {
+          "titre": "Jour 5 – Primavera P6 – Contrôle et reporting",
+          "contenu": [
+            "Courbe en S, chemin critique, histogrammes de charge",
+            "Suivi de l'avancement",
+            "Comparaison Prévu / Réalisé",
+            "Études de cas pratiques",
+            "Comparatif MS Project / Primavera selon les besoins métier"
+          ]
+        }
+      ]
+    },
+    {
+      "titreFormation": "Maîtriser les Coûts et les Délais des Projets",
+      "objectifs": [
+        "Apprendre à estimer et contrôler les coûts des projets.",
+        "Développer des compétences pour planifier et gérer les délais de manière efficace.",
+        "Utiliser des outils et des techniques pour optimiser la gestion des coûts et des délais."
+      ],
+      "publicCible": "Chefs de projet, planificateurs, responsables financiers, tous les professionnels impliqués dans la gestion des coûts et des délais des projets.",
+      "prerequis": "Connaissances de base en gestion de projet.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion des Coûts et des Délais",
+          "contenu": [
+            "Concepts de Base : Comprendre l'importance de la gestion des coûts et des délais dans le succès des projets.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en gestion des coûts et des délais."
+          ]
+        },
+        {
+          "titre": "2. Estimation des Coûts de Projet",
+          "contenu": [
+            "Techniques d'Estimation : Méthodes pour estimer les coûts (e.g., estimation paramétrique, estimation par analogie).",
+            "Élaboration du Budget : Stratégies pour élaborer et structurer le budget du projet."
+          ]
+        },
+        {
+          "titre": "3. Planification des Délais de Projet",
+          "contenu": [
+            "Définition des Activités : Techniques pour identifier et définir les activités du projet.",
+            "Ordonnancement des Activités : Méthodes pour établir des séquences et des dépendances entre les activités.",
+            "Création du Planning : Utilisation de diagrammes de Gantt et de réseaux PERT pour planifier les activités."
+          ]
+        },
+        {
+          "titre": "4. Contrôle des Coûts",
+          "contenu": [
+            "Suivi des Coûts : Outils pour suivre les coûts réels et comparer avec le budget.",
+            "Analyse des Variations : Techniques pour analyser les écarts entre les coûts planifiés et les coûts réels.",
+            "Gestion des Réserves : Stratégies pour gérer les réserves budgétaires et les imprévus financiers."
+          ]
+        },
+        {
+          "titre": "5. Contrôle des Délais",
+          "contenu": [
+            "Mise à Jour du Planning : Techniques pour suivre l'avancement et mettre à jour le planning.",
+            "Analyse des Écarts : Utilisation d'outils pour identifier et analyser les écarts de planning.",
+            "Gestion des Chemins Critiques : Stratégies pour gérer le chemin critique et minimiser les retards."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Planification et de Contrôle : Exercices pour planifier et contrôler les coûts et les délais.",
+            "Études de Cas : Analyse de projets réels pour appliquer les techniques de gestion des coûts et des délais."
+          ]
+        },
+        {
+          "titre": "7. Outils et Techniques",
+          "contenu": [
+            "Logiciels de Gestion : Introduction aux outils logiciels couramment utilisés pour la gestion des coûts et des délais (e.g., MS Project, Primavera P6).",
+            "Rapports de Suivi : Techniques pour créer des rapports de suivi efficaces."
+          ]
+        },
+        {
+          "titre": "8. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "La Gestion des Risques du Projet",
+      "objectifs": [
+        "Comprendre les principes de la gestion des risques.",
+        "Identifier, évaluer et gérer les risques dans les projets.",
+        "Améliorer les compétences en planification et en gestion proactive des risques."
+      ],
+      "publicCible": "Chefs de projet, managers, responsables qualité, responsables des risques.",
+      "prerequis": "Expérience en gestion de projet recommandée.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion des Risques",
+          "contenu": [
+            "Principes de Base : Définition et importance de la gestion des risques dans les projets.",
+            "Typologie des Risques : Identification des différents types de risques (opérationnels, financiers, stratégiques)."
+          ]
+        },
+        {
+          "titre": "2. Identification des Risques",
+          "contenu": [
+            "Techniques d'Identification : Méthodes pour identifier les risques potentiels (e.g., brainstorming, SWOT).",
+            "Outils d'Identification : Utilisation des check-lists, matrices de risques."
+          ]
+        },
+        {
+          "titre": "3. Évaluation des Risques",
+          "contenu": [
+            "Analyse Qualitative : Évaluation de l'impact et de la probabilité des risques.",
+            "Analyse Quantitative : Utilisation de modèles et de simulations pour quantifier les risques."
+          ]
+        },
+        {
+          "titre": "4. Planification de la Réponse aux Risques",
+          "contenu": [
+            "Stratégies de Réponse : Élaboration de stratégies pour atténuer, éviter, transférer ou accepter les risques.",
+            "Plan de Contingence : Développement de plans d'action pour répondre aux risques identifiés."
+          ]
+        },
+        {
+          "titre": "5. Suivi et Contrôle des Risques",
+          "contenu": [
+            "Monitoring des Risques : Techniques pour suivre et contrôler les risques tout au long du projet.",
+            "Mise à Jour des Plans de Risque : Adaptation continue des plans de gestion des risques."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Simulations de Gestion des Risques : Jeux de rôle et simulations pour pratiquer la gestion des risques.",
+            "Études de Cas : Analyse de cas réels pour développer des stratégies de gestion des risques adaptées."
+          ]
+        },
+        {
+          "titre": "7. Outils et Techniques",
+          "contenu": [
+            "Logiciels de Gestion des Risques : Introduction aux outils logiciels couramment utilisés pour la gestion des risques (e.g., Risk Register, Monte Carlo simulations).",
+            "Rapports de Suivi : Techniques pour créer des rapports de suivi efficaces."
+          ]
+        },
+        {
+          "titre": "8. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
+  ]
+}

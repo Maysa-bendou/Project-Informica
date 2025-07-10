@@ -5,8 +5,8 @@
     "hasSubcategories": true,
     "subcategories": [
       {
-        "id": "leadership_et_developpement_personnel",
-        "title": "Leadership et développement personnel"
+         "id": "leadership_et_developpement_personnel",
+         "title": "Leadership et développement personnel"
       },
       {
         "id": "management_dequipe",
@@ -15,6 +15,14 @@
       {
         "id": "management_operationnel",
         "title": "Management opérationnel"
+      },
+      {
+        "id": "Effcacite_personelle",
+        "title": "Efficacité personnelle"
+      },
+      {
+        "id": "Communication_et_prise_de_parole",
+        "title": "Communication et prise de parole"
       }
     ]
   },

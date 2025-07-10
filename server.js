@@ -7,9 +7,6 @@ const PORT = 3000;
 // Serve static files from client/public at root URL
 app.use(express.static(path.join(__dirname, "client", "public")));
 
-app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
-});
 
 const mysql = require("mysql2");
 const bodyParser = require("body-parser");

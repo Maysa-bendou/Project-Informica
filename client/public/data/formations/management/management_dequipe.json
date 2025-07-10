@@ -1,0 +1,346 @@
+{
+  "title": "Management d'équipe",
+  "formations": [
+    {
+      "titreFormation": "Bâtir et Piloter ses Tableaux de Bord",
+      "objectifs": [
+        "Concevoir et utiliser des tableaux de bord efficaces.",
+        "Améliorer la prise de décision grâce aux indicateurs de performance.",
+        "Optimiser le suivi des activités et des objectifs."
+      ],
+      "publicCible": "Managers, chefs de projet, responsables de service.",
+      "prerequis": "Connaissances de base en gestion et en analyse de données.",
+      "programme": [
+        {
+          "titre": "1. Introduction aux Tableaux de Bord",
+          "contenu": [
+            "Concepts de Base : Définition et utilité des tableaux de bord en gestion.",
+            "Types de Tableaux de Bord : Exploration des différents types (opérationnels, stratégiques)."
+          ]
+        },
+        {
+          "titre": "2. Conception des Tableaux de Bord",
+          "contenu": [
+            "Sélection des Indicateurs : Critères de sélection des indicateurs de performance (KPIs).",
+            "Structuration des Données : Organisation et présentation des données pour une lecture efficace."
+          ]
+        },
+        {
+          "titre": "3. Outils de Création",
+          "contenu": [
+            "Logiciels et Outils : Introduction aux principaux logiciels de création de tableaux de bord (e.g., Excel, Power BI).",
+            "Visualisation des Données : Techniques de visualisation pour améliorer la compréhension des données."
+          ]
+        },
+        {
+          "titre": "4. Utilisation et Pilotage",
+          "contenu": [
+            "Analyse des Données : Techniques pour analyser les données des tableaux de bord.",
+            "Prise de Décision : Utilisation des tableaux de bord pour la prise de décision stratégique."
+          ]
+        },
+        {
+          "titre": "5. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Création : Exercices pratiques pour créer des tableaux de bord adaptés à différents besoins.",
+            "Études de Cas : Analyse de cas concrets pour développer des tableaux de bord efficaces."
+          ]
+        },
+        {
+          "titre": "6. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Déléguer Efficacement",
+      "objectifs": [
+        "Comprendre les principes de la délégation efficace.",
+        "Développer des compétences pour identifier les tâches à déléguer.",
+        "Améliorer la capacité à superviser et soutenir les collaborateurs."
+      ],
+      "publicCible": "Managers, chefs de projet, responsables d'équipe, tous les professionnels souhaitant améliorer leurs compétences en délégation.",
+      "prerequis": "Expérience en gestion d'équipe ou de projet.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Délégation",
+          "contenu": [
+            "Concepts de Base : Définition et importance de la délégation dans le management.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en délégation."
+          ]
+        },
+        {
+          "titre": "2. Identification des Tâches à Déléguer",
+          "contenu": [
+            "Critères de Sélection : Techniques pour identifier les tâches qui peuvent être déléguées.",
+            "Analyse des Compétences : Évaluation des compétences des collaborateurs pour une délégation efficace."
+          ]
+        },
+        {
+          "titre": "3. Techniques de Délégation",
+          "contenu": [
+            "Méthodes de Délégation : Stratégies pour déléguer les tâches de manière claire et efficace.",
+            "Fixation des Objectifs : Techniques pour définir des objectifs clairs et mesurables pour les tâches déléguées."
+          ]
+        },
+        {
+          "titre": "4. Supervision et Suivi",
+          "contenu": [
+            "Gestion des Attentes : Stratégies pour clarifier les attentes et les responsabilités.",
+            "Feedback Constructif : Techniques pour fournir un feedback constructif et encourager l'amélioration continue."
+          ]
+        },
+        {
+          "titre": "5. Développement des Compétences des Collaborateurs",
+          "contenu": [
+            "Formation et Support : Méthodes pour former et soutenir les collaborateurs dans les tâches déléguées.",
+            "Encouragement à l'Autonomie : Stratégies pour encourager l'autonomie et la prise d'initiative."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Simulations de Délégation : Jeux de rôle pour pratiquer la délégation de tâches.",
+            "Études de Cas : Analyse de situations réelles pour développer des stratégies de délégation adaptées."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Organiser Efficacement une Réunion",
+      "objectifs": [
+        "Apprendre à planifier et organiser des réunions efficaces.",
+        "Développer des compétences pour conduire des réunions productives.",
+        "Améliorer la gestion du temps et des ressources pendant les réunions."
+      ],
+      "publicCible": "Managers, chefs de projet, responsables d'équipe, tous les professionnels impliqués dans la conduite de réunions.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à l'Organisation des Réunions",
+          "contenu": [
+            "Importance des Réunions Efficaces : Comprendre l'impact des réunions efficaces sur la productivité.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en organisation de réunions."
+          ]
+        },
+        {
+          "titre": "2. Planification de la Réunion",
+          "contenu": [
+            "Définition des Objectifs : Techniques pour définir des objectifs clairs et précis pour la réunion.",
+            "Préparation de l'Ordre du Jour : Méthodes pour créer un ordre du jour structuré et pertinent."
+          ]
+        },
+        {
+          "titre": "3. Conduite de la Réunion",
+          "contenu": [
+            "Techniques de Conduite : Stratégies pour conduire la réunion de manière efficace et engageante.",
+            "Gestion du Temps : Outils et méthodes pour gérer le temps de manière optimale durant la réunion."
+          ]
+        },
+        {
+          "titre": "4. Participation et Interaction",
+          "contenu": [
+            "Encourager la Participation : Techniques pour favoriser la participation active de tous les participants.",
+            "Gestion des Conflits : Stratégies pour gérer les désaccords et les conflits de manière constructive."
+          ]
+        },
+        {
+          "titre": "5. Suivi Post-Réunion",
+          "contenu": [
+            "Compte Rendu et Actions Suivantes : Méthodes pour rédiger un compte rendu efficace et définir les actions à suivre.",
+            "Évaluation de la Réunion : Outils pour évaluer l'efficacité de la réunion et identifier les améliorations possibles."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Simulations de Réunions : Jeux de rôle pour pratiquer l'organisation et la conduite de réunions.",
+            "Études de Cas : Analyse de cas réels pour développer des compétences en organisation de réunions."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Accompagner son Équipe au Changement",
+      "objectifs": [
+        "Comprendre les dynamiques du changement organisationnel.",
+        "Développer des compétences pour accompagner efficacement les équipes lors de transitions.",
+        "Apprendre à gérer les résistances et à faciliter l'adoption du changement."
+      ],
+      "publicCible": "Managers, chefs de projet, responsables d'équipe, tous les professionnels impliqués dans la gestion du changement.",
+      "prerequis": "Connaissances de base en gestion d'équipe ou en gestion de projet.",
+      "programme": [
+        {
+          "titre": "1. Introduction au Changement Organisationnel",
+          "contenu": [
+            "Concepts de Base : Comprendre le changement organisationnel et ses impacts sur les équipes.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en gestion du changement."
+          ]
+        },
+        {
+          "titre": "2. Les Phases du Changement",
+          "contenu": [
+            "Modèles de Changement : Exploration des principaux modèles de changement (e.g., modèle de Lewin, ADKAR).",
+            "Cycle de Changement : Comprendre les différentes phases du cycle de changement."
+          ]
+        },
+        {
+          "titre": "3. Communication du Changement",
+          "contenu": [
+            "Stratégies de Communication : Techniques pour communiquer efficacement sur le changement.",
+            "Gestion des Attentes : Méthodes pour clarifier les attentes et les objectifs du changement."
+          ]
+        },
+        {
+          "titre": "4. Gestion des Résistances",
+          "contenu": [
+            "Identification des Résistances : Techniques pour identifier les résistances au changement.",
+            "Stratégies de Gestion : Méthodes pour gérer et surmonter les résistances de manière constructive."
+          ]
+        },
+        {
+          "titre": "5. Soutien aux Collaborateurs",
+          "contenu": [
+            "Encouragement à l'Adoption du Changement : Stratégies pour encourager l'adhésion des collaborateurs.",
+            "Support Continu : Méthodes pour fournir un soutien continu tout au long du processus de changement."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Simulations de Changement : Jeux de rôle pour pratiquer la gestion du changement.",
+            "Études de Cas : Analyse de cas réels pour développer des stratégies d'accompagnement au changement."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Travailler en Équipe et Développer sa Flexibilité Relationnelle",
+      "objectifs": [
+        "Améliorer les compétences de travail en équipe.",
+        "Développer la flexibilité relationnelle pour mieux collaborer.",
+        "Renforcer la capacité à gérer les interactions et les conflits au sein de l'équipe."
+      ],
+      "publicCible": "Tous les professionnels souhaitant améliorer leur capacité à travailler en équipe et à gérer les relations interpersonnelles.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction au Travail en Équipe",
+          "contenu": [
+            "Concepts de Base : Importance du travail en équipe dans le milieu professionnel.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en travail d'équipe."
+          ]
+        },
+        {
+          "titre": "2. Dynamique d'Équipe",
+          "contenu": [
+            "Rôles et Responsabilités : Comprendre les différents rôles au sein d'une équipe et comment ils contribuent au succès collectif.",
+            "Cohésion d'Équipe : Techniques pour renforcer la cohésion et l'esprit d'équipe."
+          ]
+        },
+        {
+          "titre": "3. Flexibilité Relationnelle",
+          "contenu": [
+            "Adaptabilité : Développer la capacité à s'adapter aux différentes personnalités et styles de travail.",
+            "Communication Interpersonnelle : Améliorer les compétences en communication pour mieux interagir avec les collègues."
+          ]
+        },
+        {
+          "titre": "4. Gestion des Conflits",
+          "contenu": [
+            "Identification des Conflits : Techniques pour identifier les signes de conflit au sein de l'équipe.",
+            "Résolution des Conflits : Méthodes pour résoudre les conflits de manière constructive et préserver l'harmonie de l'équipe."
+          ]
+        },
+        {
+          "titre": "5. Collaboration et Synergie",
+          "contenu": [
+            "Techniques de Collaboration : Stratégies pour améliorer la collaboration et l'efficacité collective.",
+            "Création de Synergies : Méthodes pour tirer parti des compétences et des talents individuels pour atteindre des objectifs communs."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Exercices de Groupe : Ateliers pratiques pour renforcer la collaboration et la flexibilité relationnelle.",
+            "Simulations de Scénarios : Simulations de situations de travail en équipe pour appliquer les compétences acquises."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Développer des Relations Constructives",
+      "objectifs": [
+        "Améliorer les compétences en communication interpersonnelle.",
+        "Apprendre à établir et maintenir des relations professionnelles positives.",
+        "Renforcer la capacité à gérer les interactions difficiles de manière constructive."
+      ],
+      "publicCible": "Tous les professionnels souhaitant améliorer leurs relations interpersonnelles au travail.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction aux Relations Constructives",
+          "contenu": [
+            "Concepts de Base : Comprendre l'importance des relations constructives dans le milieu professionnel.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en relations interpersonnelles."
+          ]
+        },
+        {
+          "titre": "2. Techniques de Communication",
+          "contenu": [
+            "Écoute Active : Développer des compétences en écoute active pour mieux comprendre et répondre aux besoins des autres.",
+            "Expression Claire et Respectueuse : Techniques pour exprimer ses idées et besoins de manière claire et respectueuse."
+          ]
+        },
+        {
+          "titre": "3. Établissement de Relations Positives",
+          "contenu": [
+            "Création de Confiance : Stratégies pour établir et maintenir la confiance avec les collègues.",
+            "Empathie et Compréhension : Techniques pour développer l'empathie et comprendre les perspectives des autres."
+          ]
+        },
+        {
+          "titre": "4. Gestion des Interactions Difficiles",
+          "contenu": [
+            "Identification des Sources de Tension : Techniques pour identifier les sources potentielles de tension et de conflit.",
+            "Résolution Constructive des Conflits : Méthodes pour gérer les conflits de manière constructive et préserver des relations positives."
+          ]
+        },
+        {
+          "titre": "5. Maintien des Relations Constructives",
+          "contenu": [
+            "Feedback Constructif : Apprentissage des techniques de feedback pour améliorer les relations de travail.",
+            "Collaboration et Coopération : Stratégies pour encourager la collaboration et la coopération au sein de l'équipe."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Exercices de Communication : Ateliers pratiques pour renforcer les compétences en communication constructive.",
+            "Simulations de Scénarios : Simulations d'interactions professionnelles pour appliquer les compétences acquises."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
+  ]
+}

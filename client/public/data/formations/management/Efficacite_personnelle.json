@@ -1,0 +1,186 @@
+{
+  "title": "Efficacité personnelle",
+  "formations": [
+    {
+      "titreFormation": "Gérer son Temps et Organiser ses Priorités",
+      "objectifs": [
+        "Optimiser la gestion du temps pour améliorer l'efficacité au travail.",
+        "Apprendre à prioriser les tâches de manière stratégique.",
+        "Développer des techniques pour réduire le stress lié à la gestion du temps."
+      ],
+      "publicCible": "Tous les professionnels souhaitant améliorer leur gestion du temps et leurs compétences organisationnelles.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion du Temps",
+          "contenu": [
+            "Concepts de Base : Comprendre l'importance de la gestion du temps et son impact sur la productivité.",
+            "Auto-évaluation : Outils pour évaluer ses habitudes actuelles de gestion du temps."
+          ]
+        },
+        {
+          "titre": "2. Techniques de Gestion du Temps",
+          "contenu": [
+            "Planification et Organisation : Méthodes pour planifier et organiser son emploi du temps de manière efficace.",
+            "Utilisation d'Outils : Introduction à divers outils et technologies pour aider à la gestion du temps (e.g., agendas, applications)."
+          ]
+        },
+        {
+          "titre": "3. Priorisation des Tâches",
+          "contenu": [
+            "Matrice d'Eisenhower : Utilisation de la matrice d'Eisenhower pour classer les tâches selon leur urgence et importance.",
+            "Techniques de Priorisation : Apprentissage de différentes techniques pour définir les priorités (e.g., méthode ABC, règle des 80/20)."
+          ]
+        },
+        {
+          "titre": "4. Réduction des Interruptions et des Distractions",
+          "contenu": [
+            "Identification des Interruptions : Techniques pour identifier et comprendre les principales sources de distraction.",
+            "Stratégies de Réduction : Méthodes pour minimiser les interruptions et maintenir la concentration."
+          ]
+        },
+        {
+          "titre": "5. Optimisation des Réunions",
+          "contenu": [
+            "Planification Efficace : Stratégies pour organiser des réunions courtes et productives.",
+            "Conduite des Réunions : Techniques pour gérer le temps durant les réunions et atteindre les objectifs fixés."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Exercices de Planification : Ateliers pratiques pour s'exercer à la planification et à la priorisation des tâches.",
+            "Simulations de Scénarios : Simulations de gestion du temps dans des situations réelles."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Perfectionner ses Pratiques Managériales",
+      "objectifs": [
+        "Améliorer les compétences en management.",
+        "Développer des techniques avancées pour la gestion des équipes.",
+        "Renforcer la capacité à motiver et à inspirer les collaborateurs."
+      ],
+      "publicCible": "Managers, chefs de projet, responsables d'équipe, tous les professionnels souhaitant améliorer leurs compétences managériales.",
+      "prerequis": "Expérience en gestion d'équipe ou de projet.",
+      "programme": [
+        {
+          "titre": "1. Introduction aux Pratiques Managériales",
+          "contenu": [
+            "Concepts de Base : Comprendre l'importance de pratiques managériales efficaces.",
+            "Auto-évaluation : Outils pour évaluer ses compétences actuelles en management."
+          ]
+        },
+        {
+          "titre": "2. Leadership et Vision",
+          "contenu": [
+            "Développement du Leadership : Techniques pour développer un leadership efficace et inspirant.",
+            "Création de Vision : Méthodes pour définir et communiquer une vision claire aux collaborateurs."
+          ]
+        },
+        {
+          "titre": "3. Gestion de la Performance",
+          "contenu": [
+            "Objectifs et Indicateurs de Performance : Techniques pour définir des objectifs clairs et mesurer la performance.",
+            "Feedback Constructif : Stratégies pour fournir un feedback constructif et encourager l'amélioration continue."
+          ]
+        },
+        {
+          "titre": "4. Motivation et Engagement",
+          "contenu": [
+            "Techniques de Motivation : Méthodes pour motiver et engager les collaborateurs.",
+            "Reconnaissance et Récompense : Stratégies pour reconnaître et récompenser les performances exceptionnelles."
+          ]
+        },
+        {
+          "titre": "5. Développement des Compétences",
+          "contenu": [
+            "Coaching et Mentorat : Techniques pour coacher et mentorer les membres de l'équipe.",
+            "Planification de la Formation : Méthodes pour identifier les besoins de formation et développer les compétences des collaborateurs."
+          ]
+        },
+        {
+          "titre": "6. Gestion des Conflits",
+          "contenu": [
+            "Identification des Conflits : Techniques pour identifier les signes de conflit au sein de l'équipe.",
+            "Résolution des Conflits : Méthodes pour résoudre les conflits de manière constructive et préserver l'harmonie de l'équipe."
+          ]
+        },
+        {
+          "titre": "7. Applications Pratiques",
+          "contenu": [
+            "Simulations Managériales : Jeux de rôle pour pratiquer les compétences managériales.",
+            "Études de Cas : Analyse de situations réelles pour développer des stratégies de gestion efficaces."
+          ]
+        },
+        {
+          "titre": "8. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Attitude, Comportement et Postures du Manager",
+      "objectifs": [
+        "Comprendre l'importance de l'attitude et du comportement dans le management.",
+        "Développer des postures managériales efficaces.",
+        "Améliorer les compétences en communication et en leadership."
+      ],
+      "publicCible": "Managers, chefs de projet, responsables d'équipe, tous les professionnels souhaitant améliorer leur style managérial.",
+      "prerequis": "Expérience en gestion d'équipe ou de projet.",
+      "programme": [
+        {
+          "titre": "1. Introduction aux Attitudes et Comportements Managériaux",
+          "contenu": [
+            "Concepts de Base : Comprendre l'impact des attitudes et des comportements sur la gestion des équipes.",
+            "Auto-évaluation : Outils pour évaluer ses attitudes et comportements actuels en tant que manager."
+          ]
+        },
+        {
+          "titre": "2. Développement d'une Attitude Positive",
+          "contenu": [
+            "Mentalité de Croissance : Techniques pour adopter une mentalité de croissance et encourager l'amélioration continue.",
+            "Gestion des Emotions : Stratégies pour gérer ses émotions et maintenir une attitude positive."
+          ]
+        },
+        {
+          "titre": "3. Comportements Managériaux",
+          "contenu": [
+            "Communication Efficace : Techniques pour améliorer la clarté et l'efficacité de la communication avec l'équipe.",
+            "Empathie et Ecoute Active : Développement de l'empathie et des compétences en écoute active pour mieux comprendre les collaborateurs."
+          ]
+        },
+        {
+          "titre": "4. Postures Managériales",
+          "contenu": [
+            "Postures de Leadership : Techniques pour adopter des postures de leadership qui inspirent confiance et respect.",
+            "Gestion du Stress : Stratégies pour gérer le stress et rester serein dans les situations difficiles."
+          ]
+        },
+        {
+          "titre": "5. Influence et Persuasion",
+          "contenu": [
+            "Techniques d'Influence : Méthodes pour influencer positivement les collaborateurs et encourager leur engagement.",
+            "Négociation et Persuasion : Stratégies pour négocier efficacement et persuader les parties prenantes."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Exercices de Communication : Ateliers pratiques pour renforcer les compétences en communication et en gestion des émotions.",
+            "Simulations de Scénarios : Simulations de situations managériales pour appliquer les compétences acquises."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
+  ]
+}

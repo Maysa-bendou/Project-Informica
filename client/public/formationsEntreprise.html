@@ -1,78 +1,263 @@
-<!-- formationsEntreprise.html -->
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Formations par Catégorie</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nos Formations</title>
+  <link rel="stylesheet" href="styles/formatios.css" />
 </head>
 <body>
+  <header>
+  <div class="header-content">
+    <img src="assets/image/new_logo.png" alt="Logo Informica" class="logo">
+    <h1 id="pageTitle">Nos Formations</h1>
+    <button onclick="goBack()" class="back-button">← Retour</button>
+  </div>
+</header>
 
-  <a href="pageEntreprise.html">← Retour</a>
-  <h1>Nos Formations</h1>
+  <div class="container">
+    <div class="formations-list">
+      <!-- Add the new back button here -->
+      <button id="backToSubcategories" class="back-to-subcategories">
+        ← Retour aux sous-catégories
+      </button>
+      
+      <section id="subcategoriesSection" class="hidden">
+        <h2>Sous-catégories</h2>
+        <div id="subcategoriesList" class="grid"></div>
+      </section>
 
-  <div id="formationContent">
-    <!-- Formations will be injected here -->
+      <section id="formationsSection">
+        <h2 id="formationsTitle">Formations</h2>
+        <div id="formationsList"></div>
+      </section>
+    </div>
+
+    <div class="details-panel" id="detailsPanel">
+      <div class="formation-details" id="formationDetails">
+        <p>Sélectionnez une formation pour voir les détails</p>
+      </div>
+    </div>
   </div>
 
-   <script>
-    const urlParams = new URLSearchParams(window.location.search);
-    const cat = urlParams.get("cat");
+<script>
+document.addEventListener("DOMContentLoaded", async () => {
+  const urlParams = new URLSearchParams(window.location.search);
+  const categoryId = urlParams.get("cat");
 
+  if (!categoryId) {
+    alert("Aucune catégorie spécifiée.");
+    return;
+  }
 
-    console.log("✅ Script chargé !");
-    console.log("Paramètre brut :", window.location.search);
+  try {
+    // Load main index
+    const indexResponse = await fetch("data/index.json");
+    const allCategories = await indexResponse.json();
+    const category = allCategories[categoryId];
 
-
-    // Prevent loading if 'cat' is missing
-    if (!cat) {
-      document.getElementById("formationContent").innerHTML =
-        "<p>❗ Veuillez accéder à cette page depuis la liste des catégories.</p>";
-      throw new Error("❌ Paramètre 'cat' manquant dans l'URL");
+    if (!category) {
+      throw new Error("Catégorie non trouvée");
     }
 
-    console.log("🔍 URL param 'cat' =", cat);
+    document.getElementById("pageTitle").textContent = `Formations : ${category.title}`;
 
-    fetch('data/data.json') // ✅ correct path
-      .then(res => {
-        if (!res.ok) throw new Error("Erreur HTTP " + res.status);
-        return res.json();
-      })
-      .then(data => {
-        console.log("✅ JSON loaded");
-        console.log("📦 Full data:", data);
-        const category = data[cat];
-        console.log("🔍 Trying to access data[cat]:", category);
+    // Check for subcategories
+    if (category.hasSubcategories && category.subcategories?.length > 0) {
+      displaySubcategories(categoryId, category.subcategories);
+    } else {
+      await loadFormations(categoryId);
+    }
+  } catch (error) {
+    console.error("Error:", error);
+    document.getElementById("formationsList").innerHTML = `
+      <div class="error">Erreur de chargement: ${error.message}</div>
+    `;
+  }
+});
 
-        const contentDiv = document.getElementById("formationContent");
+function displaySubcategories(categoryId, subcategories) {
+  const section = document.getElementById("subcategoriesSection");
+  const list = document.getElementById("subcategoriesList");
+  
+  section.classList.remove("hidden");
+  document.getElementById("formationsSection").style.display = "none";
+  list.innerHTML = "";
 
-        if (!category || !category.formations || category.formations.length === 0) {
-          contentDiv.innerHTML = `<p>Aucune formation trouvée pour cette catégorie.</p>`;
-          return;
-        }
-
-        const header = document.createElement("div");
-        header.innerHTML = `
-          <h2>${category.title}</h2>
-          <p>${category.description}</p>
+  subcategories.forEach(sub => {
+    const card = document.createElement("div");
+    card.className = "formation-card";
+    card.textContent = sub.title;
+    card.onclick = async () => {
+      try {
+        await loadFormations(categoryId, sub.id);
+      } catch (error) {
+        console.error("Failed to load subcategory:", error);
+        document.getElementById("formationsList").innerHTML = `
+          <div class="error">Impossible de charger les formations: ${error.message}</div>
         `;
-        contentDiv.appendChild(header);
+      }
+    };
+    list.appendChild(card);
+  });
+}
 
-        category.formations.forEach((formation) => {
-          const card = document.createElement("div");
-          card.classList.add("formation-card");
-          card.innerHTML = `
-            <h3>${formation.title}</h3>
-            <p>${formation.description}</p>
-          `;
-          contentDiv.appendChild(card);
-        });
-      })
-      .catch(error => {
-        console.error("❌ Erreur lors du chargement des données :", error);
-        document.getElementById("formationContent").innerHTML =
-          "<p>Une erreur s'est produite lors du chargement des données.</p>";
-      });
-  </script>  
+async function loadFormations(categoryId, subcategoryId = null) {
+  const jsonPath = subcategoryId 
+    ? `data/formations/${categoryId}/${subcategoryId}.json`
+    : `data/formations/${categoryId}/${categoryId}.json`;
+
+  console.log("Loading:", jsonPath);
+
+  try {
+    const response = await fetch(jsonPath);
+    if (!response.ok) throw new Error(`Fichier non trouvé: ${jsonPath}`);
+    
+    const data = await response.json();
+    
+    document.getElementById("subcategoriesSection").style.display = "none";
+    document.getElementById("formationsSection").style.display = "block";
+    document.getElementById("formationsTitle").textContent = data.title || "Formations";
+    
+    displayFormations(data.formations);
+  } catch (error) {
+    console.error("Load error:", error);
+    document.getElementById("formationsList").innerHTML = `
+      <div class="error">Erreur de chargement: ${error.message}</div>
+    `;
+  }
+}
+
+function displayFormations(formations) {
+  const container = document.getElementById("formationsList");
+  container.innerHTML = "";
+
+  if (!formations || formations.length === 0) {
+    container.innerHTML = "<p>Aucune formation disponible.</p>";
+    return;
+  }
+
+  // Show the back to subcategories button
+  document.getElementById("backToSubcategories").style.display = "block";
+
+  formations.forEach((formation, index) => {
+    const card = document.createElement("div");
+    card.className = "formation-card";
+    if (index === 0) card.classList.add("active");
+    
+    const title = document.createElement("h3");
+    title.textContent = formation.titreFormation || "Formation sans titre";
+    card.appendChild(title);
+    
+    const shortDesc = document.createElement("p");
+    shortDesc.textContent = formation.objectifs?.[0] || "";
+    card.appendChild(shortDesc);
+    
+    card.addEventListener("click", () => {
+      document.querySelectorAll(".formation-card").forEach(c => c.classList.remove("active"));
+      card.classList.add("active");
+      showFormationDetails(formation);
+    });
+    
+    container.appendChild(card);
+  });
+
+  if (formations.length > 0) {
+    showFormationDetails(formations[0]);
+  }
+}
+
+// Add this new function to handle going back to subcategories
+function setupBackToSubcategories(categoryId, subcategories) {
+  const backButton = document.getElementById("backToSubcategories");
+  backButton.onclick = () => {
+    // Hide formations and show subcategories again
+    document.getElementById("formationsSection").style.display = "none";
+    document.getElementById("subcategoriesSection").style.display = "block";
+    backButton.style.display = "none";
+    
+    // Clear the details panel
+    document.getElementById("formationDetails").innerHTML = 
+      "<p>Sélectionnez une formation pour voir les détails</p>";
+  };
+}
+
+// Modify your loadFormations function to call the setup function
+async function loadFormations(categoryId, subcategoryId = null) {
+  const jsonPath = subcategoryId 
+    ? `data/formations/${categoryId}/${subcategoryId}.json`
+    : `data/formations/${categoryId}/${categoryId}.json`;
+
+  console.log("Loading:", jsonPath);
+
+  try {
+    const response = await fetch(jsonPath);
+    if (!response.ok) throw new Error(`Fichier non trouvé: ${jsonPath}`);
+    
+    const data = await response.json();
+    
+    document.getElementById("subcategoriesSection").style.display = "none";
+    document.getElementById("formationsSection").style.display = "block";
+    document.getElementById("formationsTitle").textContent = data.title || "Formations";
+    
+    // Store the categoryId and subcategories for the back button
+    const indexResponse = await fetch("data/index.json");
+    const allCategories = await indexResponse.json();
+    const category = allCategories[categoryId];
+    
+    if (category.hasSubcategories) {
+      setupBackToSubcategories(categoryId, category.subcategories);
+    }
+    
+    displayFormations(data.formations);
+  } catch (error) {
+    console.error("Load error:", error);
+    document.getElementById("formationsList").innerHTML = `
+      <div class="error">Erreur de chargement: ${error.message}</div>
+    `;
+  }
+}
+
+function showFormationDetails(formation) {
+  const detailsPanel = document.getElementById("formationDetails");
+  detailsPanel.innerHTML = `
+    <h3 class="detail-title">${formation.titreFormation || "Formation sans titre"}</h3>
+    
+    <div class="detail-section">
+      <h4>Objectifs</h4>
+      <ul class="styled-list">
+        ${formation.objectifs?.map(obj => `<li>${obj}</li>`).join("") || "<li>Non spécifiés</li>"}
+      </ul>
+    </div>
+    
+    <div class="detail-section">
+      <h4> Public cible</h4>
+      <p>${formation.publicCible || "Non spécifié"}</p>
+    </div>
+    
+    <div class="detail-section">
+      <h4>Prérequis</h4>
+      <p>${formation.prerequis || "Aucun prérequis spécifique"}</p>
+    </div>
+    
+    <div class="detail-section">
+      <h4> Programme</h4>
+      ${formation.programme?.map(module => `
+        <div class="programme-item">
+          <h5>${module.titre}</h5>
+          <ul class="programme-content">
+            ${module.contenu?.map(item => `<li>${item}</li>`).join("") || "<li>Aucun contenu détaillé</li>"}
+          </ul>
+        </div>
+      `).join("") || "<p>Programme non disponible</p>"}
+    </div>
+  `;
+}
+
+
+function goBack() {
+  window.location.href = "pageEntreprise.html#Nos_formations";
+}
+</script>
 </body>
 </html>

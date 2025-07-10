@@ -1,0 +1,127 @@
+{
+  "title": "LES LANGUES À DES FINS SPÉCIFIQUES",
+  "formations": [
+    {
+      "titreFormation": "Formation En Langues Professionnelles",
+      "objectifs": [
+        "Maîtriser les bases de la langue cible (anglais, français, espagnol, etc.)",
+        "Communiquer efficacement à l'oral et à l'écrit dans des situations professionnelles",
+        "Comprendre et rédiger des documents professionnels (emails, rapports, présentations)",
+        "Participer activement aux réunions et négociations en langue cible",
+        "Utiliser un vocabulaire spécifique à leur secteur d'activité"
+      ],
+      "publicCible": "Employés d'entreprises, managers, cadres, et tout professionnel souhaitant améliorer ses compétences linguistiques pour un usage professionnel",
+      "prerequis": [
+        "Niveau de base en langue cible recommandé (A2 selon le CECRL)",
+        "Motivation à apprendre et à pratiquer la langue cible"
+      ],
+      "methodologie": "La formation combine des cours théoriques, des exercices pratiques, des études de cas et des simulations pour assurer une compréhension approfondie et une application pratique des compétences linguistiques. Des supports pédagogiques variés (documents écrits, vidéos, enregistrements audio) seront utilisés pour favoriser l'apprentissage.",
+      "programme": [
+        {
+          "titre": "Module 1 : Bases de la Langue Professionnelle",
+          "contenu": [
+            {
+              "sousTitre": "1. Introduction à la langue cible",
+              "details": [
+                "Alphabet et prononciation",
+                "Vocabulaire de base"
+              ]
+            },
+            {
+              "sousTitre": "2. Grammaire et structures de base",
+              "details": [
+                "Conjugaison des verbes principaux",
+                "Structures de phrases simples"
+              ]
+            },
+            {
+              "sousTitre": "3. Communication de base",
+              "details": [
+                "Salutations et formules de politesse",
+                "Présentations et échanges simples"
+              ]
+            }
+          ]
+        },
+        {
+          "titre": "Module 2 : Communication Orale",
+          "contenu": [
+            {
+              "sousTitre": "4. Communication en face à face",
+              "details": [
+                "Dialogues et simulations de situations professionnelles",
+                "Expression d'opinions et de demandes"
+              ]
+            },
+            {
+              "sousTitre": "5. Réunions et négociations",
+              "details": [
+                "Prise de parole en réunion",
+                "Techniques de négociation"
+              ]
+            },
+            {
+              "sousTitre": "6. Présentations professionnelles",
+              "details": [
+                "Préparation et structuration de présentations",
+                "Techniques de prise de parole en public"
+              ]
+            }
+          ]
+        },
+        {
+          "titre": "Module 3 : Communication Écrite",
+          "contenu": [
+            {
+              "sousTitre": "7. Rédaction de documents professionnels",
+              "details": [
+                "Emails professionnels",
+                "Rapports et comptes rendus"
+              ]
+            },
+            {
+              "sousTitre": "8. Correspondance commerciale",
+              "details": [
+                "Lettres commerciales",
+                "Offres et commandes"
+              ]
+            },
+            {
+              "sousTitre": "9. Outils de communication numérique",
+              "details": [
+                "Utilisation des plateformes de communication (emails, messageries)",
+                "Rédaction de messages clairs et concis"
+              ]
+            }
+          ]
+        },
+        {
+          "titre": "Module 4 : Vocabulaire Spécifique et Études de Cas",
+          "contenu": [
+            {
+              "sousTitre": "10. Vocabulaire spécifique au secteur d'activité",
+              "details": [
+                "Terminologie technique",
+                "Expressions courantes dans le secteur"
+              ]
+            },
+            {
+              "sousTitre": "11. Études de cas et simulations",
+              "details": [
+                "Mise en situation professionnelle",
+                "Résolution de problèmes en langue cible"
+              ]
+            },
+            {
+              "sousTitre": "12. Évaluation et retour d'expérience",
+              "details": [
+                "Tests de compréhension et d'expression",
+                "Feedback personnalisé et recommandations"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

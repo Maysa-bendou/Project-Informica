@@ -1,0 +1,142 @@
+{
+  "title": "Communication et Relation Client",
+  "formations": [
+    {
+      "titreFormation": "Gestion de la Relation-Client",
+      "objectifs": [
+        "Comprendre les principes de la gestion de la relation-client (GRC).",
+        "Développer des compétences pour améliorer l'expérience client.",
+        "Apprendre à utiliser des outils pour gérer et fidéliser les clients."
+      ],
+      "publicCible": "Responsables de la relation-client, commerciaux, responsables marketing, gestionnaires de comptes.",
+      "prerequis": "Connaissances de base en marketing ou en vente.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion de la Relation-Client (GRC)",
+          "contenu": [
+            "Concepts de Base : Comprendre les principes et l'importance de la GRC.",
+            "Objectifs de la GRC : Définir les objectifs de la gestion de la relation-client."
+          ]
+        },
+        {
+          "titre": "2. Segmentation et Ciblage Client",
+          "contenu": [
+            "Analyse des Segments de Clients : Techniques pour segmenter les clients et cibler les segments clés.",
+            "Personnalisation de l'Offre : Stratégies pour personnaliser l'offre en fonction des segments de clients."
+          ]
+        },
+        {
+          "titre": "3. Amélioration de l'Expérience Client",
+          "contenu": [
+            "Techniques de Satisfaction Client : Outils pour mesurer et améliorer la satisfaction client.",
+            "Gestion des Interactions : Méthodes pour gérer efficacement les interactions avec les clients."
+          ]
+        },
+        {
+          "titre": "4. Fidélisation des Clients",
+          "contenu": [
+            "Programmes de Fidélisation : Développement de programmes de fidélisation pour encourager la rétention des clients.",
+            "Stratégies de Suivi Client : Techniques pour suivre et entretenir la relation avec les clients."
+          ]
+        },
+        {
+          "titre": "5. Utilisation des Outils GRC",
+          "contenu": [
+            "Logiciels CRM : Introduction aux logiciels de gestion de la relation-client (CRM).",
+            "Automatisation des Processus : Utilisation des outils d'automatisation pour optimiser la gestion client."
+          ]
+        },
+        {
+          "titre": "6. Analyse des Données Client",
+          "contenu": [
+            "Collecte des Données : Techniques pour collecter des données pertinentes sur les clients.",
+            "Analyse et Utilisation des Données : Méthodes pour analyser les données client et améliorer les stratégies GRC."
+          ]
+        },
+        {
+          "titre": "7. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Gestion Client : Exercices pratiques pour gérer les relations clients.",
+            "Simulations de GRC : Jeux de rôle pour pratiquer la gestion et la fidélisation des clients."
+          ]
+        },
+        {
+          "titre": "8. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Techniques de Communication Persuasive et Influence",
+      "objectifs": [
+        "Comprendre les principes de la communication persuasive.",
+        "Développer des compétences pour influencer et persuader dans diverses situations professionnelles.",
+        "Apprendre à utiliser des techniques de communication pour améliorer l'efficacité personnelle et professionnelle."
+      ],
+      "publicCible": "Commerciaux, responsables marketing, managers, formateurs, toute personne souhaitant améliorer ses compétences en communication persuasive.",
+      "prerequis": "Connaissances de base en communication ou en vente.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Communication Persuasive",
+          "contenu": [
+            "Concepts de Base : Comprendre les principes de la communication persuasive.",
+            "Objectifs de la Persuasion : Définir les objectifs de la communication persuasive et d'influence."
+          ]
+        },
+        {
+          "titre": "2. Techniques de Persuasion",
+          "contenu": [
+            "Techniques de Rhétorique : Utilisation de la rhétorique pour structurer un discours persuasif.",
+            "Stratégies de Persuasion : Techniques pour persuader et influencer les interlocuteurs (pathos, ethos, logos)."
+          ]
+        },
+        {
+          "titre": "3. Influence et Négociation",
+          "contenu": [
+            "Principes de l'Influence : Comprendre les principes psychologiques de l'influence (réciprocité, preuve sociale).",
+            "Techniques de Négociation : Stratégies pour négocier et convaincre efficacement."
+          ]
+        },
+        {
+          "titre": "4. Communication Non Verbale",
+          "contenu": [
+            "Langage Corporel : Utilisation du langage corporel pour renforcer le message persuasif.",
+            "Techniques de Synchronisation : Méthodes pour synchroniser la communication verbale et non verbale."
+          ]
+        },
+        {
+          "titre": "5. Adaptation au Public",
+          "contenu": [
+            "Analyse de l'Audience : Techniques pour analyser et comprendre le public cible.",
+            "Personnalisation du Message : Adaptation du message en fonction des attentes et des besoins de l'audience."
+          ]
+        },
+        {
+          "titre": "6. Gestion des Objections",
+          "contenu": [
+            "Anticipation des Objections : Stratégies pour anticiper et préparer des réponses aux objections.",
+            "Techniques de Réponse : Méthodes pour répondre aux objections de manière persuasive."
+          ]
+        },
+        {
+          "titre": "7. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Persuasion : Exercices pratiques pour développer des discours persuasifs.",
+            "Simulations de Communication : Jeux de rôle pour pratiquer l'influence et la négociation."
+          ]
+        },
+        {
+          "titre": "8. Outils et Techniques de Communication",
+          "contenu": [
+            "Supports Visuels : Utilisation de supports visuels pour renforcer la communication persuasive.",
+            "Techniques de Storytelling : Utilisation de techniques de storytelling pour captiver et persuader."
+          ]
+        },
+        {
+          "titre": "9. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
+  ]
+}

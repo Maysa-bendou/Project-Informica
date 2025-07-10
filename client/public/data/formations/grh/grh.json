@@ -1,0 +1,578 @@
+{
+  "category": "GRH",
+  "formations": [
+    {
+      "titreFormation": "Gestion Administrative des Ressources Humaines",
+      "objectifs": [
+        "Comprendre les principes de la gestion administrative des ressources humaines.",
+        "Maîtriser les processus administratifs liés à la gestion du personnel.",
+        "Développer des compétences en conformité réglementaire et en gestion documentaire."
+      ],
+      "publicCible": "Responsables RH, gestionnaires de paie, assistants RH.",
+      "prerequis": "Connaissances de base en gestion des ressources humaines.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion Administrative des RH",
+          "contenu": [
+            "Concepts de Base : Comprendre les fondamentaux de la gestion administrative des RH.",
+            "Cadre Réglementaire : Aperçu des principales lois et régulations affectant la gestion des RH."
+          ]
+        },
+        {
+          "titre": "2. Gestion des Dossiers du Personnel",
+          "contenu": [
+            "Création et Mise à Jour : Techniques pour créer et maintenir des dossiers du personnel complets et à jour.",
+            "Confidentialité et Sécurité des Données : Stratégies pour garantir la confidentialité et la sécurité des informations des employés."
+          ]
+        },
+        {
+          "titre": "3. Gestion des Absences et des Congés",
+          "contenu": [
+            "Types de Congés : Comprendre les différents types de congés et leur gestion.",
+            "Suivi des Absences : Outils et techniques pour suivre et gérer les absences."
+          ]
+        },
+        {
+          "titre": "4. Gestion de la Paie",
+          "contenu": [
+            "Éléments de la Paie : Détails sur les composants de la paie (salaire de base, primes, avantages).",
+            "Calcul et Versement : Techniques pour calculer et verser correctement les salaires."
+          ]
+        },
+        {
+          "titre": "5. Conformité Réglementaire",
+          "contenu": [
+            "Respect des Lois du Travail : Méthodes pour assurer la conformité avec les lois du travail et les régulations sociales.",
+            "Gestion des Relations avec les Instances Représentatives : Stratégies pour gérer les relations avec les syndicats et les comités d'entreprise."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Simulations de Gestion Administrative : Jeux de rôle pour pratiquer la gestion administrative des RH.",
+            "Études de Cas : Analyse de cas réels pour appliquer les connaissances acquises."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion Opérationnelle des Ressources Humaines",
+      "objectifs": [
+        "Optimiser les processus opérationnels des ressources humaines.",
+        "Développer des compétences pour gérer les opérations quotidiennes des RH.",
+        "Améliorer l'efficacité des pratiques RH opérationnelles."
+      ],
+      "publicCible": "Responsables RH, chefs de service, gestionnaires de personnel.",
+      "prerequis": "Connaissances de base en gestion des ressources humaines.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion Opérationnelle des RH",
+          "contenu": [
+            "Concepts de Base : Comprendre les fondamentaux de la gestion opérationnelle des RH.",
+            "Cadre Organisationnel : Aperçu des structures organisationnelles et des rôles RH."
+          ]
+        },
+        {
+          "titre": "2. Gestion des Processus RH",
+          "contenu": [
+            "Optimisation des Processus : Techniques pour analyser et améliorer les processus RH.",
+            "Gestion des Flux d'Information : Stratégies pour gérer efficacement les flux d'information RH."
+          ]
+        },
+        {
+          "titre": "3. Gestion de la Performance",
+          "contenu": [
+            "Évaluation de la Performance : Méthodes pour évaluer la performance des employés.",
+            "Développement des Compétences : Stratégies pour planifier et mettre en œuvre des programmes de développement des compétences."
+          ]
+        },
+        {
+          "titre": "4. Gestion des Relations Employés",
+          "contenu": [
+            "Communication Interne : Techniques pour améliorer la communication interne et l'engagement des employés.",
+            "Gestion des Conflits : Stratégies pour identifier et résoudre les conflits au sein de l'organisation."
+          ]
+        },
+        {
+          "titre": "5. Gestion des Ressources et des Outils RH",
+          "contenu": [
+            "Technologies RH : Introduction aux outils et logiciels RH modernes.",
+            "Gestion des Ressources : Techniques pour gérer efficacement les ressources humaines et matérielles."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Gestion Opérationnelle : Exercices pratiques pour optimiser les processus RH.",
+            "Études de Cas : Analyse de cas réels pour appliquer les techniques de gestion opérationnelle."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Tableau de Bord des Ressources Humaines",
+      "objectifs": [
+        "Concevoir et utiliser des tableaux de bord RH efficaces.",
+        "Améliorer la prise de décision grâce aux indicateurs de performance RH.",
+        "Optimiser le suivi des activités et des objectifs RH."
+      ],
+      "publicCible": "Responsables RH, analystes RH, managers, chefs de service.",
+      "prerequis": "Connaissances de base en gestion des ressources humaines et en analyse de données.",
+      "programme": [
+        {
+          "titre": "1. Introduction aux Tableaux de Bord RH",
+          "contenu": [
+            "Concepts de Base : Définition et utilité des tableaux de bord RH.",
+            "Types de Tableaux de Bord : Exploration des différents types de tableaux de bord RH (stratégiques, opérationnels)."
+          ]
+        },
+        {
+          "titre": "2. Conception des Tableaux de Bord RH",
+          "contenu": [
+            "Sélection des Indicateurs : Critères de sélection des indicateurs de performance RH (KPIs).",
+            "Structuration des Données : Organisation et présentation des données RH pour une lecture efficace."
+          ]
+        },
+        {
+          "titre": "3. Outils de Création des Tableaux de Bord RH",
+          "contenu": [
+            "Logiciels et Outils : Introduction aux principaux logiciels de création de tableaux de bord (e.g., Excel, Power BI).",
+            "Visualisation des Données : Techniques de visualisation pour améliorer la compréhension des données RH."
+          ]
+        },
+        {
+          "titre": "4. Utilisation et Pilotage des Tableaux de Bord RH",
+          "contenu": [
+            "Analyse des Données RH : Techniques pour analyser les données des tableaux de bord.",
+            "Prise de Décision RH : Utilisation des tableaux de bord pour la prise de décision stratégique."
+          ]
+        },
+        {
+          "titre": "5. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Création : Exercices pratiques pour créer des tableaux de bord RH adaptés à différents besoins.",
+            "Études de Cas : Analyse de cas concrets pour développer des tableaux de bord RH efficaces."
+          ]
+        },
+        {
+          "titre": "6. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion Prévisionnelle des Emplois et des Compétences",
+      "objectifs": [
+        "Comprendre les principes de la gestion prévisionnelle des emplois et des compétences (GPEC).",
+        "Développer des compétences pour anticiper les besoins en compétences.",
+        "Apprendre à mettre en place des plans d'action pour répondre aux évolutions des métiers et des compétences."
+      ],
+      "publicCible": "Responsables RH, gestionnaires des talents, managers, chefs de service.",
+      "prerequis": "Connaissances de base en gestion des ressources humaines.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la GPEC",
+          "contenu": [
+            "Concepts de Base : Définition et importance de la GPEC.",
+            "Cadre Réglementaire : Présentation des obligations légales en matière de GPEC."
+          ]
+        },
+        {
+          "titre": "2. Diagnostic des Compétences",
+          "contenu": [
+            "Identification des Compétences : Techniques pour identifier et cartographier les compétences actuelles.",
+            "Analyse des Écarts de Compétences : Outils pour analyser les écarts entre compétences actuelles et compétences futures."
+          ]
+        },
+        {
+          "titre": "3. Anticipation des Besoins en Compétences",
+          "contenu": [
+            "Études Prévisionnelles : Méthodes pour réaliser des études prévisionnelles des emplois et des compétences.",
+            "Scénarios Prospectifs : Techniques pour élaborer des scénarios d'évolution des métiers et des compétences."
+          ]
+        },
+        {
+          "titre": "4. Mise en Œuvre de la GPEC",
+          "contenu": [
+            "Plans d'Action GPEC : Développement de plans d'action pour répondre aux besoins en compétences.",
+            "Accompagnement au Changement : Stratégies pour accompagner les collaborateurs dans l'évolution des compétences."
+          ]
+        },
+        {
+          "titre": "5. Outils et Techniques de la GPEC",
+          "contenu": [
+            "Systèmes d'Information RH : Utilisation des outils informatiques pour la gestion des compétences.",
+            "Tableaux de Bord GPEC : Création de tableaux de bord pour le suivi des actions GPEC."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Diagnostic : Exercices pratiques pour diagnostiquer les compétences.",
+            "Études de Cas : Analyse de cas réels pour appliquer les concepts de la GPEC."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Règlementation et Relation de Travail",
+      "objectifs": [
+        "Comprendre les principes de la réglementation du travail.",
+        "Développer des compétences pour gérer les relations de travail conformément aux lois et régulations.",
+        "Apprendre à résoudre les conflits de travail de manière légale et efficace."
+      ],
+      "publicCible": "Responsables RH, juristes, managers, chefs de service.",
+      "prerequis": "Connaissances de base en droit du travail.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Réglementation du Travail",
+          "contenu": [
+            "Cadre Légal : Présentation des principales lois et régulations du travail.",
+            "Obligations de l'Employeur : Comprendre les obligations légales de l'employeur."
+          ]
+        },
+        {
+          "titre": "2. Gestion des Contrats de Travail",
+          "contenu": [
+            "Types de Contrats : Différencier les différents types de contrats de travail.",
+            "Clauses Contractuelles : Comprendre les clauses essentielles et spécifiques des contrats de travail."
+          ]
+        },
+        {
+          "titre": "3. Gestion des Relations de Travail",
+          "contenu": [
+            "Droits et Obligations des Salariés : Connaître les droits et obligations des salariés.",
+            "Gestion des Conflits de Travail : Techniques pour gérer les conflits de travail de manière conforme à la loi."
+          ]
+        },
+        {
+          "titre": "4. Procédures Disciplinaires et Licenciements",
+          "contenu": [
+            "Procédure Disciplinaire : Méthodes pour mener des procédures disciplinaires en conformité avec la loi.",
+            "Gestion des Licenciements : Stratégies pour gérer les licenciements de manière légale et respectueuse."
+          ]
+        },
+        {
+          "titre": "5. Négociation Collective et Dialogue Social",
+          "contenu": [
+            "Négociation Collective : Techniques pour mener des négociations collectives.",
+            "Relations avec les Instances Représentatives : Stratégies pour travailler avec les syndicats et les comités d'entreprise."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Simulations de Relations de Travail : Jeux de rôle pour pratiquer la gestion des relations de travail.",
+            "Études de Cas : Analyse de cas réels pour appliquer les connaissances en réglementation du travail."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion des Recrutements et des Contrats de Travail",
+      "objectifs": [
+        "Maîtriser les processus de recrutement de l'identification des besoins à la sélection finale.",
+        "Comprendre les différents types de contrats de travail et leurs spécificités.",
+        "Développer des compétences pour gérer les recrutements et les contrats de manière efficace et conforme à la réglementation."
+      ],
+      "publicCible": "Responsables RH, recruteurs, managers, chefs de service.",
+      "prerequis": "Connaissances de base en gestion des ressources humaines.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion des Recrutements",
+          "contenu": [
+            "Concepts de Base : Comprendre les fondamentaux du recrutement.",
+            "Processus de Recrutement : Aperçu des étapes clés du processus de recrutement."
+          ]
+        },
+        {
+          "titre": "2. Identification des Besoins et Sourcing",
+          "contenu": [
+            "Définition des Besoins : Techniques pour définir les besoins en recrutement.",
+            "Stratégies de Sourcing : Méthodes pour identifier et attirer les candidats potentiels."
+          ]
+        },
+        {
+          "titre": "3. Sélection des Candidats",
+          "contenu": [
+            "Méthodes de Sélection : Techniques pour évaluer et sélectionner les candidats (entretiens, tests, évaluations).",
+            "Critères de Sélection : Définir des critères de sélection pertinents et objectifs."
+          ]
+        },
+        {
+          "titre": "4. Gestion des Contrats de Travail",
+          "contenu": [
+            "Types de Contrats : Comprendre les différents types de contrats de travail (CDI, CDD, intérim).",
+            "Clauses Contractuelles : Rédiger des contrats de travail conformes et adaptés aux besoins de l'entreprise."
+          ]
+        },
+        {
+          "titre": "5. Intégration des Nouveaux Employés",
+          "contenu": [
+            "Processus d'Intégration : Stratégies pour intégrer efficacement les nouveaux employés.",
+            "Suivi de l'Intégration : Techniques pour assurer le suivi et l'accompagnement des nouvelles recrues."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Recrutement : Exercices pratiques pour conduire des entretiens et évaluer des candidats.",
+            "Simulations de Gestion des Contrats : Jeux de rôle pour pratiquer la rédaction et la gestion des contrats de travail."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "La Gestion de la Rémunération",
+      "objectifs": [
+        "Comprendre les principes de la gestion de la rémunération.",
+        "Développer des compétences pour élaborer et gérer des politiques de rémunération efficaces.",
+        "Apprendre à utiliser des outils et techniques pour la gestion des salaires et des avantages."
+      ],
+      "publicCible": "Responsables RH, gestionnaires de paie, managers, chefs de service.",
+      "prerequis": "Connaissances de base en gestion des ressources humaines.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion de la Rémunération",
+          "contenu": [
+            "Concepts de Base : Comprendre les fondamentaux de la gestion de la rémunération.",
+            "Composants de la Rémunération : Détails sur les différents composants de la rémunération (salaire de base, primes, avantages)."
+          ]
+        },
+        {
+          "titre": "2. Élaboration de la Politique de Rémunération",
+          "contenu": [
+            "Principes de Base : Méthodes pour élaborer une politique de rémunération équitable et compétitive.",
+            "Structures de Salaire : Techniques pour définir et structurer les grilles salariales."
+          ]
+        },
+        {
+          "titre": "3. Gestion des Salaires et des Avantages",
+          "contenu": [
+            "Calcul des Salaires : Outils et techniques pour calculer les salaires de manière précise.",
+            "Gestion des Avantages : Stratégies pour gérer les avantages sociaux et les compléments de rémunération."
+          ]
+        },
+        {
+          "titre": "4. Conformité Réglementaire",
+          "contenu": [
+            "Réglementation de la Rémunération : Aperçu des lois et régulations affectant la rémunération.",
+            "Audit de la Rémunération : Techniques pour auditer les pratiques de rémunération et assurer la conformité."
+          ]
+        },
+        {
+          "titre": "5. Motivation et Rémunération",
+          "contenu": [
+            "Lien entre Rémunération et Motivation : Comprendre comment la rémunération influence la motivation et la performance des employés.",
+            "Stratégies d'Incentives : Techniques pour élaborer des programmes d'incentives efficaces."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Gestion des Salaires : Exercices pratiques pour gérer les salaires et les avantages.",
+            "Simulations de Politique de Rémunération : Jeux de rôle pour pratiquer l'élaboration de politiques de rémunération."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Droit de la Sécurité Sociale",
+      "objectifs": [
+        "Comprendre les principes du droit de la sécurité sociale.",
+        "Développer des compétences pour gérer les obligations légales en matière de sécurité sociale.",
+        "Apprendre à utiliser des outils et techniques pour la gestion des cotisations et des déclarations sociales."
+      ],
+      "publicCible": "Responsables RH, gestionnaires de paie, juristes, managers.",
+      "prerequis": "Connaissances de base en droit du travail.",
+      "programme": [
+        {
+          "titre": "1. Introduction au Droit de la Sécurité Sociale",
+          "contenu": [
+            "Cadre Légal : Présentation des principales lois et régulations de la sécurité sociale.",
+            "Obligations de l'Employeur : Comprendre les obligations légales de l'employeur en matière de sécurité sociale."
+          ]
+        },
+        {
+          "titre": "2. Cotisations Sociales",
+          "contenu": [
+            "Calcul des Cotisations : Techniques pour calculer les cotisations sociales des employés.",
+            "Déclarations Sociales : Outils pour préparer et soumettre les déclarations sociales."
+          ]
+        },
+        {
+          "titre": "3. Prestations de la Sécurité Sociale",
+          "contenu": [
+            "Types de Prestations : Aperçu des différentes prestations de la sécurité sociale (maladie, maternité, retraite).",
+            "Conditions d'Éligibilité : Comprendre les conditions d'éligibilité aux différentes prestations."
+          ]
+        },
+        {
+          "titre": "4. Gestion des Relations avec les Organismes de Sécurité Sociale",
+          "contenu": [
+            "Interaction avec les Caisses : Stratégies pour gérer les relations avec les caisses de sécurité sociale.",
+            "Gestion des Litiges : Techniques pour résoudre les litiges avec les organismes de sécurité sociale."
+          ]
+        },
+        {
+          "titre": "5. Conformité Réglementaire",
+          "contenu": [
+            "Audit des Pratiques Sociales : Techniques pour auditer les pratiques de gestion des cotisations et des déclarations.",
+            "Mise en Conformité : Stratégies pour assurer la conformité avec les régulations de la sécurité sociale."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Calcul des Cotisations : Exercices pratiques pour calculer les cotisations sociales.",
+            "Simulations de Déclarations Sociales : Jeux de rôle pour pratiquer la préparation et la soumission des déclarations sociales."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion des Carrières",
+      "objectifs": [
+        "Comprendre les principes de la gestion des carrières.",
+        "Développer des compétences pour planifier et gérer les parcours professionnels des employés.",
+        "Apprendre à utiliser des outils et techniques pour la gestion des promotions, des mobilités et des plans de succession."
+      ],
+      "publicCible": "Responsables RH, gestionnaires des talents, managers, chefs de service.",
+      "prerequis": "Connaissances de base en gestion des ressources humaines.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion des Carrières",
+          "contenu": [
+            "Concepts de Base : Comprendre les fondamentaux de la gestion des carrières.",
+            "Planification des Carrières : Techniques pour planifier les parcours professionnels des employés."
+          ]
+        },
+        {
+          "titre": "2. Identification des Potentiels",
+          "contenu": [
+            "Évaluation des Compétences : Méthodes pour évaluer les compétences et les potentiels des employés.",
+            "Détection des Talents : Stratégies pour identifier les talents à haut potentiel."
+          ]
+        },
+        {
+          "titre": "3. Gestion des Promotions et Mobilités",
+          "contenu": [
+            "Critères de Promotion : Définir des critères objectifs pour les promotions.",
+            "Planification des Mobilités : Techniques pour planifier et gérer les mobilités internes."
+          ]
+        },
+        {
+          "titre": "4. Développement des Compétences",
+          "contenu": [
+            "Programmes de Formation : Élaboration de programmes de formation pour le développement des compétences.",
+            "Mentorat et Coaching : Stratégies pour développer les talents à travers le mentorat et le coaching."
+          ]
+        },
+        {
+          "titre": "5. Plans de Succession",
+          "contenu": [
+            "Identification des Successeurs : Techniques pour identifier et préparer les successeurs pour les postes clés.",
+            "Gestion des Transitions : Stratégies pour gérer les transitions de carrière et assurer la continuité des compétences."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Ateliers de Planification de Carrière : Exercices pratiques pour planifier les parcours professionnels.",
+            "Simulations de Gestion des Promotions : Jeux de rôle pour pratiquer la gestion des promotions et des mobilités."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    },
+    {
+      "titreFormation": "Gestion Stratégique de la Formation : Analyse des Besoins et Évaluation",
+      "objectifs": [
+        "Comprendre les principes de la gestion stratégique de la formation.",
+        "Développer des compétences pour analyser les besoins en formation.",
+        "Apprendre à évaluer l'efficacité des actions de formation."
+      ],
+      "publicCible": "Responsables formation, responsables RH, gestionnaires des talents, managers.",
+      "prerequis": "Connaissances de base en gestion des ressources humaines ou en gestion de la formation.",
+      "programme": [
+        {
+          "titre": "1. Introduction à la Gestion Stratégique de la Formation",
+          "contenu": [
+            "Concepts de Base : Comprendre les fondamentaux de la gestion stratégique de la formation.",
+            "Importance de l'Analyse des Besoins : Comprendre l'importance de l'analyse des besoins pour le succès des formations."
+          ]
+        },
+        {
+          "titre": "2. Analyse des Besoins en Formation",
+          "contenu": [
+            "Techniques d'Analyse : Méthodes pour identifier et analyser les besoins en formation (enquêtes, entretiens, observations).",
+            "Évaluation des Compétences : Outils pour évaluer les compétences actuelles et identifier les écarts de compétence."
+          ]
+        },
+        {
+          "titre": "3. Planification de la Formation",
+          "contenu": [
+            "Définition des Objectifs de Formation : Techniques pour définir des objectifs de formation clairs et alignés avec la stratégie de l'entreprise.",
+            "Élaboration du Plan de Formation : Stratégies pour élaborer et structurer un plan de formation efficace."
+          ]
+        },
+        {
+          "titre": "4. Mise en Œuvre des Actions de Formation",
+          "contenu": [
+            "Sélection des Méthodes Pédagogiques : Choix des méthodes pédagogiques adaptées aux objectifs de formation.",
+            "Gestion des Ressources de Formation : Techniques pour gérer les ressources humaines et matérielles nécessaires à la formation."
+          ]
+        },
+        {
+          "titre": "5. Évaluation de l'Efficacité de la Formation",
+          "contenu": [
+            "Indicateurs de Performance : Définir des indicateurs pour mesurer l'efficacité des actions de formation.",
+            "Méthodes d'Évaluation : Techniques pour évaluer l'impact des formations sur les compétences et la performance des employés."
+          ]
+        },
+        {
+          "titre": "6. Applications Pratiques",
+          "contenu": [
+            "Ateliers d'Analyse des Besoins : Exercices pratiques pour analyser les besoins en formation.",
+            "Simulations d'Évaluation de Formation : Jeux de rôle pour pratiquer l'évaluation de l'efficacité des formations."
+          ]
+        },
+        {
+          "titre": "7. Évaluation Finale",
+          "contenu": []
+        }
+      ]
+    }
+  ]
+}
