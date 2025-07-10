@@ -1,0 +1,161 @@
+{
+  "title": "Comptabilité - fianace - juridique",
+  "formations":[
+
+{
+  "titreFormation": "Techniques Marketing pour Renforcer l'Action Commerciale",
+  "objectifs": [
+    "Comprendre les techniques marketing pour améliorer l'efficacité des actions commerciales.",
+    "Développer des compétences pour intégrer le marketing et la vente.",
+    "Apprendre à utiliser des outils marketing pour soutenir les objectifs commerciaux."
+  ],
+  "publicCible": "Responsables marketing, directeurs commerciaux, chefs de produit, commerciaux.",
+  "prerequis": "Connaissances de base en marketing ou en vente.",
+  "programme": [
+    {
+      "titre": "Introduction aux Techniques Marketing et Commerciales",
+      "contenu": [
+        "Concepts de Base : Comprendre l'interaction entre le marketing et les ventes.",
+        "Objectifs de l'Action Commerciale : Définir les objectifs marketing pour soutenir les ventes."
+      ]
+    },
+    {
+      "titre": "Stratégies de Marketing Mix",
+      "contenu": [
+        "Produit : Techniques pour adapter les produits aux besoins des clients.",
+        "Prix : Stratégies de pricing pour attirer et fidéliser les clients.",
+        "Place (Distribution) : Optimisation des canaux de distribution pour améliorer l'accessibilité des produits.",
+        "Promotion : Techniques de promotion pour renforcer la visibilité et stimuler les ventes."
+      ]
+    },
+    {
+      "titre": "Segmentation et Ciblage Commercial",
+      "contenu": [
+        "Segmentation de Marché : Techniques pour segmenter le marché en groupes homogènes.",
+        "Ciblage Efficace : Stratégies pour cibler les segments avec le plus fort potentiel commercial."
+      ]
+    },
+    {
+      "titre": "Techniques de Communication Commerciale",
+      "contenu": [
+        "Campagnes Marketing : Développement de campagnes marketing pour soutenir les ventes.",
+        "Marketing Direct : Utilisation du marketing direct pour générer des leads et des ventes."
+      ]
+    },
+    {
+      "titre": "Outils Marketing pour les Ventes",
+      "contenu": [
+        "CRM et Automatisation : Introduction aux outils CRM et d'automatisation pour améliorer l'efficacité commerciale.",
+        "Analyse de Données : Utilisation de l'analyse de données pour optimiser les stratégies commerciales."
+      ]
+    },
+    {
+      "titre": "Techniques de Génération de Leads",
+      "contenu": [
+        "Lead Generation : Stratégies pour attirer et convertir des prospects en clients.",
+        "Qualification des Leads : Techniques pour qualifier et prioriser les leads commerciaux."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Stratégie Marketing : Exercices pratiques pour développer des stratégies marketing.",
+        "Simulations de Campagnes Commerciales : Jeux de rôle pour pratiquer la mise en œuvre des campagnes commerciales."
+      ]
+    },
+    {
+      "titre": "Outils et Techniques de Suivi",
+      "contenu": [
+        "Indicateurs de Performance : Définition et suivi des KPIs pour mesurer l'efficacité des actions marketing et commerciales.",
+        "Techniques de Reporting : Création de rapports pour analyser les résultats des campagnes."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+
+{
+  "titreFormation": "Marketing Digital et Création de Contenu",
+  "objectifs": [
+    "Comprendre les principes du marketing digital.",
+    "Développer des compétences pour créer et gérer du contenu digital.",
+    "Apprendre à utiliser des outils digitaux pour optimiser les campagnes marketing en ligne."
+  ],
+  "publicCible": "Responsables marketing, community managers, créateurs de contenu, entrepreneurs.",
+  "prerequis": "Connaissances de base en marketing.",
+  "programme": [
+    {
+      "titre": "Introduction au Marketing Digital",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes et l'importance du marketing digital.",
+        "Objectifs du Marketing Digital : Définir les objectifs et les avantages du marketing digital."
+      ]
+    },
+    {
+      "titre": "Stratégies de Marketing Digital",
+      "contenu": [
+        "SEO (Search Engine Optimization) : Techniques pour optimiser le référencement naturel des sites web.",
+        "SEM (Search Engine Marketing) : Stratégies pour gérer les campagnes de publicité en ligne (PPC)."
+      ]
+    },
+    {
+      "titre": "Création de Contenu Digital",
+      "contenu": [
+        "Types de Contenu : Exploration des différents types de contenu (articles, vidéos, infographies).",
+        "Storytelling et Copywriting : Techniques pour créer des histoires engageantes et rédiger des textes persuasifs."
+      ]
+    },
+    {
+      "titre": "Gestion des Réseaux Sociaux",
+      "contenu": [
+        "Stratégies de Réseaux Sociaux : Développement de stratégies pour les réseaux sociaux (Facebook, Instagram, LinkedIn).",
+        "Engagement et Interaction : Techniques pour engager et interagir avec les communautés en ligne."
+      ]
+    },
+    {
+      "titre": "Email Marketing",
+      "contenu": [
+        "Campagnes d'Emailing : Création et gestion de campagnes d'email marketing.",
+        "Segmentation et Personnalisation : Techniques pour segmenter les listes de diffusion et personnaliser les messages."
+      ]
+    },
+    {
+      "titre": "Analyse des Performances Digitales",
+      "contenu": [
+        "Google Analytics : Introduction à Google Analytics pour suivre les performances des campagnes.",
+        "KPIs Digitaux : Définition et suivi des indicateurs de performance clés pour le marketing digital."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Création de Contenu : Exercices pratiques pour créer des articles, des vidéos et des infographies.",
+        "Simulations de Campagnes Digitales : Jeux de rôle pour pratiquer la gestion de campagnes digitales."
+      ]
+    },
+    {
+      "titre": "Outils de Marketing Digital",
+      "contenu": [
+        "Outils de Gestion de Contenu : Introduction aux CMS (Content Management Systems) comme WordPress.",
+        "Outils de Planification : Utilisation des outils de planification et de calendrier pour organiser les campagnes."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+}
+
+    
+  ]
+}

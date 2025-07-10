@@ -1,0 +1,190 @@
+{
+  "title": "Comptabilité - fianace - juridique",
+  "formations":[
+{
+  "titreFormation": "Développement Web - HTML/CSS",
+  "objectifs": [
+    "Maîtriser les fondamentaux du HTML5 pour structurer le contenu web",
+    "Appliquer les techniques modernes de CSS3 pour le design responsive",
+    "Créer des interfaces web accessibles et optimisées pour le SEO"
+  ],
+  "publicCible": [
+    "Débutants en développement web",
+    "Designers web",
+    "Professionnels en reconversion"
+  ],
+  "prerequis": "Aucun prérequis technique",
+  "duree": "5 jours (35 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "Fondamentaux HTML5",
+      "contenu": [
+        "Structure sémantique (header, section, article, footer)",
+        "Formulaires HTML5 avancés",
+        "Validation native des données"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "CSS Moderne",
+      "contenu": [
+        "Flexbox et Grid Layout",
+        "Animations CSS",
+        "Variables CSS (Custom Properties)"
+      ]
+    },
+    {
+      "module": 3,
+      "titre": "Responsive Design",
+      "contenu": [
+        "Media Queries avancées",
+        "Mobile-first vs Desktop-first",
+        "Images responsives (srcset)"
+      ]
+    }
+  ]
+},
+{
+  "titreFormation": "JavaScript Moderne",
+  "objectifs": [
+    "Maîtriser ES6+ et les concepts fondamentaux",
+    "Manipuler le DOM efficacement",
+    "Implémenter des requêtes API asynchrones"
+  ],
+  "publicCible": [
+    "Développeurs front-end",
+    "Full-stack beginners",
+    "Designers interactifs"
+  ],
+  "prerequis": "Bases HTML/CSS",
+  "duree": "5 jours (35 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "JavaScript ES6+",
+      "contenu": [
+        "Let/const vs var",
+        "Arrow functions",
+        "Destructuring"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "DOM Manipulation",
+      "contenu": [
+        "Event delegation",
+        "Performance optimization",
+        "Virtual DOM concepts"
+      ]
+    }
+  ]
+},
+{
+  "titreFormation": "Développement Back-end PHP/MySQL",
+  "objectifs": [
+    "Créer des applications web dynamiques",
+    "Concevoir des bases de données relationnelles",
+    "Implémenter des solutions sécurisées"
+  ],
+  "publicCible": [
+    "Développeurs back-end",
+    "Administrateurs de bases de données",
+    "Full-stack developers"
+  ],
+  "prerequis": "Bases HTML/CSS/JS",
+  "duree": "5 jours (35 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "PHP Moderne",
+      "contenu": [
+        "Programmation orientée objet",
+        "Namespaces",
+        "Composer"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "MySQL Avancé",
+      "contenu": [
+        "Optimisation des requêtes",
+        "Transactions",
+        "Sécurité"
+      ]
+    }
+  ]
+},
+{
+  "titreFormation": "Programmation Python",
+  "objectifs": [
+    "Maîtriser les paradigmes Python",
+    "Automatiser des tâches",
+    "Analyser des données"
+  ],
+  "publicCible": [
+    "Débutants en programmation",
+    "Data analysts",
+    "DevOps engineers"
+  ],
+  "prerequis": "Aucun",
+  "duree": "5 jours (35 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "Fondamentaux Python",
+      "contenu": [
+        "Structures de données",
+        "Compréhensions de listes",
+        "Gestion des exceptions"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Scripting système",
+        "Web scraping",
+        "Automatisation"
+      ]
+    }
+  ]
+},
+{
+  "titreFormation": "Programmation Java",
+  "objectifs": [
+    "Comprendre la POO en Java",
+    "Développer des applications robustes",
+    "Utiliser les collections Java"
+  ],
+  "publicCible": [
+    "Développeurs back-end",
+    "Étudiants en informatique",
+    "Ingénieurs logiciel"
+  ],
+  "prerequis": "Logique algorithmique",
+  "duree": "5 jours (35 heures)",
+  "programme": [
+    {
+      "module": 1,
+      "titre": "Java Core",
+      "contenu": [
+        "JVM architecture",
+        "Garbage collection",
+        "Multithreading"
+      ]
+    },
+    {
+      "module": 2,
+      "titre": "Écosystème Java",
+      "contenu": [
+        "Spring Framework",
+        "Hibernate/JPA",
+        "Maven/Gradle"
+      ]
+    }
+  ]
+}
+
+  ]
+}

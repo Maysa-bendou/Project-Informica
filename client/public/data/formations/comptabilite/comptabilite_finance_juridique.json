@@ -1,0 +1,1009 @@
+{
+  "title": "Comptabilité - fianace - juridique",
+  "formations": [
+    {
+      "titreFormation": "Pratique de la Comptabilité Générale",
+      "objectifs": [
+        "Comprendre les principes fondamentaux de la comptabilité générale.",
+        "Apprendre à enregistrer les opérations courantes.",
+        "Développer des compétences pour préparer les états financiers de base."
+      ],
+      "publicCible": "Comptables débutants, assistants comptables, gestionnaires financiers.",
+      "prerequis": "Aucun prérequis spécifique.",
+      "programme": [
+        {
+          "titre": "1: Introduction à la Comptabilité Générale",
+          "contenu": [
+            "Concepts de Base : Comprendre les principes fondamentaux et les objectifs de la comptabilité générale.",
+            "Cadre Légal : Aperçu des régulations comptables applicables."
+          ]
+        },
+        {
+          "titre": "2: Enregistrement des Opérations Courantes",
+          "contenu": [
+            "Comptes et Écritures Comptables : Méthodes pour utiliser les comptes et enregistrer les écritures comptables.",
+            "Journal et Grand Livre : Techniques pour tenir le journal et le grand livre comptable."
+          ]
+        },
+        {
+          "titre": "3: Gestion de la Trésorerie",
+          "contenu": [
+            "Banque et Caisse : Enregistrement et suivi des opérations de banque et de caisse.",
+            "Rapprochement Bancaire : Techniques pour effectuer le rapprochement bancaire."
+          ]
+        },
+        {
+          "titre": "4: Gestion des Achats et des Ventes",
+          "contenu": [
+            "Comptabilisation des Achats : Enregistrement des factures d’achat et des notes de frais.",
+            "Comptabilisation des Ventes : Enregistrement des factures de vente et des encaissements."
+          ]
+        },
+        {
+          "titre": "5: Préparation des États Financiers",
+          "contenu": [
+            "Bilan et Compte de Résultat : Techniques pour préparer le bilan et le compte de résultat.",
+            "Annexes Comptables : Élaboration des annexes aux états financiers."
+          ]
+        },
+        {
+          "titre": "6: Applications Pratiques",
+          "contenu": [
+            "Exercices Comptables : Ateliers pratiques pour enregistrer des opérations comptables courantes.",
+            "Études de Cas : Analyse de cas réels pour appliquer les concepts de la comptabilité générale.",
+            "Évaluation Finale"
+          ]
+        },
+        {
+          "titre": "7: Évaluation Finale ",
+          "contenu": ""
+        }
+      ]
+    },
+
+
+
+
+    {
+      "titreFormation": "Gestion des Stocks",
+      "objectifs": [
+        "Comprendre les principes de gestion des stocks.",
+        "Apprendre à utiliser les méthodes de gestion des stocks.",
+        "Développer des compétences pour optimiser les niveaux de stock et réduire les coûts."
+      ],
+      "publicCible": "Responsables logistique, gestionnaires des stocks, responsables des achats.",
+      "prerequis": "Connaissances de base en gestion des opérations.",
+      "programme": [
+        {
+          "titre": "Introduction à la Gestion des Stocks",
+          "contenu": [
+            "Concepts de Base : Comprendre les principes fondamentaux de la gestion des stocks.",
+            "Objectifs de la Gestion des Stocks : Définir les objectifs de la gestion des stocks."
+          ]
+        },
+        {
+          "titre": "Méthodes de Gestion des Stocks",
+          "contenu": [
+            "Méthode FIFO/LIFO : Explication et application des méthodes FIFO (First In, First Out) et LIFO (Last In, First Out).",
+            "Méthode de la Valeur Moyenne : Utilisation de la méthode de la valeur moyenne pour la gestion des stocks."
+          ]
+        },
+        {
+          "titre": "Contrôle des Stocks",
+          "contenu": [
+            "Inventaire Physique : Techniques pour réaliser des inventaires physiques des stocks.",
+            "Suivi et Rotation des Stocks : Outils pour suivre la rotation des stocks et optimiser les niveaux de stock."
+          ]
+        },
+        {
+          "titre": "Optimisation des Stocks",
+          "contenu": [
+            "Stock de Sécurité et Point de Commande : Calcul du stock de sécurité et du point de commande.",
+            "Gestion des Approvisionnements : Stratégies pour gérer les approvisionnements de manière efficace."
+          ]
+        },
+        {
+          "titre": "Gestion des Coûts des Stocks",
+          "contenu": [
+            "Évaluation des Coûts des Stocks : Méthodes pour évaluer les coûts des stocks (coûts de possession, coûts de commande).",
+            "Réduction des Coûts : Techniques pour réduire les coûts liés à la gestion des stocks."
+          ]
+        },
+        {
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers de Gestion des Stocks : Exercices pratiques pour appliquer les méthodes de gestion des stocks.",
+            "Études de Cas : Analyse de cas réels pour optimiser la gestion des stocks.",
+            "Évaluation Finale"
+          ]
+        },
+        {
+          "titre": "7: Évaluation Finale ",
+          "contenu": ""
+        }
+      ]
+    },
+
+
+
+    {
+      "titreFormation": "Gestion du Patrimoine Immobilier et Mobilier",
+      "objectifs": [
+        "Comprendre les principes de gestion du patrimoine immobilier et mobilier.",
+        "Apprendre à évaluer et optimiser la gestion des actifs.",
+        "Développer des compétences pour gérer les risques liés au patrimoine immobilier et mobilier."
+      ],
+      "publicCible": "Gestionnaires de patrimoine, responsables des services généraux, responsables immobiliers.",
+      "prerequis": "Connaissances de base en gestion des actifs.",
+      "programme": [
+        {
+          "titre": "Introduction à la Gestion du Patrimoine",
+          "contenu": [
+            "Concepts de Base : Comprendre les principes de la gestion du patrimoine immobilier et mobilier.",
+            "Cadre Réglementaire : Aperçu des régulations affectant la gestion du patrimoine."
+          ]
+        },
+        {
+          "titre": "Évaluation des Actifs",
+          "contenu": [
+            "Méthodes d’Évaluation : Techniques pour évaluer les actifs immobiliers et mobiliers.",
+            "Audit du Patrimoine : Outils pour réaliser un audit complet du patrimoine."
+          ]
+        },
+        {
+          "titre": "Optimisation de la Gestion du Patrimoine",
+          "contenu": [
+            "Maintenance et Entretien : Stratégies pour planifier et gérer la maintenance des actifs.",
+            "Amélioration de la Valeur des Actifs : Techniques pour améliorer la valeur des actifs immobiliers et mobiliers."
+          ]
+        },
+        {
+          "titre": "Gestion des Risques",
+          "contenu": [
+            "Identification des Risques : Techniques pour identifier les risques liés au patrimoine.",
+            "Plans de Contingence : Développement de plans de contingence pour minimiser les risques."
+          ]
+        },
+        {
+          "titre": "Gestion des Transactions Immobilières",
+          "contenu": [
+            "Achat et Vente : Méthodes pour gérer les transactions d’achat et de vente de biens immobiliers.",
+            "Baux et Locations : Gestion des baux et des contrats de location."
+          ]
+        },
+        {
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Ateliers d’Évaluation des Actifs : Exercices pratiques pour évaluer les actifs immobiliers et mobiliers.",
+            "Simulations de Gestion du Patrimoine : Jeux de rôle pour pratiquer la gestion des transactions et des risques.",
+            "Évaluation Finale"
+          ]
+        },
+        {
+          "titre": "7: Évaluation Finale ",
+          "contenu": ""
+        }
+      ]
+    },
+
+
+
+
+
+
+    {
+      "titreFormation": "Travaux d’Inventaire",
+      "objectifs": [
+        "Comprendre les principes et les objectifs des travaux d’inventaire.",
+        "Apprendre à réaliser les inventaires comptables et physiques.",
+        "Développer des compétences pour préparer les états financiers de fin d’année."
+      ],
+      "publicCible": "Comptables, gestionnaires financiers, assistants comptables.",
+      "prerequis": "Connaissances de base en comptabilité.",
+      "programme": [
+        {
+          "titre": "Introduction aux Travaux d’Inventaire",
+          "contenu": [
+            "Concepts de Base : Comprendre les objectifs et l’importance des travaux d’inventaire.",
+            "Cadre Réglementaire : Aperçu des régulations comptables relatives aux inventaires."
+          ]
+        },
+        {
+          "titre": "Inventaire Comptable",
+          "contenu": [
+            "Réconciliation des Comptes : Techniques pour réconcilier les comptes de bilan.",
+            "Ajustements et Provisions : Enregistrement des ajustements et des provisions nécessaires."
+          ]
+        },
+        {
+          "titre": "Inventaire Physique",
+          "contenu": [
+            "Organisation de l’Inventaire : Stratégies pour organiser et réaliser l’inventaire physique des actifs.",
+            "Suivi des Différences : Techniques pour identifier et suivre les écarts entre l’inventaire physique et comptable."
+          ]
+        },
+        {
+          "titre": "Préparation des États Financiers",
+          "contenu": [
+            "Bilan de Clôture : Techniques pour préparer le bilan de clôture.",
+            "Compte de Résultat : Élaboration du compte de résultat de fin d’année."
+          ]
+        },
+        {
+          "titre": "Gestion des Anomalies",
+          "contenu": [
+            "Identification des Anomalies : Outils pour identifier les anomalies comptables.",
+            "Correction des Erreurs : Méthodes pour corriger les erreurs détectées lors de l’inventaire."
+          ]
+        },
+        {
+          "titre": "Applications Pratiques",
+          "contenu": [
+            "Exercices d’Inventaire : Ateliers pratiques pour réaliser les travaux d’inventaire.",
+            "Études de Cas : Analyse de cas réels pour appliquer les concepts d’inventaire.",
+            "Évaluation Finale"
+          ]
+        },
+        {
+          "titre": "7: Évaluation Finale ",
+          "contenu": ""
+        }
+      ]
+    },
+
+
+
+
+
+
+    
+    {
+      "titreFormation": "Les Travaux Comptables de Fin d’Exercice",
+      "objectifs": [
+        "Comprendre les étapes clés des travaux comptables de fin d’exercice.",
+        "Apprendre à préparer et à clôturer les comptes annuels.",
+        "Développer des compétences pour établir les états financiers de fin d’année."
+      ],
+      "publicCible": "Comptables, gestionnaires financiers, assistants comptables.",
+      "prerequis": "Connaissances de base en comptabilité.",
+      "programme": [
+      {
+        "titre": "Introduction aux Travaux de Fin d’Exercice",
+         "contenu": [
+           "Concepts de Base : Comprendre l’importance des travaux de fin d’exercice.",
+           "Cadre Réglementaire : Aperçu des obligations comptables de fin d’exercice."
+        ]
+      },
+      {
+        "titre": "Clôture des Comptes",
+        "contenu": [
+          "Réconciliation des Comptes : Techniques pour réconcilier les comptes de bilan et de résultat.",
+          "Ajustements Comptables : Enregistrement des ajustements nécessaires (provisions, amortissements)."
+        ]
+      },
+      {
+        "titre": "Établissement des États Financiers",
+        "contenu": [
+          "Préparation du Bilan : Techniques pour préparer le bilan de fin d’année.",
+          "Élaboration du Compte de Résultat : Méthodes pour élaborer le compte de résultat annuel."
+        ]
+      },
+      {
+        "titre": "Gestion des Immobilisations",
+        "contenu": [
+           "Amortissements et Dépréciations : Calcul des amortissements et enregistrement des dépréciations.",
+           "Inventaire des Immobilisations : Techniques pour réaliser l’inventaire des immobilisations."
+        ]
+     },
+     {
+      "titre": "Gestion des Provisions",
+      "contenu": [
+        "Provisions pour Risques et Charges : Identification et calcul des provisions nécessaires.",
+        "Provisions pour Dépréciation : Méthodes pour évaluer et enregistrer les provisions pour dépréciation des actifs."
+      ]
+     },
+     {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Clôture Comptable : Exercices pratiques pour clôturer les comptes annuels.",
+        "Études de Cas : Analyse de cas réels pour appliquer les travaux de fin d’exercice.",
+        "Évaluation Finale"
+      ]
+     },
+     {
+        "titre": "7: Évaluation Finale ",
+        "contenu": ""
+     }
+    ]
+   },
+
+
+
+
+
+
+
+
+
+   {
+  "titreFormation": "Résultat Comptable et Fiscal",
+  "objectifs": [
+    "Comprendre les différences entre le résultat comptable et le résultat fiscal.",
+    "Apprendre à ajuster le résultat comptable pour obtenir le résultat fiscal.",
+    "Développer des compétences pour préparer les déclarations fiscales annuelles."
+  ],
+  "publicCible": "Comptables, gestionnaires financiers, responsables fiscaux.",
+  "prerequis": "Connaissances de base en comptabilité et en fiscalité.",
+  "programme": [
+    {
+      "titre": "Introduction au Résultat Comptable et Fiscal",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes du résultat comptable et du résultat fiscal.",
+        "Cadre Réglementaire : Aperçu des obligations fiscales."
+      ]
+    },
+    {
+      "titre": "Ajustements du Résultat Comptable",
+      "contenu": [
+        "Réintégrations Fiscales : Identification et calcul des réintégrations fiscales.",
+        "Déductions Fiscales : Identification et calcul des déductions fiscales."
+      ]
+    },
+    {
+      "titre": "Traitement des Charges et Produits",
+      "contenu": [
+        "Charges Non Déductibles : Identification des charges non déductibles fiscalement.",
+        "Produits Non Imposables : Identification des produits non imposables fiscalement."
+      ]
+    },
+    {
+      "titre": "Calcul du Résultat Fiscal",
+      "contenu": [
+        "Ajustement du Résultat Comptable : Techniques pour ajuster le résultat comptable et obtenir le résultat fiscal.",
+        "Détermination de la Base Imposable : Calcul de la base imposable et des impôts dus."
+      ]
+    },
+    {
+      "titre": "Préparation des Déclarations Fiscales",
+      "contenu": [
+        "Déclaration de Résultat Fiscal : Techniques pour préparer la déclaration de résultat fiscal.",
+        "Gestion des Crédits et Acomptes : Calcul et gestion des crédits d'impôt et des acomptes."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Passage Comptable-Fiscal : Exercices pratiques pour ajuster le résultat comptable au résultat fiscal.",
+        "Études de Cas : Analyse de cas réels pour appliquer les techniques de passage au résultat fiscal."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+{
+  "titreFormation": "Comptabilité Analytique",
+  "objectifs": [
+    "Comprendre les principes de la comptabilité analytique.",
+    "Apprendre à utiliser les outils de comptabilité analytique pour la gestion des coûts.",
+    "Développer des compétences pour analyser les coûts et améliorer la rentabilité."
+  ],
+  "publicCible": "Comptables, contrôleurs de gestion, gestionnaires financiers.",
+  "prerequis": "Connaissances de base en comptabilité.",
+  "programme": [
+    {
+      "titre": "Introduction à la Comptabilité Analytique",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes fondamentaux de la comptabilité analytique.",
+        "Objectifs de la Comptabilité Analytique : Définir les objectifs de la comptabilité analytique."
+      ]
+    },
+    {
+      "titre": "Méthodes de Calcul des Coûts",
+      "contenu": [
+        "Coûts Complets : Techniques pour calculer les coûts complets.",
+        "Coûts Variables et Directs : Méthodes pour calculer les coûts variables et directs."
+      ]
+    },
+    {
+      "titre": "Analyse des Coûts",
+      "contenu": [
+        "Centre de Coûts : Définition et gestion des centres de coûts.",
+        "Coût de Revient : Calcul du coût de revient des produits et services."
+      ]
+    },
+    {
+      "titre": "Contrôle des Coûts",
+      "contenu": [
+        "Budget et Contrôle Budgétaire : Techniques pour établir et suivre les budgets.",
+        "Analyse des Écarts : Outils pour analyser les écarts entre les coûts réels et les coûts prévus."
+      ]
+    },
+    {
+      "titre": "Optimisation des Coûts",
+      "contenu": [
+        "Réduction des Coûts : Stratégies pour réduire les coûts et améliorer la rentabilité.",
+        "Amélioration des Processus : Techniques pour améliorer les processus et optimiser les coûts."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Calcul des Coûts : Exercices pratiques pour calculer et analyser les coûts.",
+        "Études de Cas : Analyse de cas réels pour appliquer les techniques de comptabilité analytique."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+{
+  "titreFormation": "Fiscalité des Entreprises",
+  "objectifs": [
+    "Comprendre les principes de la fiscalité des entreprises.",
+    "Apprendre à gérer les obligations fiscales des entreprises.",
+    "Développer des compétences pour optimiser la gestion fiscale."
+  ],
+  "publicCible": "Responsables fiscaux, comptables, gestionnaires financiers, juristes.",
+  "prerequis": "Connaissances de base en comptabilité et en fiscalité.",
+  "programme": [
+    {
+      "titre": "Introduction à la Fiscalité des Entreprises",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes fondamentaux de la fiscalité des entreprises.",
+        "Cadre Réglementaire : Aperçu des régulations fiscales applicables aux entreprises."
+      ]
+    },
+    {
+      "titre": "Impôt sur les Sociétés (IS)",
+      "contenu": [
+        "Base Imposable : Calcul de la base imposable de l’impôt sur les sociétés.",
+        "Déductions Fiscales : Identification des charges déductibles et des produits imposables."
+      ]
+    },
+    {
+      "titre": "TVA et Autres Taxes",
+      "contenu": [
+        "Calcul et Déclaration de la TVA : Techniques pour calculer et déclarer la TVA.",
+        "Autres Taxes et Contributions : Aperçu des autres taxes et contributions (CFE, CVAE)."
+      ]
+    },
+    {
+      "titre": "Optimisation Fiscale",
+      "contenu": [
+        "Stratégies d’Optimisation : Techniques pour optimiser la gestion fiscale et réduire la charge fiscale.",
+        "Gestion des Crédits d’Impôt : Identification et gestion des crédits d’impôt disponibles."
+      ]
+    },
+    {
+      "titre": "Contrôle Fiscal",
+      "contenu": [
+        "Préparation au Contrôle Fiscal : Stratégies pour préparer les entreprises aux contrôles fiscaux.",
+        "Gestion des Litiges Fiscaux : Techniques pour gérer les litiges et les contentieux fiscaux."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Calcul Fiscal : Exercices pratiques pour calculer les impôts et les taxes.",
+        "Études de Cas : Analyse de cas réels pour appliquer les techniques de gestion fiscale."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+
+{
+  "titreFormation": "Les Nouvelles Dispositions de la Loi de Finances 2024",
+  "objectifs": [
+    "Comprendre les nouvelles dispositions de la loi de finances 2024.",
+    "Analyser l’impact des nouvelles mesures fiscales sur les entreprises.",
+    "Développer des compétences pour s’adapter aux changements réglementaires."
+  ],
+  "publicCible": "Responsables fiscaux, comptables, gestionnaires financiers, juristes.",
+  "prerequis": "Connaissances de base en fiscalité et en gestion financière.",
+  "programme": [
+    {
+      "titre": "Introduction à la Loi de Finances 2024",
+      "contenu": [
+        "Objectifs et Enjeux : Comprendre les objectifs et les enjeux de la nouvelle loi de finances.",
+        "Cadre Réglementaire : Aperçu des principales nouveautés législatives et réglementaires."
+      ]
+    },
+    {
+      "titre": "Nouvelles Mesures Fiscales",
+      "contenu": [
+        "Changements dans l’IS : Analyse des modifications de l’impôt sur les sociétés.",
+        "Évolutions de la TVA : Présentation des nouvelles règles et taux de TVA."
+      ]
+    },
+    {
+      "titre": "Impact sur les Entreprises",
+      "contenu": [
+        "Étude d’Impact : Techniques pour évaluer l’impact des nouvelles mesures fiscales sur les entreprises.",
+        "Adaptation des Stratégies Fiscales : Stratégies pour adapter les politiques fiscales des entreprises aux nouvelles dispositions."
+      ]
+    },
+    {
+      "titre": "Optimisation Fiscale avec la Nouvelle Loi",
+      "contenu": [
+        "Nouvelles Opportunités Fiscales : Identification des nouvelles opportunités fiscales offertes par la loi de finances 2024.",
+        "Réduction des Risques Fiscaux : Stratégies pour minimiser les risques fiscaux liés aux nouvelles dispositions."
+      ]
+    },
+    {
+      "titre": "Gestion des Obligations Fiscales",
+      "contenu": [
+        "Nouvelles Obligations de Déclaration : Explication des nouvelles obligations de déclaration et de paiement.",
+        "Conformité et Contrôle : Techniques pour assurer la conformité avec les nouvelles régulations."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers d’Analyse de la Loi de Finances : Exercices pratiques pour analyser et appliquer les nouvelles dispositions.",
+        "Études de Cas : Analyse de cas réels pour évaluer l’impact des nouvelles mesures fiscales."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+}, 
+
+
+
+
+
+
+
+{
+  "titreFormation": "Les Travaux d'Analyse Financière",
+  "objectifs": [
+    "Comprendre les principes de l'analyse financière.",
+    "Apprendre à utiliser les outils d'analyse pour évaluer la performance financière.",
+    "Développer des compétences pour interpréter les états financiers et prendre des décisions éclairées."
+  ],
+  "publicCible": "Comptables, analystes financiers, gestionnaires financiers, responsables de la trésorerie.",
+  "prerequis": "Connaissances de base en comptabilité et en finance.",
+  "programme": [
+    {
+      "titre": "Introduction à l'Analyse Financière",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes et les objectifs de l'analyse financière.",
+        "Cadre de Référence : Présentation des principales méthodes et outils d'analyse financière."
+      ]
+    },
+    {
+      "titre": "Analyse des États Financiers",
+      "contenu": [
+        "Analyse du Bilan : Techniques pour analyser la structure financière du bilan.",
+        "Analyse du Compte de Résultat : Méthodes pour évaluer la performance opérationnelle à travers le compte de résultat."
+      ]
+    },
+    {
+      "titre": "Ratios Financiers",
+      "contenu": [
+        "Ratios de Rentabilité : Calcul et interprétation des ratios de rentabilité.",
+        "Ratios de Liquidité et de Solvabilité : Analyse des ratios de liquidité et de solvabilité."
+      ]
+    },
+    {
+      "titre": "Analyse des Flux de Trésorerie",
+      "contenu": [
+        "Tableau des Flux de Trésorerie : Techniques pour préparer et analyser le tableau des flux de trésorerie.",
+        "Évaluation des Flux : Méthodes pour évaluer les flux de trésorerie d'exploitation, d'investissement et de financement."
+      ]
+    },
+    {
+      "titre": "Diagnostic Financier",
+      "contenu": [
+        "Évaluation de la Santé Financière : Techniques pour diagnostiquer la santé financière de l'entreprise.",
+        "Analyse des Risques Financiers : Outils pour identifier et évaluer les risques financiers."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers d'Analyse Financière : Exercices pratiques pour analyser les états financiers.",
+        "Études de Cas : Analyse de cas réels pour appliquer les techniques d'analyse financière."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+{
+  "titreFormation": "Gestion de la Trésorerie",
+  "objectifs": [
+    "Comprendre les principes de la gestion de la trésorerie.",
+    "Apprendre à optimiser les flux de trésorerie.",
+    "Développer des compétences pour gérer les liquidités et les risques financiers."
+  ],
+  "publicCible": "Responsables de la trésorerie, gestionnaires financiers, comptables, responsables financiers.",
+  "prerequis": "Connaissances de base en finance et en comptabilité.",
+  "programme": [
+    {
+      "titre": "Introduction à la Gestion de la Trésorerie",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes fondamentaux de la gestion de la trésorerie.",
+        "Objectifs de la Gestion de Trésorerie : Définir les objectifs et les enjeux de la gestion de trésorerie."
+      ]
+    },
+    {
+      "titre": "Prévision des Flux de Trésorerie",
+      "contenu": [
+        "Techniques de Prévision : Méthodes pour prévoir les flux de trésorerie à court et à long terme.",
+        "Analyse des Flux : Techniques pour analyser les flux de trésorerie passés et anticipés."
+      ]
+    },
+    {
+      "titre": "Optimisation des Flux de Trésorerie",
+      "contenu": [
+        "Gestion des Encaissements et Décaissements : Stratégies pour optimiser les encaissements et les décaissements.",
+        "Techniques d'Optimisation : Utilisation des techniques de gestion des délais de paiement et d'encaissement."
+      ]
+    },
+    {
+      "titre": "Gestion des Liquidités",
+      "contenu": [
+        "Placement des Excédents de Trésorerie : Méthodes pour placer les excédents de trésorerie de manière rentable et sécurisée.",
+        "Financement des Besoins de Trésorerie : Stratégies pour financer les besoins de trésorerie (crédits bancaires, affacturage)."
+      ]
+    },
+    {
+      "titre": "Contrôle et Suivi de la Trésorerie",
+      "contenu": [
+        "Tableau de Bord de Trésorerie : Techniques pour créer et utiliser un tableau de bord de trésorerie.",
+        "Gestion des Risques de Trésorerie : Identification et gestion des risques liés à la trésorerie (risques de change, risques de taux)."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Prévision de Trésorerie : Exercices pratiques pour prévoir et optimiser les flux de trésorerie.",
+        "Études de Cas : Analyse de cas réels pour appliquer les techniques de gestion de trésorerie."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+{
+  "titreFormation": "Audit Interne",
+  "objectifs": [
+    "Comprendre les principes de l'audit interne.",
+    "Apprendre à planifier et réaliser des audits internes efficaces.",
+    "Développer des compétences pour évaluer et améliorer les processus internes."
+  ],
+  "publicCible": "Auditeurs internes, responsables de l'audit, contrôleurs de gestion, responsables qualité.",
+  "prerequis": "Connaissances de base en gestion des risques et en contrôle interne.",
+  "programme": [
+    {
+      "titre": "Introduction à l'Audit Interne",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes et les objectifs de l'audit interne.",
+        "Cadre de Référence : Présentation des normes et des pratiques professionnelles de l'audit interne."
+      ]
+    },
+    {
+      "titre": "Planification de l'Audit Interne",
+      "contenu": [
+        "Définition du Périmètre d'Audit : Techniques pour définir le périmètre et les objectifs de l'audit.",
+        "Élaboration du Plan d'Audit : Stratégies pour élaborer un plan d'audit efficace."
+      ]
+    },
+    {
+      "titre": "Conduite de l'Audit Interne",
+      "contenu": [
+        "Collecte des Informations : Méthodes pour collecter les informations nécessaires à l'audit (entretiens, observations, analyses documentaires).",
+        "Évaluation des Processus Internes : Techniques pour évaluer l'efficacité des processus internes."
+      ]
+    },
+    {
+      "titre": "Rédaction du Rapport d'Audit",
+      "contenu": [
+        "Structure du Rapport : Techniques pour structurer et rédiger un rapport d'audit clair et complet.",
+        "Formulation des Recommandations : Stratégies pour formuler des recommandations d'amélioration."
+      ]
+    },
+    {
+      "titre": "Suivi des Recommandations",
+      "contenu": [
+        "Plan d'Action : Élaboration de plans d'action pour la mise en œuvre des recommandations.",
+        "Suivi et Évaluation : Techniques pour suivre l'implémentation des recommandations et évaluer leur efficacité."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Planification d'Audit : Exercices pratiques pour planifier des audits internes.",
+        "Simulations de Conduite d'Audit : Jeux de rôle pour pratiquer la conduite et l'évaluation des audits internes."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+{
+  "titreFormation": "Contrôle de Gestion",
+  "objectifs": [
+    "Comprendre les principes du contrôle de gestion.",
+    "Apprendre à utiliser les outils de contrôle de gestion pour améliorer la performance.",
+    "Développer des compétences pour analyser les écarts et optimiser les coûts."
+  ],
+  "publicCible": "Contrôleurs de gestion, comptables, gestionnaires financiers, responsables financiers.",
+  "prerequis": "Connaissances de base en comptabilité et en gestion financière.",
+  "programme": [
+    {
+      "titre": "Introduction au Contrôle de Gestion",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes fondamentaux du contrôle de gestion.",
+        "Rôle du Contrôle de Gestion : Définir le rôle et les missions du contrôle de gestion dans l'entreprise."
+      ]
+    },
+    {
+      "titre": "Outils de Contrôle de Gestion",
+      "contenu": [
+        "Budgétisation et Planification : Techniques pour établir et suivre les budgets.",
+        "Tableaux de Bord : Création et utilisation de tableaux de bord pour le suivi de la performance."
+      ]
+    },
+    {
+      "titre": "Analyse des Coûts et des Marges",
+      "contenu": [
+        "Analyse des Coûts : Techniques pour analyser et optimiser les coûts.",
+        "Analyse des Marges : Outils pour analyser les marges et améliorer la rentabilité."
+      ]
+    },
+    {
+      "titre": "Gestion des Écarts",
+      "contenu": [
+        "Identification des Écarts : Techniques pour identifier les écarts entre les prévisions et les réalisations.",
+        "Analyse et Correction des Écarts : Méthodes pour analyser les écarts et proposer des actions correctives."
+      ]
+    },
+    {
+      "titre": "Optimisation de la Performance",
+      "contenu": [
+        "Indicateurs de Performance : Définition et suivi des indicateurs de performance clés (KPI).",
+        "Amélioration Continue : Stratégies pour promouvoir l'amélioration continue de la performance."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Budgétisation : Exercices pratiques pour établir et suivre les budgets.",
+        "Simulations d'Analyse des Coûts : Jeux de rôle pour pratiquer l'analyse des coûts et des marges."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+{
+  "titreFormation": "Le Code des Marchés Publics",
+  "objectifs": [
+    "Comprendre les principes et les règles du code des marchés publics.",
+    "Apprendre à préparer et à gérer les appels d'offres publics.",
+    "Développer des compétences pour assurer la conformité et la transparence dans la gestion des marchés publics."
+  ],
+  "publicCible": "Responsables des marchés publics, juristes, acheteurs, gestionnaires de contrats.",
+  "prerequis": "Connaissances de base en gestion des contrats et en réglementation publique.",
+  "programme": [
+    {
+      "titre": "Introduction au Code des Marchés Publics",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes fondamentaux et les objectifs du code des marchés publics.",
+        "Cadre Réglementaire : Présentation des principales dispositions légales et réglementaires."
+      ]
+    },
+    {
+      "titre": "Préparation des Appels d'Offres",
+      "contenu": [
+        "Rédaction des Cahiers des Charges : Techniques pour rédiger des cahiers des charges conformes et complets.",
+        "Publication des Appels d'Offres : Stratégies pour publier les appels d'offres de manière efficace et transparente."
+      ]
+    },
+    {
+      "titre": "Gestion des Offres et Sélection des Fournisseurs",
+      "contenu": [
+        "Évaluation des Offres : Critères et méthodes pour évaluer les offres reçues.",
+        "Négociation et Attribution : Techniques pour négocier avec les soumissionnaires et attribuer les marchés."
+      ]
+    },
+    {
+      "titre": "Suivi de l'Exécution des Marchés",
+      "contenu": [
+        "Contrôle de l'Exécution : Outils pour suivre et contrôler l'exécution des marchés.",
+        "Gestion des Modifications : Stratégies pour gérer les modifications et les avenants aux contrats."
+      ]
+    },
+    {
+      "titre": "Conformité et Transparence",
+      "contenu": [
+        "Respect des Règles de Concurrence : Techniques pour garantir le respect des règles de concurrence et d'égalité de traitement.",
+        "Gestion des Litiges : Méthodes pour gérer les litiges et les réclamations liés aux marchés publics."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers de Rédaction d'Appels d'Offres : Exercices pratiques pour rédiger des cahiers des charges et des appels d'offres.",
+        "Simulations de Gestion des Marchés : Jeux de rôle pour pratiquer la gestion des appels d'offres et des marchés publics."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+{
+  "titreFormation": "Cahiers des Clauses Administratives Générales",
+  "objectifs": [
+    "Comprendre le contenu et l'importance des Cahiers des Clauses Administratives Générales (CCAG).",
+    "Apprendre à appliquer les CCAG dans la gestion des marchés publics.",
+    "Développer des compétences pour assurer la conformité des contrats avec les CCAG."
+  ],
+  "publicCible": "Responsables des marchés publics, juristes, acheteurs, gestionnaires de contrats.",
+  "prerequis": "Connaissances de base en gestion des marchés publics et en réglementation contractuelle.",
+  "programme": [
+    {
+      "titre": "Introduction aux CCAG",
+      "contenu": [
+        "Concepts de Base : Comprendre les principes et l'importance des CCAG dans les marchés publics.",
+        "Types de CCAG : Aperçu des différents types de CCAG (travaux, fournitures, services)."
+      ]
+    },
+    {
+      "titre": "Structure et Contenu des CCAG",
+      "contenu": [
+        "Clauses Administratives Générales : Explication des principales clauses administratives générales.",
+        "Clauses Spécifiques : Aperçu des clauses spécifiques pour chaque type de CCAG."
+      ]
+    },
+    {
+      "titre": "Application des CCAG dans les Marchés Publics",
+      "contenu": [
+        "Intégration des CCAG : Techniques pour intégrer les CCAG dans les contrats de marchés publics.",
+        "Conformité aux CCAG : Stratégies pour assurer la conformité des marchés avec les CCAG."
+      ]
+    },
+    {
+      "titre": "Gestion des Modifications Contractuelles",
+      "contenu": [
+        "Modifications et Avenants : Règles pour gérer les modifications et les avenants aux contrats sous CCAG.",
+        "Gestion des Réclamations : Techniques pour traiter les réclamations et les litiges liés aux CCAG."
+      ]
+    },
+    {
+      "titre": "Suivi de l'Exécution des Contrats",
+      "contenu": [
+        "Contrôle de l'Exécution : Outils pour suivre et contrôler l'exécution des contrats sous CCAG.",
+        "Évaluation des Performances : Méthodes pour évaluer la performance des fournisseurs et des prestataires."
+      ]
+    },
+    {
+      "titre": "Applications Pratiques",
+      "contenu": [
+        "Ateliers d'Analyse des CCAG : Exercices pratiques pour analyser et appliquer les CCAG.",
+        "Simulations de Gestion des CCAG : Jeux de rôle pour pratiquer la gestion des contrats sous CCAG."
+      ]
+    },
+    {
+      "titre": "Évaluation Finale",
+      "contenu": ""
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+}
