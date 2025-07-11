@@ -26,16 +26,25 @@
       }
     ]
   },
+
+
+
   "grh": {
     "id": "grh",
     "title": "GRH : Gestion des Ressources Humaines",
     "hasSubcategories": false
   },
+
+
+
   "comptabilite": {
     "id": "comptabilite",
-    "title": "Comptabilité / Finance / Juridique",
+    "title": "Communication et prise de parole",
     "hasSubcategories": false
   },
+
+
+
   "marketing": {
     "id": "marketing",
     "title": "Commercial / Marketing",
@@ -45,24 +54,40 @@
         "id": "connaissances_fondamentales",
         "title": "Acquisition des Connaissances Fondamentales"
       },
+
+
       {
         "id": "competences_strategiques",
         "title": "Développement des Compétences Stratégiques"
       },
+
+
       {
         "id": "techniques_operationnelles",
         "title": "Maîtrise des Techniques Opérationnelles"
       },
+
+
       {
         "id": "relation_client",
         "title": "Communication et Relation Client"
       },
+
+
       {
         "id": "outils_marketing",
         "title": "Mise en Pratique des Outils Marketing"
       }
     ]
   },
+
+
+
+
+
+
+
+
   "informatique": {
     "id": "informatique",
     "title": "INFORMATIQUE / TÉLÉCOMMUNICATION",
@@ -72,20 +97,46 @@
         "id": "bureautique",
         "title": "Bureautique"
       },
+
       {
         "id": "developpement_web",
         "title": "Développement Web"
       },
+
       {
         "id": "bases_donnees",
         "title": "Bases de Données"
       },
+
       {
         "id": "systemes_information",
         "title": "Développement Professionnel en Systèmes d’Information"
+      },
+
+      {
+        "id": "reseaux_télécommunications",
+        "title": "Réseaux et Télécommunications"
+      },
+
+
+      {
+        "id": "IA",
+        "title": "L'intelligence Artificielle IA à Votre Portée"
+      },
+
+      {
+        "id": "cybersécurité",
+        "title": "Cybersécurité et Sécurité de l'Information"
+      },
+      {
+        "id": "logiciels_professionnels",
+        "title": "Logiciels Professionnels"
       }
     ]
   },
+
+
+
   "qhse": {
     "id": "qhse",
     "title": "QHSE : QUALITÉ, HYGIÈNE, SÉCURITÉ ET ENVIRONNEMENT",
@@ -95,12 +146,40 @@
         "id": "management_qhse",
         "title": "Management QHSE"
       },
+
+
+      {
+        "id": "qualité",
+        "title": "Qualité"
+      },
+      
       {
         "id": "hygiene_alimentaire",
-        "title": "Hygiène alimentaire"
+        "title": "Hygiène et Sécurité Alimentaire"
+      },
+
+      {
+        "id": "santé_sécurité_travail",
+        "title": "QHSE - Santé et Sécurité au Travail"
+      },
+      {
+        "id": "secourisme",
+        "title": "Secourisme - Les premiers gestes qui sauvent"
+      },
+
+      {
+        "id": "environnement",
+        "title": "Environnement"
+      },
+  
+      {
+        "id": "sureté_interne",
+        "title": "Sureté Interne"
       }
     ]
   },
+
+  
   "langues": {
     "id": "langues",
     "title": "LES LANGUES À DES FINS SPÉCIFIQUES",

@@ -246,7 +246,9 @@ function showFormationDetails(formation) {
         <div class="programme-item">
           <h5>${module.titre}</h5>
           <ul class="programme-content">
-            ${module.contenu?.map(item => `<li>${item}</li>`).join("") || "<li>Aucun contenu détaillé</li>"}
+            ${Array.isArray(module.contenu)
+            ? module.contenu.map(item => `<li>${item}</li>`).join("")
+            : "<li>Aucun contenu détaillé</li>"}
           </ul>
         </div>
       `).join("") || "<p>Programme non disponible</p>"}
@@ -259,5 +261,29 @@ function goBack() {
   window.location.href = "pageEntreprise.html#Nos_formations";
 }
 </script>
+
+
+<script>
+  const formationsList = document.querySelector('.formations-list');
+
+  formationsList.addEventListener('wheel', function (e) {
+    const atTop = formationsList.scrollTop === 0;
+    const atBottom = formationsList.scrollHeight - formationsList.scrollTop === formationsList.clientHeight;
+
+    // If not at top or bottom → prevent body scroll
+    if ((e.deltaY < 0 && !atTop) || (e.deltaY > 0 && !atBottom)) {
+      e.stopPropagation();
+      e.preventDefault();
+      formationsList.scrollTop += e.deltaY;
+    }
+  }, { passive: false });
+</script>
+
+
+
+
+
+
+
 </body>
 </html>

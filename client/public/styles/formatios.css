@@ -12,31 +12,54 @@
       line-height: 1.6;
     }
     
-    /* Layout */
-    .container {
-      display: flex;
-      min-height: calc(100vh - 120px);
-    }
+
     
-    /* Formations List */
-    .formations-list {
-      width: 35%;
-      padding: 20px;
-      background: white;
-      box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-      overflow-y: auto;
-    }
-    
-    /* Details Panel */
-    .details-panel {
-      width: 65%;
-      padding: 30px;
-      background: #f9f9f9;
-      overflow-y: auto;
-    }
-    
-    header {
-      position: sticky;
+
+
+html, body {
+  height: 100%;
+  overflow: hidden; /* 🚫 Disable body scroll */
+}
+
+.container {
+  display: flex;
+  height: calc(100vh - 120px); /* Full height minus header */
+  overflow: hidden; /* Prevent inner scroll from leaking out */
+}
+
+/* Left Side - Formations List */
+.formations-list {
+  width: 35%;
+  padding: 20px;
+  background: white;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  overflow: hidden;       /* No scroll here */
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* Right Side - Scroll only here */
+.details-panel {
+  width: 65%;
+  padding: 30px;
+  background: #f9f9f9;
+  overflow-y: auto;       /* ✅ Enable scroll here only */
+  height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+header {
+  position: sticky;
   top: 0;
   z-index: 10;
    background: linear-gradient(to right, #f8fafc, #e2e8f0);
